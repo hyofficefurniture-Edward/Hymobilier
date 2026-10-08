@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-08",
+  "source": "Hymebel maintained company asset library",
+  "note": "Only selected image assets are reused; market claims and source product specifications are not imported.",
+  "shared": {
+    "hero.webp": "productos/hotel-lobby.webp",
+    "hotel-room.webp": "productos/hotel-room.webp",
+    "office.webp": "productos/office.webp",
+    "hotel-lobby.webp": "productos/hotel-lobby.webp",
+    "residential.webp": "productos/residential.webp",
+    "showroom.webp": "fabrica/showroom.webp",
+    "aerial.webp": "fabrica/aerial-campus.webp",
+    "cnc.webp": "fabrica/cnc.webp",
+    "assembly.webp": "fabrica/assembly.webp",
+    "quality.webp": "fabrica/quality-control.webp",
+    "packing.webp": "fabrica/export-packing.webp"
+  },
+  "products": {
+    "hotel-ca-03": "/images/hotel-ca-03.jpg",
+    "hotel-ca-09": "/images/hotel-ca-09.jpg",
+    "hotel-ca-08": "/images/hotel-ca-08.jpg",
+    "hotel-ca-07": "/images/hotel-ca-07.jpg",
+    "office-ca-11": "/images/office-ca-11.jpg",
+    "office-ca-05": "/images/office-ca-05.jpg",
+    "office-ca-09": "/images/office-ca-09.jpg",
+    "home-ca-06": "/images/home-ca-06.jpg",
+    "home-ca-07": "/images/home-ca-07.jpg",
+    "home-ca-05": "/images/home-ca-05.jpg"
+  }
+}
