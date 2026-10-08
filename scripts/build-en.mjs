@@ -1,3 +1,4 @@
+import {knowledge} from './knowledge.mjs';
 import {contentUpdated} from '../src/release.mjs';
 import fs from'node:fs';import path from'node:path';import{fileURLToPath}from'node:url';import{all,commercial,residential,products,services,guides,references,markets,routes}from'../src/content-en.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),out=path.join(root,'dist'),SITE='https://hymobilier.com',date=contentUpdated;const assets=JSON.parse(fs.readFileSync(path.join(root,'src/asset-map.json'),'utf8'));for(const p of products)p.image=assets[p.source];
@@ -26,4 +27,4 @@ const enDownloads={
 'confirmation-echantillons.csv':[['Item','Drawing version','Sample reference','Material','Finish','Decision','Reservations','Date','Responsible person'],['','','','','','','','','']]};
 for(const[name,rows]of Object.entries(enDownloads))fs.writeFileSync(path.join(out,'downloads/en-'+name),'\ufeff'+rows.map(row=>row.map(s=>'"'+s.replaceAll('"','""')+'"').join(';')).join('\r\n'));
 const sitemapFile=path.join(out,'sitemap.xml');let xml=fs.readFileSync(sitemapFile,'utf8');xml=xml.replace('</urlset>',written.map(s=>`<url><loc>${SITE+url(s)}</loc><lastmod>${date}</lastmod></url>`).join('')+'</urlset>');fs.writeFileSync(sitemapFile,xml);
-fs.writeFileSync(path.join(out,'en/knowledge.json'),JSON.stringify({version:date,language:'en',entries:all.map(p=>({id:p.slug,source:SITE+url(p.slug),title:p.title,summary:p.intro||p.description,sections:p.sections||[],visibility:'public'}))},null,2));console.log('Built '+written.length+' English equivalents with reciprocal hreflang and matching language switches.');
+fs.writeFileSync(path.join(out,'en/knowledge.json'),JSON.stringify(knowledge(all,{site:SITE,language:'en',updated:date}),null,2));console.log('Built '+written.length+' English equivalents with reciprocal hreflang and matching language switches.');

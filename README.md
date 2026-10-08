@@ -25,3 +25,5 @@ Deployment uses GitHub Pages. Configure the custom domain only after repository 
 Until the repository variable `PRODUCTION_DOMAIN` is set to `hymobilier.com`, CI prepares a non-indexable project-path preview so CSS, images and links work on the default GitHub Pages address. Set that variable only after configuring and verifying the production domain, then redeploy. The production build itself remains indexable; local checks apply to it before preview transformation.
 
 Content modification dates come from src/release.mjs and remain stable across deployment runs. Update them when public content changes. Article publication dates are omitted until actual publication is verified.
+
+Public knowledge schema v2 includes procurement checklists, product discussion questions and related source citations. See docs/KNOWLEDGE_HANDOFF.md for retrieval boundaries and future service acceptance cases.

@@ -1,3 +1,4 @@
+import {knowledge} from './knowledge.mjs';
 import {contentUpdated} from '../src/release.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -47,6 +48,6 @@ page('confidentialite','Confidentialité et données de votre demande','Informat
 page('404','Page introuvable','Cette page n’est pas disponible. Retrouvez les solutions et les collections HY Mobilier.',`<section class="page-heading"><span class="eyebrow">404</span><h1>Reprenons le bon chemin.</h1><p>Cette page n’est pas disponible.</p><a class="button" href="/">Retour à l’accueil ↗</a></section>`);fs.copyFileSync(path.join(out,'404/index.html'),path.join(out,'404.html'));
 fs.writeFileSync(path.join(out,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
 fs.writeFileSync(path.join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${written.filter(s=>s!=='404').map(s=>`<url><loc>${SITE+url(s)}</loc><lastmod>${date}</lastmod></url>`).join('')}</urlset>`);
-fs.writeFileSync(path.join(out,'knowledge.json'),JSON.stringify({version:date,language:'fr',organization:'HY Mobilier',entries:all.map(p=>({id:p.slug,source:SITE+url(p.slug),title:p.title,summary:p.intro||p.description,sections:p.sections||[],scope:p.category||p.slug.split('/')[0],updated:date,visibility:'public'}))},null,2));
+fs.writeFileSync(path.join(out,'knowledge.json'),JSON.stringify(knowledge(all,{site:SITE,language:'fr',updated:date}),null,2));
 console.log(`Built ${written.length-1} indexable pages plus 404; canonical ${SITE}`);
 await import('./build-en.mjs');
