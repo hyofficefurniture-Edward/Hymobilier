@@ -20,6 +20,11 @@ jobs:
           node-version: 22
       - run: npm run build
       - run: npm run check
+      - name: Prepare preview before the production domain is connected
+        if: vars.PRODUCTION_DOMAIN != 'hymobilier.com'
+        run: node scripts/prepare-preview.mjs
+        env:
+          PREVIEW_BASE_PATH: /${{ github.event.repository.name }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
