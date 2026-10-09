@@ -27,3 +27,5 @@ Until the repository variable `PRODUCTION_DOMAIN` is set to `hymobilier.com`, CI
 Content modification dates come from src/release.mjs and remain stable across deployment runs. Update them when public content changes. Article publication dates are omitted until actual publication is verified.
 
 Public knowledge schema v2 includes procurement checklists, product discussion questions and related source citations. See docs/KNOWLEDGE_HANDOFF.md for retrieval boundaries and future service acceptance cases.
+
+After deployment, run node scripts/verify-release.mjs --url=https://hymobilier.com/ to check 84 routes, canonical/language metadata, production noindex and robots blockers, public resources, inquiry controls and true 404. The report does not verify actual mail delivery or search-engine indexing.
