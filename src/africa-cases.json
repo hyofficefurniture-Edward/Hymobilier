@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hos-014",
+    "name": "Lemaiyan Suites Naivasha",
+    "country": "Kenya",
+    "industry": "hospitality",
+    "image": null
+  },
+  {
+    "id": "hos-017",
+    "name": "Robyson Residency Kinshasa",
+    "country": "DR Congo",
+    "industry": "hospitality",
+    "image": null
+  },
+  {
+    "id": "hos-018",
+    "name": "TOA Hotel & Spa Zanzibar",
+    "country": "Tanzania",
+    "industry": "hospitality",
+    "image": null
+  },
+  {
+    "id": "off-012",
+    "name": "Presidential Palace of DR Congo",
+    "country": "DR Congo",
+    "industry": "office",
+    "image": "/images/cases/proyecto-palacio-presidencial-congo.webp"
+  },
+  {
+    "id": "edu-004",
+    "name": "Charterhouse Lagos",
+    "country": "Nigeria",
+    "industry": "education",
+    "image": "/images/cases/charterhouse-lagos.webp"
+  }
+]

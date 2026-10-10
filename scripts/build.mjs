@@ -53,3 +53,5 @@ fs.writeFileSync(path.join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF
 fs.writeFileSync(path.join(out,'knowledge.json'),JSON.stringify(knowledge(all,{site:SITE,language:'fr',updated:date}),null,2));
 console.log(`Built ${written.length-1} indexable pages plus 404; canonical ${SITE}`);
 await import('./build-en.mjs');
+
+await import('./build-expansion.mjs');

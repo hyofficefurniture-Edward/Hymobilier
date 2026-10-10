@@ -37,7 +37,7 @@ for(const route of ['/styles.css','/site.js','/sitemap.xml','/robots.txt','/know
     const {response,text}=await get(route);
     if(response.status!==200)throw Error(route+' returned '+response.status);
     if(production&&route==='/robots.txt'&&/Disallow:\s*\/\s*$/mi.test(text))throw Error('Production robots blocks all crawling');
-    if(route.endsWith('knowledge.json')&&JSON.parse(text).entries.length!==30)throw Error(route+' unexpected public knowledge count');
+    if(route.endsWith('knowledge.json')&&JSON.parse(text).entries.length!==JSON.parse(fs.readFileSync(path.join(root,'dist',route.replace(/^\//,'')),'utf8')).entries.length)throw Error(route+' unexpected public knowledge count');
   }catch(error){errors.push(String(error));}
 }
 try{const {response}=await get('/release-check-missing-page/');if(response.status!==404)errors.push('Missing page must return HTTP 404');}catch(error){errors.push(String(error));}
