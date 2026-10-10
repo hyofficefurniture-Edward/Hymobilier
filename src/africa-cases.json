@@ -18,7 +18,30 @@
     "name": "TOA Hotel & Spa Zanzibar",
     "country": "Tanzania",
     "industry": "hospitality",
-    "image": null
+    "image": "/images/case-library/hos-018-overview.webp",
+    "gallery": [
+      {
+        "image": "/images/case-library/hos-018-overview.webp",
+        "label": "overview"
+      },
+      {
+        "image": "/images/case-library/hos-018-lobby.webp",
+        "label": "lobby"
+      },
+      {
+        "image": "/images/case-library/hos-018-guestroom.webp",
+        "label": "guestroom"
+      },
+      {
+        "image": "/images/case-library/hos-018-restaurant.webp",
+        "label": "restaurant"
+      },
+      {
+        "image": "/images/case-library/hos-018-pool.webp",
+        "label": "pool"
+      }
+    ],
+    "sourceKind": "project-pdf"
   },
   {
     "id": "off-012",

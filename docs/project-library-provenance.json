@@ -274,5 +274,34 @@
     "geographyCorrection": "United Kingdom, Northern Ireland",
     "source": "https://theebringtonhotel.com/rooms/",
     "note": "Official hotel address corrects old registry country label."
+  },
+  {
+    "id": "HOS-018",
+    "file": "C:\\Users\\admin\\Documents\\WXWork\\1688857394628405\\WeDrive\\HONGYE SHENGDA\\项目案例英语版（PDF)\\酒店\\TOA Hotel & Spa Zanzibar.pdf",
+    "page": 1,
+    "publicLevel": "L3",
+    "sourceHash": "d6b830fcb0d4fa811dc28fa863fe2e04012ea6c24b46ae22b41725d0d6fec682",
+    "images": [
+      {
+        "image": "/images/case-library/hos-018-overview.webp",
+        "label": "overview"
+      },
+      {
+        "image": "/images/case-library/hos-018-lobby.webp",
+        "label": "lobby"
+      },
+      {
+        "image": "/images/case-library/hos-018-guestroom.webp",
+        "label": "guestroom"
+      },
+      {
+        "image": "/images/case-library/hos-018-restaurant.webp",
+        "label": "restaurant"
+      },
+      {
+        "image": "/images/case-library/hos-018-pool.webp",
+        "label": "pool"
+      }
+    ]
   }
 ]
