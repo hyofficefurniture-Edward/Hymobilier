@@ -251,192 +251,332 @@
     {
       "id": "collections/hotel-guestroom-set",
       "source": "https://hymobilier.com/en/collections/hotel-guestroom-set/",
-      "title": "Hotel guestroom furniture set",
-      "summary": "Coordinate beds, headboards, desks and storage with the room type.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Room count and set composition",
-        "Bed, desk and storage dimensions",
-        "Finishes and equipment interfaces"
+      "title": "Bespoke Hotel Furniture & Luxury Bedroom Furniture",
+      "summary": "Bespoke Hotel Furniture & Luxury Bedroom Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Bespoke Hotel Furniture & Luxury Bedroom Furniture is part of the group selection for hotels and hospitality. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "hotel",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
       "productReference": "hotel-ca-03",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/"
     },
     {
       "id": "collections/buffet-storage",
       "source": "https://hymobilier.com/en/collections/buffet-storage/",
-      "title": "Buffet and storage furniture",
-      "summary": "A storage selection for dining and service areas.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Useful storage capacity",
-        "Dimensions and associated equipment",
-        "Surface maintenance and access"
+      "title": "Commercial Sideboards Display Tops Hotel Buffet & Bar Console",
+      "summary": "Commercial Sideboards Display Tops Hotel Buffet & Bar Console: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial Sideboards Display Tops Hotel Buffet & Bar Console is part of the group selection for hotels and hospitality, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "hotel",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
       "productReference": "hotel-ca-09",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-sideboards-display-tops-hotel-buffet-bar-console/"
     },
     {
       "id": "collections/restaurant-table",
       "source": "https://hymobilier.com/en/collections/restaurant-table/",
-      "title": "Restaurant and dining table",
-      "summary": "Select table formats in relation to capacity and circulation.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Seat count and tabletop shape",
-        "Desired dimensions and height",
-        "Tabletop finish and seating compatibility"
+      "title": "Commercial Restaurant Dining Tables Wood Round & Square Hospitality Tables",
+      "summary": "Commercial Restaurant Dining Tables Wood Round & Square Hospitality Tables: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial Restaurant Dining Tables Wood Round & Square Hospitality Tables is part of the group selection for hotels and hospitality, offices and workplaces, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "restaurant",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
       "productReference": "hotel-ca-08",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/"
     },
     {
       "id": "collections/bar-seating",
       "source": "https://hymobilier.com/en/collections/bar-seating/",
-      "title": "Bar and high seating",
-      "summary": "Review seat height against the actual counter and intended use.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Counter and seat height",
-        "Footrest and circulation",
-        "Upholstery and maintenance"
+      "title": "Commercial High-Back Barstools for Upscale Hotel Lounges & Bars",
+      "summary": "Commercial High-Back Barstools for Upscale Hotel Lounges & Bars: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial High-Back Barstools for Upscale Hotel Lounges & Bars is part of the group selection for hotels and hospitality, offices and workplaces, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "restaurant",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
       "productReference": "hotel-ca-07",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/"
     },
     {
       "id": "collections/workstation",
       "source": "https://hymobilier.com/en/collections/workstation/",
-      "title": "Workstation and modular layout",
-      "summary": "Review workstations against your workplace layout.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Workstation count and dimensions",
-        "Cable routes and separation",
-        "Storage and future configuration"
+      "title": "JIANGNAN Bambo Series Four bits",
+      "summary": "JIANGNAN Bambo Series Four bits: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "JIANGNAN Bambo Series Four bits is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
       "productReference": "office-ca-11",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html"
     },
     {
       "id": "collections/meeting-table",
       "source": "https://hymobilier.com/en/collections/meeting-table/",
-      "title": "Meeting-room table",
-      "summary": "Configure the table for room capacity, access and equipment.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Room dimensions and capacity",
-        "Conferencing and connections",
-        "Finish and maintenance access"
+      "title": "10 Person Conference Table for Office Meeting Room",
+      "summary": "10 Person Conference Table for Office Meeting Room: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "10 Person Conference Table for Office Meeting Room is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
       "productReference": "office-ca-05",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-conference-table.html"
     },
     {
       "id": "collections/reception-desk",
       "source": "https://hymobilier.com/en/collections/reception-desk/",
-      "title": "Reception desk",
-      "summary": "Review reception furniture around staff tasks and visitor movement.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Staff zone and equipment",
-        "Dimensions and layout",
-        "Access and project accessibility requirements"
+      "title": "Office Reception Desk Counter for Corporate Lobby Areas",
+      "summary": "Office Reception Desk Counter for Corporate Lobby Areas: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Office Reception Desk Counter for Corporate Lobby Areas is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
       "productReference": "office-ca-09",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html"
     },
     {
       "id": "collections/living-room-furniture",
       "source": "https://hymobilier.com/en/collections/living-room-furniture/",
-      "title": "Residential living-room furniture",
-      "summary": "Coordinate seating and tables around your living-room plan.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Plan, dimensions and circulation",
-        "Fabric and colour references",
-        "Set composition"
+      "title": "Premium Living Room Furniture for Luxury Villa Projects",
+      "summary": "Premium Living Room Furniture for Luxury Villa Projects: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Premium Living Room Furniture for Luxury Villa Projects is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
       "productReference": "home-ca-06",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/premium-living-room-furniture-for-luxury-villa-projects/"
     },
     {
       "id": "collections/bedroom-furniture",
       "source": "https://hymobilier.com/en/collections/bedroom-furniture/",
-      "title": "Bedroom and private-space furniture",
-      "summary": "Organise selections by room, dimensions and material palette.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Rooms to furnish",
-        "Dimensions and existing furniture",
-        "Materials and desired finishes"
+      "title": "Residential Furniture Bedroom, Living & Dining Room Sets",
+      "summary": "Residential Furniture Bedroom, Living & Dining Room Sets: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Residential Furniture Bedroom, Living & Dining Room Sets is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
       "productReference": "home-ca-07",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/residential-furniture-bedroom-living-dining-room-sets/"
     },
     {
       "id": "collections/residential-selection",
       "source": "https://hymobilier.com/en/collections/residential-selection/",
-      "title": "Furniture selection for private interiors",
-      "summary": "Coordinate residential furniture using a room-by-room brief.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Measured plans and composition",
-        "Style references and finishes",
-        "Access and supply scope"
+      "title": "Modern Whole-house Custom Furniture Home Interior Design",
+      "summary": "Modern Whole-house Custom Furniture Home Interior Design: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Modern Whole-house Custom Furniture Home Interior Design is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
       "productReference": "home-ca-05",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/modern-whole-house-custom-furniture-home-interior-design/"
     },
     {
       "id": "services/customisation",
@@ -924,6 +1064,1800 @@
       ],
       "updated": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "collections/hotel-ca-01",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-01/",
+      "title": "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels",
+      "summary": "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels is part of the group selection for hotels and hospitality, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-01",
+      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/"
+    },
+    {
+      "id": "collections/hotel-ca-02",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-02/",
+      "title": "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom",
+      "summary": "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom is part of the group selection for hotels and hospitality, offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-02",
+      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/"
+    },
+    {
+      "id": "collections/hotel-ca-04",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-04/",
+      "title": "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel",
+      "summary": "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel is part of the group selection for hotels and hospitality, offices and workplaces, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-04",
+      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/"
+    },
+    {
+      "id": "collections/hotel-ca-05",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-05/",
+      "title": "Commercial Booth Seating High-Back Restaurant & Hotel Dining",
+      "summary": "Commercial Booth Seating High-Back Restaurant & Hotel Dining: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial Booth Seating High-Back Restaurant & Hotel Dining is part of the group selection for hotels and hospitality, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-05",
+      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
+    },
+    {
+      "id": "collections/hotel-ca-06",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-06/",
+      "title": "Commercial Dining Booth Seating Hospitality Space Solutions",
+      "summary": "Commercial Dining Booth Seating Hospitality Space Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Commercial Dining Booth Seating Hospitality Space Solutions is part of the group selection for hotels and hospitality. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-06",
+      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
+    },
+    {
+      "id": "collections/hotel-ca-10",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-10/",
+      "title": "Comprehensive FF&E Solutions",
+      "summary": "Comprehensive FF&E Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Comprehensive FF&E Solutions is part of the group selection for hotels and hospitality. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-10",
+      "originalSource": "https://hysdfurniture.com/product/comprehensive-ffe-solutions-hospitality-commercial-projects/"
+    },
+    {
+      "id": "collections/hotel-ca-11",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-11/",
+      "title": "Folding Banquet Tables Hotel Event Hall Tables",
+      "summary": "Folding Banquet Tables Hotel Event Hall Tables: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Folding Banquet Tables Hotel Event Hall Tables is part of the group selection for hotels and hospitality, offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-11",
+      "originalSource": "https://hysdfurniture.com/product/folding-banquet-tables-hotel-event-hall-tables/"
+    },
+    {
+      "id": "collections/hotel-ca-12",
+      "source": "https://hymobilier.com/en/collections/hotel-ca-12/",
+      "title": "High-Back Swivel Conference Room Chairs Hotel Boardroom Seating",
+      "summary": "High-Back Swivel Conference Room Chairs Hotel Boardroom Seating: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "High-Back Swivel Conference Room Chairs Hotel Boardroom Seating is part of the group selection for hotels and hospitality, offices and workplaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room type or public area",
+        "Circulation, dimensions and access",
+        "Maintenance, finishes and equipment"
+      ],
+      "productReference": "hotel-ca-12",
+      "originalSource": "https://hysdfurniture.com/product/high-back-swivel-conference-room-chairs-hotel-boardroom-seating/"
+    },
+    {
+      "id": "collections/home-ca-01",
+      "source": "https://hymobilier.com/en/collections/home-ca-01/",
+      "title": "Bespoke Villa Furniture Solutions",
+      "summary": "Bespoke Villa Furniture Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Bespoke Villa Furniture Solutions is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-01",
+      "originalSource": "https://hysdfurniture.com/product/bespoke-villa-furniture-solutions-project-sourcing-factory/"
+    },
+    {
+      "id": "collections/home-ca-02",
+      "source": "https://hymobilier.com/en/collections/home-ca-02/",
+      "title": "Custom Bathroom Furniture: Exclusive Villa Projects",
+      "summary": "Custom Bathroom Furniture: Exclusive Villa Projects: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Custom Bathroom Furniture: Exclusive Villa Projects is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-02",
+      "originalSource": "https://hysdfurniture.com/product/custom-bathroom-furniture-exclusive-villa-projects/"
+    },
+    {
+      "id": "collections/home-ca-03",
+      "source": "https://hymobilier.com/en/collections/home-ca-03/",
+      "title": "Luxury Furniture Villa Custom Personalization Whole Home Furniture",
+      "summary": "Luxury Furniture Villa Custom Personalization Whole Home Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Luxury Furniture Villa Custom Personalization Whole Home Furniture is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-03",
+      "originalSource": "https://hysdfurniture.com/product/luxury-furniture-villa-custom-personalization-whole-home-furniture/"
+    },
+    {
+      "id": "collections/home-ca-04",
+      "source": "https://hymobilier.com/en/collections/home-ca-04/",
+      "title": "Modern Villa Furniture Sets",
+      "summary": "Modern Villa Furniture Sets: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Modern Villa Furniture Sets is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-04",
+      "originalSource": "https://hysdfurniture.com/product/modern-villa-furniture-sets-complete-home-outdoor-solutions/"
+    },
+    {
+      "id": "collections/home-ca-08",
+      "source": "https://hymobilier.com/en/collections/home-ca-08/",
+      "title": "Turnkey House Furniture Villa Lounge Suite for Interior Design",
+      "summary": "Turnkey House Furniture Villa Lounge Suite for Interior Design: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Turnkey House Furniture Villa Lounge Suite for Interior Design is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-08",
+      "originalSource": "https://hysdfurniture.com/product/turnkey-house-furniture-villa-lounge-suite-for-interior-design/"
+    },
+    {
+      "id": "collections/home-ca-09",
+      "source": "https://hymobilier.com/en/collections/home-ca-09/",
+      "title": "Villa Furniture Luxury Whole House Bespoke Solutions",
+      "summary": "Villa Furniture Luxury Whole House Bespoke Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Villa Furniture Luxury Whole House Bespoke Solutions is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-09",
+      "originalSource": "https://hysdfurniture.com/product/villa-furniture-luxury-whole-house-bespoke-solutions/"
+    },
+    {
+      "id": "collections/home-ca-10",
+      "source": "https://hymobilier.com/en/collections/home-ca-10/",
+      "title": "High-End Penthouse Furniture Bespoke Luxury FF&E Solutions",
+      "summary": "High-End Penthouse Furniture Bespoke Luxury FF&E Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "High-End Penthouse Furniture Bespoke Luxury FF&E Solutions is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-10",
+      "originalSource": "https://hysdfurniture.com/product/high-end-penthouse-furniture-bespoke-luxury-ffe-solutions/"
+    },
+    {
+      "id": "collections/home-ca-11",
+      "source": "https://hymobilier.com/en/collections/home-ca-11/",
+      "title": "Kitchen Island FF&E Solutions for Luxury Residential",
+      "summary": "Kitchen Island FF&E Solutions for Luxury Residential: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Kitchen Island FF&E Solutions for Luxury Residential is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-11",
+      "originalSource": "https://hysdfurniture.com/product/kitchen-island-ffe-solutions-for-luxury-residential/"
+    },
+    {
+      "id": "collections/home-ca-12",
+      "source": "https://hymobilier.com/en/collections/home-ca-12/",
+      "title": "Residential Furniture Luxury Solutions for Bulk Projects",
+      "summary": "Residential Furniture Luxury Solutions for Bulk Projects: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Residential Furniture Luxury Solutions for Bulk Projects is part of the group selection for villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room proportions and retained furniture. Material palette and style references. Access, interfaces and dimensions to confirm. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room proportions and retained furniture",
+        "Material palette and style references",
+        "Access, interfaces and dimensions to confirm"
+      ],
+      "productReference": "home-ca-12",
+      "originalSource": "https://hysdfurniture.com/product/residential-furniture-premium-luxury-solutions-for-bulk-projects/"
+    },
+    {
+      "id": "collections/med-ca-01",
+      "source": "https://hymobilier.com/en/collections/med-ca-01/",
+      "title": "Hospital Plastic ABS Bedside Cabinet with Drawers",
+      "summary": "Hospital Plastic ABS Bedside Cabinet with Drawers: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Hospital Plastic ABS Bedside Cabinet with Drawers is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-01",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html"
+    },
+    {
+      "id": "collections/med-ca-02",
+      "source": "https://hymobilier.com/en/collections/med-ca-02/",
+      "title": "Lab Bench with Sink And Drawers for Hospital Lab",
+      "summary": "Lab Bench with Sink And Drawers for Hospital Lab: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Lab Bench with Sink And Drawers for Hospital Lab is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-02",
+      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html"
+    },
+    {
+      "id": "collections/med-ca-03",
+      "source": "https://hymobilier.com/en/collections/med-ca-03/",
+      "title": "Hospital Adjustable Healthcare Recovery Couch",
+      "summary": "Hospital Adjustable Healthcare Recovery Couch: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Hospital Adjustable Healthcare Recovery Couch is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-03",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-adjustable-healthcare-recovery-couch.html"
+    },
+    {
+      "id": "collections/med-ca-04",
+      "source": "https://hymobilier.com/en/collections/med-ca-04/",
+      "title": "Hydraulic Medical Treatment Tables for Examination Room",
+      "summary": "Hydraulic Medical Treatment Tables for Examination Room: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Hydraulic Medical Treatment Tables for Examination Room is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-04",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hydraulic-medical-treatment-table.html"
+    },
+    {
+      "id": "collections/med-ca-05",
+      "source": "https://hymobilier.com/en/collections/med-ca-05/",
+      "title": "Adjustable Gynecological Examination Reclining Table for Sale",
+      "summary": "Adjustable Gynecological Examination Reclining Table for Sale: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Adjustable Gynecological Examination Reclining Table for Sale is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-05",
+      "originalSource": "https://www.hyhealthcarefurniture.com/adjustable-gynecological-examination-reclining-table.html"
+    },
+    {
+      "id": "collections/med-ca-06",
+      "source": "https://hymobilier.com/en/collections/med-ca-06/",
+      "title": "Recovery Injection Chair for Medical Treatment",
+      "summary": "Recovery Injection Chair for Medical Treatment: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Recovery Injection Chair for Medical Treatment is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-06",
+      "originalSource": "https://www.hyhealthcarefurniture.com/recovery-injection-chair-for-medical-treatment.html"
+    },
+    {
+      "id": "collections/med-ca-07",
+      "source": "https://hymobilier.com/en/collections/med-ca-07/",
+      "title": "3 Seater Waiting Room Benches Seating For Sale",
+      "summary": "3 Seater Waiting Room Benches Seating For Sale: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "3 Seater Waiting Room Benches Seating For Sale is part of the group selection for healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-07",
+      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html"
+    },
+    {
+      "id": "collections/med-ca-08",
+      "source": "https://hymobilier.com/en/collections/med-ca-08/",
+      "title": "Customised Commercial Boutique Corner Nurse Station Modern White And Brown Curved Reception Desk with Counter",
+      "summary": "Customised Commercial Boutique Corner Nurse Station Modern White And Brown Curved Reception Desk with Counter: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Customised Commercial Boutique Corner Nurse Station Modern White And Brown Curved Reception Desk with Counter is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-08",
+      "originalSource": "https://www.hyhealthcarefurniture.com/Customised-Commercial-Boutique-Corner-Nurse-Station-Modern-White-And-Brown-Curved-Reception-Desk-with-Counter-pd598421798.html"
+    },
+    {
+      "id": "collections/med-ca-09",
+      "source": "https://hymobilier.com/en/collections/med-ca-09/",
+      "title": "Hospital 3 Door Wardrobe Closet for Medical Office",
+      "summary": "Hospital 3 Door Wardrobe Closet for Medical Office: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Hospital 3 Door Wardrobe Closet for Medical Office is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-09",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-3-door-wardrobe-closet-for-medical-office.html"
+    },
+    {
+      "id": "collections/med-ca-10",
+      "source": "https://hymobilier.com/en/collections/med-ca-10/",
+      "title": "Hospital Stainless Steel Medication Storage Cabinets for Sale",
+      "summary": "Hospital Stainless Steel Medication Storage Cabinets for Sale: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Hospital Stainless Steel Medication Storage Cabinets for Sale is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-10",
+      "originalSource": "https://www.hyhealthcarefurniture.com/stainless-steel-medical-storage-cabinet.html"
+    },
+    {
+      "id": "collections/med-ca-11",
+      "source": "https://hymobilier.com/en/collections/med-ca-11/",
+      "title": "Medical Cabinets with Sink for Doctors Exam Room",
+      "summary": "Medical Cabinets with Sink for Doctors Exam Room: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Medical Cabinets with Sink for Doctors Exam Room is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-11",
+      "originalSource": "https://www.hyhealthcarefurniture.com/medical-cabinets-with-sink-for-examination.html"
+    },
+    {
+      "id": "collections/med-ca-12",
+      "source": "https://hymobilier.com/en/collections/med-ca-12/",
+      "title": "Medical Treatment Carts for Hospital",
+      "summary": "Medical Treatment Carts for Hospital: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Medical Treatment Carts for Hospital is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Room function and user roles",
+        "Cleaning, access and storage",
+        "Documents and requirements for the selected model"
+      ],
+      "productReference": "med-ca-12",
+      "originalSource": "https://www.hyhealthcarefurniture.com/medical-treatment-carts-for-hospital.html"
+    },
+    {
+      "id": "collections/office-ca-01",
+      "source": "https://hymobilier.com/en/collections/office-ca-01/",
+      "title": "Luxury Modern Office L Shape Executive Desk",
+      "summary": "Luxury Modern Office L Shape Executive Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Luxury Modern Office L Shape Executive Desk is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-01",
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
+    },
+    {
+      "id": "collections/office-ca-02",
+      "source": "https://hymobilier.com/en/collections/office-ca-02/",
+      "title": "Luxury Modern Wooden Office Executive Desk with Storage",
+      "summary": "Luxury Modern Wooden Office Executive Desk with Storage: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Luxury Modern Wooden Office Executive Desk with Storage is part of the group selection for offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-02",
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
+    },
+    {
+      "id": "collections/office-ca-03",
+      "source": "https://hymobilier.com/en/collections/office-ca-03/",
+      "title": "Luxury Modern Leather Top Executive Office Desk",
+      "summary": "Luxury Modern Leather Top Executive Office Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Luxury Modern Leather Top Executive Office Desk is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-03",
+      "originalSource": "https://www.hyofficefurniture.com/pagani.html"
+    },
+    {
+      "id": "collections/office-ca-04",
+      "source": "https://hymobilier.com/en/collections/office-ca-04/",
+      "title": "Executive Desk with Leather Inlay",
+      "summary": "Executive Desk with Leather Inlay: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Executive Desk with Leather Inlay is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-04",
+      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
+    },
+    {
+      "id": "collections/office-ca-06",
+      "source": "https://hymobilier.com/en/collections/office-ca-06/",
+      "title": "12 Person Seater Conference Table for Meeting Room",
+      "summary": "12 Person Seater Conference Table for Meeting Room: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "12 Person Seater Conference Table for Meeting Room is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-06",
+      "originalSource": "https://www.hyofficefurniture.com/muster-conference-table.html"
+    },
+    {
+      "id": "collections/office-ca-07",
+      "source": "https://hymobilier.com/en/collections/office-ca-07/",
+      "title": "JUEDU BUGATTI Series Meeting Table",
+      "summary": "JUEDU BUGATTI Series Meeting Table: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "JUEDU BUGATTI Series Meeting Table is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-07",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-BUGATTI-Series-Meeting-Table-W4200-D1600-H750-mm-W3600-D1600-H750-mm-pd46938461.html"
+    },
+    {
+      "id": "collections/office-ca-08",
+      "source": "https://hymobilier.com/en/collections/office-ca-08/",
+      "title": "JUEDU CONFERENCE Series Conference Tables",
+      "summary": "JUEDU CONFERENCE Series Conference Tables: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "JUEDU CONFERENCE Series Conference Tables is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-08",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-CONFERENCE-Series-Conference-Tables-W3800-D1400-H760-mm-s-pd42828461.html"
+    },
+    {
+      "id": "collections/office-ca-10",
+      "source": "https://hymobilier.com/en/collections/office-ca-10/",
+      "title": "Luxury Office Furniture Front Desk Reception Desk for Business",
+      "summary": "Luxury Office Furniture Front Desk Reception Desk for Business: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Luxury Office Furniture Front Desk Reception Desk for Business is part of the group selection for hotels and hospitality, offices and workplaces, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-10",
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
+    },
+    {
+      "id": "collections/office-ca-12",
+      "source": "https://hymobilier.com/en/collections/office-ca-12/",
+      "title": "JUEDU MAGELL Filing Cabinet Bookshelf",
+      "summary": "JUEDU MAGELL Filing Cabinet Bookshelf: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "JUEDU MAGELL Filing Cabinet Bookshelf is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "Headcount, layout and configuration",
+        "Storage and cable interfaces",
+        "Sizes, finishes and maintenance access"
+      ],
+      "productReference": "office-ca-12",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
+    },
+    {
+      "id": "collections/edu-ca-01",
+      "source": "https://hymobilier.com/en/collections/edu-ca-01/",
+      "title": "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture",
+      "summary": "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-01",
+      "originalSource": "https://hyeducationfurniture.com/University-Student-Desks-And-Chairs-Modern-Wood-Finish-Tiered-Lecture-Hall-Furniture-pd121400338.html"
+    },
+    {
+      "id": "collections/edu-ca-02",
+      "source": "https://hymobilier.com/en/collections/edu-ca-02/",
+      "title": "Teacher Desk Wooden Podium University Lecture Hall Furniture",
+      "summary": "Teacher Desk Wooden Podium University Lecture Hall Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Teacher Desk Wooden Podium University Lecture Hall Furniture is part of the group selection for schools, universities and libraries, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-02",
+      "originalSource": "https://hyeducationfurniture.com/Teacher-Desk-Wooden-Podium-University-Lecture-Hall-Furniture-pd155889238.html"
+    },
+    {
+      "id": "collections/edu-ca-03",
+      "source": "https://hymobilier.com/en/collections/edu-ca-03/",
+      "title": "Library Shelving Open-Concept Bookcase Storage Function for Higher Education Spaces",
+      "summary": "Library Shelving Open-Concept Bookcase Storage Function for Higher Education Spaces: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Library Shelving Open-Concept Bookcase Storage Function for Higher Education Spaces is part of the group selection for schools, universities and libraries, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-03",
+      "originalSource": "https://hyeducationfurniture.com/Library-Shelving-Open-Concept-Bookcase-Storage-Function-for-Higher-Education-Spaces-pd151189238.html"
+    },
+    {
+      "id": "collections/edu-ca-04",
+      "source": "https://hymobilier.com/en/collections/edu-ca-04/",
+      "title": "Bunk Bed Dormitory Educational School Furniture",
+      "summary": "Bunk Bed Dormitory Educational School Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Bunk Bed Dormitory Educational School Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-04",
+      "originalSource": "https://hyeducationfurniture.com/Bunk-Bed-Dormitory-Educational-School-Furniture-pd535326838.html"
+    },
+    {
+      "id": "collections/edu-ca-05",
+      "source": "https://hymobilier.com/en/collections/edu-ca-05/",
+      "title": "Student Desk And Chair Primary Secondary School Classroom Furniture Set",
+      "summary": "Student Desk And Chair Primary Secondary School Classroom Furniture Set: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Student Desk And Chair Primary Secondary School Classroom Furniture Set is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-05",
+      "originalSource": "https://hyeducationfurniture.com/Student-Desk-And-Chair-Primary-Secondary-School-Classroom-Furniture-Set-pd584791838.html"
+    },
+    {
+      "id": "collections/edu-ca-06",
+      "source": "https://hymobilier.com/en/collections/edu-ca-06/",
+      "title": "Lecture Hall Desk Educational Student University College Classroom Desk",
+      "summary": "Lecture Hall Desk Educational Student University College Classroom Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Lecture Hall Desk Educational Student University College Classroom Desk is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-06",
+      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
+    },
+    {
+      "id": "collections/edu-ca-07",
+      "source": "https://hymobilier.com/en/collections/edu-ca-07/",
+      "title": "Library Bookshelf Multi-functional School Library Design Reading Furniture",
+      "summary": "Library Bookshelf Multi-functional School Library Design Reading Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Library Bookshelf Multi-functional School Library Design Reading Furniture is part of the group selection for schools, universities and libraries, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-07",
+      "originalSource": "https://hyeducationfurniture.com/Library-Bookshelf-Multi-functional-School-Library-Design-Reading-Furniture-pd504511838.html"
+    },
+    {
+      "id": "collections/edu-ca-08",
+      "source": "https://hymobilier.com/en/collections/edu-ca-08/",
+      "title": "Dormitory Bunk Bed Student School Furniture",
+      "summary": "Dormitory Bunk Bed Student School Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Dormitory Bunk Bed Student School Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-08",
+      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
+    },
+    {
+      "id": "collections/edu-ca-09",
+      "source": "https://hymobilier.com/en/collections/edu-ca-09/",
+      "title": "Science Lab Workstation for K-12 Schools",
+      "summary": "Science Lab Workstation for K-12 Schools: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Science Lab Workstation for K-12 Schools is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-09",
+      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
+    },
+    {
+      "id": "collections/edu-ca-10",
+      "source": "https://hymobilier.com/en/collections/edu-ca-10/",
+      "title": "Central Science Lab Island for Education",
+      "summary": "Central Science Lab Island for Education: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Central Science Lab Island for Education is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-10",
+      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
+    },
+    {
+      "id": "collections/edu-ca-11",
+      "source": "https://hymobilier.com/en/collections/edu-ca-11/",
+      "title": "Classroom Desk And Chair Student Furniture",
+      "summary": "Classroom Desk And Chair Student Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Classroom Desk And Chair Student Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-11",
+      "originalSource": "https://hyeducationfurniture.com/Classroom-Desk-And-Chair-Student-Furniture-pd521385838.html"
+    },
+    {
+      "id": "collections/edu-ca-12",
+      "source": "https://hymobilier.com/en/collections/edu-ca-12/",
+      "title": "Double Student Desk for Classroom Furniture",
+      "summary": "Double Student Desk for Classroom Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Selection connected with your space",
+          "Double Student Desk for Classroom Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+        ],
+        [
+          "Review points for this reference",
+          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
+        ],
+        [
+          "Materials, documents and approval",
+          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+        ],
+        [
+          "Preparing the request and receiving",
+          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+        ]
+      ],
+      "questions": [
+        "User age and learning activity",
+        "Layout, access and group capacity",
+        "Dimensions and project document requirements"
+      ],
+      "productReference": "edu-ca-12",
+      "originalSource": "https://hyeducationfurniture.com/Double-Student-Desk-for-Classroom-Furniture-Ergonomic-Durable-School-Desks-pd177302638.html"
+    },
+    {
+      "id": "catalogue/hotels/page-1",
+      "source": "https://hymobilier.com/en/catalogue/hotels/page-1/",
+      "title": "Hotels and hospitality — selection 1",
+      "summary": "Selection 1: nine references for hotels and hospitality: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/hotels/page-2",
+      "source": "https://hymobilier.com/en/catalogue/hotels/page-2/",
+      "title": "Hotels and hospitality — selection 2",
+      "summary": "Selection 2: nine references for hotels and hospitality: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/bureaux/page-1",
+      "source": "https://hymobilier.com/en/catalogue/bureaux/page-1/",
+      "title": "Offices and workplaces — selection 1",
+      "summary": "Selection 1: nine references for offices and workplaces: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/bureaux/page-2",
+      "source": "https://hymobilier.com/en/catalogue/bureaux/page-2/",
+      "title": "Offices and workplaces — selection 2",
+      "summary": "Selection 2: nine references for offices and workplaces: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/ecoles/page-1",
+      "source": "https://hymobilier.com/en/catalogue/ecoles/page-1/",
+      "title": "Schools, universities and libraries — selection 1",
+      "summary": "Selection 1: nine references for schools, universities and libraries: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/ecoles/page-2",
+      "source": "https://hymobilier.com/en/catalogue/ecoles/page-2/",
+      "title": "Schools, universities and libraries — selection 2",
+      "summary": "Selection 2: nine references for schools, universities and libraries: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/sante/page-1",
+      "source": "https://hymobilier.com/en/catalogue/sante/page-1/",
+      "title": "Healthcare and care facilities — selection 1",
+      "summary": "Selection 1: nine references for healthcare and care facilities: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/sante/page-2",
+      "source": "https://hymobilier.com/en/catalogue/sante/page-2/",
+      "title": "Healthcare and care facilities — selection 2",
+      "summary": "Selection 2: nine references for healthcare and care facilities: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/villas/page-1",
+      "source": "https://hymobilier.com/en/catalogue/villas/page-1/",
+      "title": "Villas and private interiors — selection 1",
+      "summary": "Selection 1: nine references for villas and private interiors: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/villas/page-2",
+      "source": "https://hymobilier.com/en/catalogue/villas/page-2/",
+      "title": "Villas and private interiors — selection 2",
+      "summary": "Selection 2: nine references for villas and private interiors: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/institutions/page-1",
+      "source": "https://hymobilier.com/en/catalogue/institutions/page-1/",
+      "title": "Government, institutions and public spaces — selection 1",
+      "summary": "Selection 1: nine references for government, institutions and public spaces: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/institutions/page-2",
+      "source": "https://hymobilier.com/en/catalogue/institutions/page-2/",
+      "title": "Government, institutions and public spaces — selection 2",
+      "summary": "Selection 2: nine references for government, institutions and public spaces: compare functions, view details and prepare your brief.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets",
+      "source": "https://hymobilier.com/en/projets/",
+      "title": "Group projects and references in Africa",
+      "summary": "Hospitality, education and institutions: five group references in Kenya, Tanzania, Nigeria and the Democratic Republic of the Congo.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-014",
+      "source": "https://hymobilier.com/en/projets/hos-014/",
+      "title": "Project: Lemaiyan Suites Naivasha — Kenya",
+      "summary": "Lemaiyan Suites Naivasha, Kenya: a Hongye group hospitality reference in Africa.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-017",
+      "source": "https://hymobilier.com/en/projets/hos-017/",
+      "title": "Project: Robyson Residency Kinshasa — DR Congo",
+      "summary": "Robyson Residency Kinshasa, DR Congo: a Hongye group hospitality reference in Africa.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-018",
+      "source": "https://hymobilier.com/en/projets/hos-018/",
+      "title": "Project: TOA Hotel & Spa Zanzibar — Tanzania",
+      "summary": "TOA Hotel & Spa Zanzibar, Tanzania: a Hongye group hospitality reference in Africa.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-012",
+      "source": "https://hymobilier.com/en/projets/off-012/",
+      "title": "Project: Presidential Palace of DR Congo — DR Congo",
+      "summary": "Presidential Palace of DR Congo, DR Congo: a Hongye group institutional reference in Africa.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-004",
+      "source": "https://hymobilier.com/en/projets/edu-004/",
+      "title": "Project: Charterhouse Lagos — Nigeria",
+      "summary": "Charterhouse Lagos, Nigeria: a Hongye group education reference in Africa.",
+      "visibility": "public",
+      "updated": "2026-10-10"
     }
   ]
 }
