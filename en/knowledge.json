@@ -2823,7 +2823,7 @@
       "id": "projets/hos-014",
       "source": "https://hymobilier.com/en/projets/hos-014/",
       "title": "Project: Lemaiyan Suites Naivasha — Kenya",
-      "summary": "Lemaiyan Suites Naivasha, Kenya: a Hongye group hospitality reference in Africa.",
+      "summary": "Lemaiyan Suites Naivasha is a group reference in the hotels category, located in Kenya. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
     },
@@ -2831,7 +2831,7 @@
       "id": "projets/hos-017",
       "source": "https://hymobilier.com/en/projets/hos-017/",
       "title": "Project: Robyson Residency Kinshasa — DR Congo",
-      "summary": "Robyson Residency Kinshasa, DR Congo: a Hongye group hospitality reference in Africa.",
+      "summary": "Robyson Residency Kinshasa is a group reference in the hotels category, located in DR Congo. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
     },
@@ -2839,7 +2839,7 @@
       "id": "projets/hos-018",
       "source": "https://hymobilier.com/en/projets/hos-018/",
       "title": "Project: TOA Hotel & Spa Zanzibar — Tanzania",
-      "summary": "TOA Hotel & Spa Zanzibar, Tanzania: a Hongye group hospitality reference in Africa.",
+      "summary": "TOA Hotel & Spa Zanzibar is a group reference in the resorts and leisure destinations category, located in Tanzania. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
     },
@@ -2847,7 +2847,7 @@
       "id": "projets/off-012",
       "source": "https://hymobilier.com/en/projets/off-012/",
       "title": "Project: Presidential Palace of DR Congo — DR Congo",
-      "summary": "Presidential Palace of DR Congo, DR Congo: a Hongye group institutional reference in Africa.",
+      "summary": "Presidential Palace of DR Congo is a group reference in the offices and institutions category, located in DR Congo. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
     },
@@ -2855,7 +2855,343 @@
       "id": "projets/edu-004",
       "source": "https://hymobilier.com/en/projets/edu-004/",
       "title": "Project: Charterhouse Lagos — Nigeria",
-      "summary": "Charterhouse Lagos, Nigeria: a Hongye group education reference in Africa.",
+      "summary": "Charterhouse Lagos is a group reference in the education category, located in Nigeria. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/nigeria-school-installation",
+      "source": "https://hymobilier.com/en/projets/nigeria-school-installation/",
+      "title": "Project: School furniture installation in Nigeria — Nigeria",
+      "summary": "School furniture installation in Nigeria is a group reference in the education category, located in Nigeria. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-003",
+      "source": "https://hymobilier.com/en/projets/hos-003/",
+      "title": "Project: Elaf Hotel, Jeddah — Saudi Arabia",
+      "summary": "Elaf Hotel, Jeddah is a group reference in the hotels category, located in Saudi Arabia. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-012",
+      "source": "https://hymobilier.com/en/projets/hos-012/",
+      "title": "Project: Kempinski Hotel & Resort Sariya Yanbu — Saudi Arabia",
+      "summary": "Kempinski Hotel & Resort Sariya Yanbu is a group reference in the resorts and leisure destinations category, located in Saudi Arabia. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-007",
+      "source": "https://hymobilier.com/en/projets/hlt-007/",
+      "title": "Project: Saudi German Hospital Makkah — Saudi Arabia",
+      "summary": "Saudi German Hospital Makkah is a group reference in the healthcare category, located in Saudi Arabia. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-013",
+      "source": "https://hymobilier.com/en/projets/off-013/",
+      "title": "Project: Saudi Payment — Saudi Arabia",
+      "summary": "Saudi Payment is a group reference in the offices and institutions category, located in Saudi Arabia. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-011",
+      "source": "https://hymobilier.com/en/projets/edu-011/",
+      "title": "Project: Singapore Institute of Technology — Singapore",
+      "summary": "Singapore Institute of Technology is a group reference in the education category, located in Singapore. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-009",
+      "source": "https://hymobilier.com/en/projets/hlt-009/",
+      "title": "Project: Woodlands Health Campus — Singapore",
+      "summary": "Woodlands Health Campus is a group reference in the healthcare category, located in Singapore. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-002",
+      "source": "https://hymobilier.com/en/projets/off-002/",
+      "title": "Project: Alibaba Group — China",
+      "summary": "Alibaba Group is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-002",
+      "source": "https://hymobilier.com/en/projets/edu-002/",
+      "title": "Project: BBK Experimental School — China",
+      "summary": "BBK Experimental School is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-004",
+      "source": "https://hymobilier.com/en/projets/off-004/",
+      "title": "Project: BYD Co., Ltd. — China",
+      "summary": "BYD Co., Ltd. is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-005",
+      "source": "https://hymobilier.com/en/projets/off-005/",
+      "title": "Project: CCCC--FHDI Engineering Co., Ltd — China",
+      "summary": "CCCC--FHDI Engineering Co., Ltd is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-003",
+      "source": "https://hymobilier.com/en/projets/edu-003/",
+      "title": "Project: CPC Provincial Party School — China",
+      "summary": "CPC Provincial Party School is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-006",
+      "source": "https://hymobilier.com/en/projets/off-006/",
+      "title": "Project: China Insurance — China",
+      "summary": "China Insurance is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-005",
+      "source": "https://hymobilier.com/en/projets/edu-005/",
+      "title": "Project: County Vocational Education And Training Base — China",
+      "summary": "County Vocational Education And Training Base is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-006",
+      "source": "https://hymobilier.com/en/projets/edu-006/",
+      "title": "Project: Dasixiang Primary School — China",
+      "summary": "Dasixiang Primary School is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-007",
+      "source": "https://hymobilier.com/en/projets/off-007/",
+      "title": "Project: FAW Jiefang (Qingdao) Commercial Vehicle Development Institute — China",
+      "summary": "FAW Jiefang (Qingdao) Commercial Vehicle Development Institute is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-001",
+      "source": "https://hymobilier.com/en/projets/hlt-001/",
+      "title": "Project: Ganjiang New Area Hospital — China",
+      "summary": "Ganjiang New Area Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-005",
+      "source": "https://hymobilier.com/en/projets/hos-005/",
+      "title": "Project: Ginlan Song Hotel — China",
+      "summary": "Ginlan Song Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-002",
+      "source": "https://hymobilier.com/en/projets/hlt-002/",
+      "title": "Project: Heshan People's Hospital — China",
+      "summary": "Heshan People's Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-009",
+      "source": "https://hymobilier.com/en/projets/hos-009/",
+      "title": "Project: HongMou Hotel — China",
+      "summary": "HongMou Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-007",
+      "source": "https://hymobilier.com/en/projets/edu-007/",
+      "title": "Project: Industrial City Primary School — China",
+      "summary": "Industrial City Primary School is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-011",
+      "source": "https://hymobilier.com/en/projets/hos-011/",
+      "title": "Project: JinShuiWan Hotel — China",
+      "summary": "JinShuiWan Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-013",
+      "source": "https://hymobilier.com/en/projets/hos-013/",
+      "title": "Project: Leezy Hotel — China",
+      "summary": "Leezy Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-008",
+      "source": "https://hymobilier.com/en/projets/off-008/",
+      "title": "Project: Lingang Center — China",
+      "summary": "Lingang Center is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-009",
+      "source": "https://hymobilier.com/en/projets/off-009/",
+      "title": "Project: Macwell Electronic Technology Industrial Park — China",
+      "summary": "Macwell Electronic Technology Industrial Park is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-003",
+      "source": "https://hymobilier.com/en/projets/hlt-003/",
+      "title": "Project: Maternal And Child Healthcare Hospital — China",
+      "summary": "Maternal And Child Healthcare Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-004",
+      "source": "https://hymobilier.com/en/projets/hlt-004/",
+      "title": "Project: Meizhou People's Hospital — China",
+      "summary": "Meizhou People's Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-005",
+      "source": "https://hymobilier.com/en/projets/hlt-005/",
+      "title": "Project: Nan'an Hospital — China",
+      "summary": "Nan'an Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-008",
+      "source": "https://hymobilier.com/en/projets/edu-008/",
+      "title": "Project: New Library of Changzhou — China",
+      "summary": "New Library of Changzhou is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-015",
+      "source": "https://hymobilier.com/en/projets/hos-015/",
+      "title": "Project: Pianzaihuang Hot Spring Hotel — China",
+      "summary": "Pianzaihuang Hot Spring Hotel is a group reference in the resorts and leisure destinations category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-006",
+      "source": "https://hymobilier.com/en/projets/hlt-006/",
+      "title": "Project: Putian Chengxiang District Hospital — China",
+      "summary": "Putian Chengxiang District Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-010",
+      "source": "https://hymobilier.com/en/projets/edu-010/",
+      "title": "Project: Sanshui Library — China",
+      "summary": "Sanshui Library is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-012",
+      "source": "https://hymobilier.com/en/projets/edu-012/",
+      "title": "Project: Vocational And Technical School — China",
+      "summary": "Vocational And Technical School is a group reference in the education category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-023",
+      "source": "https://hymobilier.com/en/projets/hos-023/",
+      "title": "Project: White Swan Hotel Zhanjiang — China",
+      "summary": "White Swan Hotel Zhanjiang is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-016",
+      "source": "https://hymobilier.com/en/projets/off-016/",
+      "title": "Project: Wuhai Integrity Education Center — China",
+      "summary": "Wuhai Integrity Education Center is a group reference in the offices and institutions category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-010",
+      "source": "https://hymobilier.com/en/projets/hlt-010/",
+      "title": "Project: Yueda Ruikang Hospital — China",
+      "summary": "Yueda Ruikang Hospital is a group reference in the healthcare category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-006",
+      "source": "https://hymobilier.com/en/projets/hos-006/",
+      "title": "Project: Grand Kempinski Hotel — Asia — country to confirm",
+      "summary": "Grand Kempinski Hotel is a group reference in the hotels category, located in Asia — country to confirm. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-016",
+      "source": "https://hymobilier.com/en/projets/hos-016/",
+      "title": "Project: Radisson Collection Hotel — Asia — country to confirm",
+      "summary": "Radisson Collection Hotel is a group reference in the hotels category, located in Asia — country to confirm. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-020",
+      "source": "https://hymobilier.com/en/projets/hos-020/",
+      "title": "Project: The Hilton DoubleTree Hotel — Asia — country to confirm",
+      "summary": "The Hilton DoubleTree Hotel is a group reference in the hotels category, located in Asia — country to confirm. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-019",
+      "source": "https://hymobilier.com/en/projets/hos-019/",
+      "title": "Project: The Ebrington Hotel Londonderry — Ireland",
+      "summary": "The Ebrington Hotel Londonderry is a group reference in the hotels category, located in Ireland. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-011",
+      "source": "https://hymobilier.com/en/projets/off-011/",
+      "title": "Project: Papua New Guinea International Convention Center — Papua New Guinea",
+      "summary": "Papua New Guinea International Convention Center is a group reference in the offices and institutions category, located in Papua New Guinea. The visuals above come from the corresponding document or the group project library.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-007",
+      "source": "https://hymobilier.com/en/projets/hos-007/",
+      "title": "Project: Hilton Tashkent, Uzbekistan — Uzbekistan",
+      "summary": "Hilton Tashkent, Uzbekistan is a group reference in the hotels category, located in Uzbekistan. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
     }
