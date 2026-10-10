@@ -1,0 +1,929 @@
+{
+  "schemaVersion": 2,
+  "version": "2026-10-09",
+  "language": "en",
+  "organization": "HY Mobilier",
+  "entries": [
+    {
+      "id": "professionals/hotels",
+      "source": "https://hymobilier.com/en/professionals/hotels/",
+      "title": "Hotel furniture and renovation projects",
+      "summary": "A hotel brings together different uses. Guestrooms need space for luggage, storage and circulation. Public spaces and dining areas need their own furniture choices. We review these requirements using your plans and room schedules.",
+      "sections": [
+        [
+          "Define the scope by space",
+          "List room types and identify beds, headboards, desks and storage for each type. Schedule public spaces and restaurant furniture separately so proposals can be compared consistently."
+        ],
+        [
+          "Connect furniture with technical planning",
+          "Review dimensions, finishes, power points, lighting and assembly access together. Working drawings and samples should be confirmed before the order is approved."
+        ],
+        [
+          "Plan a phased renovation",
+          "Specify which areas are available, storage constraints and handover dates. Production, transport and on-site work are separate stages."
+        ]
+      ],
+      "checklist": [
+        "Plans and room types",
+        "Quantities by space",
+        "Material and finish references",
+        "Target dates and destination",
+        "Delivery and installation scope"
+      ],
+      "questions": [],
+      "scope": "professionals",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/resources/hotel-furniture-schedule/",
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/references/hotel-room/",
+        "https://hymobilier.com/en/collections/hotel-guestroom-set/",
+        "https://hymobilier.com/en/collections/buffet-storage/",
+        "https://hymobilier.com/en/collections/restaurant-table/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "professionals/offices",
+      "source": "https://hymobilier.com/en/professionals/offices/",
+      "title": "Office furniture for your workplace project",
+      "summary": "Workplace projects begin with people and activities. Workstation counts, meeting spaces, circulation and storage needs provide a framework for selection. Hongye discusses configurations and finishes using your layout.",
+      "sections": [
+        [
+          "Start with the layout",
+          "Specify team size, work patterns and spaces to furnish. Check access routes, door openings and the space around desks and tables."
+        ],
+        [
+          "Coordinate equipment",
+          "Define cable routes, displays, power points and conferencing equipment. Visually similar configurations can meet different technical requirements."
+        ],
+        [
+          "Compare specifications",
+          "Review dimensions, supports, finishes, adjustments and maintenance needs line by line. Required documents and tests should be identified for the selected models."
+        ]
+      ],
+      "checklist": [
+        "Dimensioned plan and headcount",
+        "Meeting-room capacity",
+        "Cable-management needs",
+        "Storage and maintenance access",
+        "Required technical documents"
+      ],
+      "questions": [],
+      "scope": "professionals",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/resources/office-project-brief/",
+        "https://hymobilier.com/en/services/customisation/",
+        "https://hymobilier.com/en/references/workplace/",
+        "https://hymobilier.com/en/collections/workstation/",
+        "https://hymobilier.com/en/collections/meeting-table/",
+        "https://hymobilier.com/en/collections/reception-desk/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "professionals/restaurants",
+      "source": "https://hymobilier.com/en/professionals/restaurants/",
+      "title": "Furniture for restaurants and social spaces",
+      "summary": "A restaurant combines guest comfort, staff movement and everyday use. Review seating capacity, table layouts and seat heights before choosing finishes. Lounges and bars need choices suited to their use.",
+      "sections": [
+        [
+          "Plan the dining space",
+          "Separate two- and four-person tables, larger groups, bar areas and lounge seating. A zone-based schedule connects quantities to the plan."
+        ],
+        [
+          "Choose finishes for the use",
+          "Describe cleaning needs, stain exposure, frequency of use and colour references. Performance claims must be supported by documents for the product concerned."
+        ],
+        [
+          "Consider storage",
+          "For multifunctional spaces, specify stacking, movement and storage needs. Check access for replacing or maintaining items."
+        ]
+      ],
+      "checklist": [
+        "Layout and capacity",
+        "Table formats",
+        "Table and seat heights",
+        "Upholstery references",
+        "Storage and cleaning"
+      ],
+      "questions": [],
+      "scope": "professionals",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/materials/",
+        "https://hymobilier.com/en/resources/compare-quotations/",
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/collections/restaurant-table/",
+        "https://hymobilier.com/en/collections/bar-seating/",
+        "https://hymobilier.com/en/collections/buffet-storage/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "home/villas",
+      "source": "https://hymobilier.com/en/home/villas/",
+      "title": "Furniture for your villa project",
+      "summary": "A residential project benefits from an overall view. Room proportions, access, light and daily habits guide furniture choices. Fenmi Casa discusses selections using your plans, references and material palette.",
+      "sections": [
+        [
+          "Build a shared direction",
+          "Gather style references and identify priority rooms. A palette of wood, fabrics and surfaces can connect living, dining and bedroom spaces without making every room identical."
+        ],
+        [
+          "Check dimensions",
+          "Compare furniture footprints with measured plans and access routes. Doors, stairs and lifts can affect handling and assembly."
+        ],
+        [
+          "Define what is included",
+          "Separate freestanding furniture, drawing-based items and accessories. Services, samples and delivery conditions are defined through the project brief."
+        ]
+      ],
+      "checklist": [
+        "Measured plans and room list",
+        "Style references",
+        "Material palette",
+        "Delivery access",
+        "Priorities and schedule"
+      ],
+      "questions": [],
+      "scope": "home",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/resources/residential-brief/",
+        "https://hymobilier.com/en/services/materials/",
+        "https://hymobilier.com/en/references/residential-interior/",
+        "https://hymobilier.com/en/collections/living-room-furniture/",
+        "https://hymobilier.com/en/collections/bedroom-furniture/",
+        "https://hymobilier.com/en/collections/residential-selection/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "home/apartments",
+      "source": "https://hymobilier.com/en/home/apartments/",
+      "title": "Furniture for apartments and private residences",
+      "summary": "Apartments require careful coordination between furniture and available space. Fenmi Casa discusses pieces, dimensions and finishes within a defined residential project.",
+      "sections": [
+        [
+          "Respect the proportions",
+          "Review sofas, tables and beds on the plan. Circulation and openings must remain compatible with daily use."
+        ],
+        [
+          "Connect different spaces",
+          "Living and dining areas can share a palette while serving different functions. Tell us about existing finishes when discussing combinations."
+        ],
+        [
+          "Plan access",
+          "Provide lift dimensions, floor information and building access. On-site services are confirmed for the destination and agreed scope."
+        ]
+      ],
+      "checklist": [
+        "Plan and clear openings",
+        "Furniture to retain",
+        "Existing materials",
+        "Building access",
+        "Rooms to furnish"
+      ],
+      "questions": [],
+      "scope": "home",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/home/designers/",
+        "https://hymobilier.com/en/resources/residential-brief/",
+        "https://hymobilier.com/en/services/delivery/",
+        "https://hymobilier.com/en/collections/living-room-furniture/",
+        "https://hymobilier.com/en/collections/bedroom-furniture/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "home/designers",
+      "source": "https://hymobilier.com/en/home/designers/",
+      "title": "A furniture contact for residential designers",
+      "summary": "Working with an interior designer depends on precise information. References, drawings, dimensions and samples provide the basis for coordination. Fenmi Casa helps organise furniture choices and the technical points to confirm.",
+      "sections": [
+        [
+          "Structure the selection",
+          "Prepare a room-by-room list with references, desired sizes and inspiration images. Separate existing models from items needing further review."
+        ],
+        [
+          "Approve the finishes",
+          "Connect each finish with a reference and sample where needed. Decisions and document versions should remain traceable."
+        ],
+        [
+          "Review interfaces",
+          "Identify furniture adjoining walls, floors or equipment. Joinery work and local installation depend on the agreed scope, rather than a general promise."
+        ]
+      ],
+      "checklist": [
+        "Room-by-room selection",
+        "Drawings and dimensions",
+        "Finishes and samples",
+        "Open technical questions",
+        "Responsibilities of each party"
+      ],
+      "questions": [],
+      "scope": "home",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/services/customisation/",
+        "https://hymobilier.com/en/resources/residential-brief/",
+        "https://hymobilier.com/en/collections/residential-selection/",
+        "https://hymobilier.com/en/collections/living-room-furniture/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/hotel-guestroom-set",
+      "source": "https://hymobilier.com/en/collections/hotel-guestroom-set/",
+      "title": "Hotel guestroom furniture set",
+      "summary": "Coordinate beds, headboards, desks and storage with the room type.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Room count and set composition",
+        "Bed, desk and storage dimensions",
+        "Finishes and equipment interfaces"
+      ],
+      "scope": "hotel",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-03",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/buffet-storage",
+      "source": "https://hymobilier.com/en/collections/buffet-storage/",
+      "title": "Buffet and storage furniture",
+      "summary": "A storage selection for dining and service areas.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Useful storage capacity",
+        "Dimensions and associated equipment",
+        "Surface maintenance and access"
+      ],
+      "scope": "hotel",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-09",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/restaurant-table",
+      "source": "https://hymobilier.com/en/collections/restaurant-table/",
+      "title": "Restaurant and dining table",
+      "summary": "Select table formats in relation to capacity and circulation.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Seat count and tabletop shape",
+        "Desired dimensions and height",
+        "Tabletop finish and seating compatibility"
+      ],
+      "scope": "restaurant",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-08",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/bar-seating",
+      "source": "https://hymobilier.com/en/collections/bar-seating/",
+      "title": "Bar and high seating",
+      "summary": "Review seat height against the actual counter and intended use.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Counter and seat height",
+        "Footrest and circulation",
+        "Upholstery and maintenance"
+      ],
+      "scope": "restaurant",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-07",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/workstation",
+      "source": "https://hymobilier.com/en/collections/workstation/",
+      "title": "Workstation and modular layout",
+      "summary": "Review workstations against your workplace layout.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Workstation count and dimensions",
+        "Cable routes and separation",
+        "Storage and future configuration"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-11",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/meeting-table",
+      "source": "https://hymobilier.com/en/collections/meeting-table/",
+      "title": "Meeting-room table",
+      "summary": "Configure the table for room capacity, access and equipment.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Room dimensions and capacity",
+        "Conferencing and connections",
+        "Finish and maintenance access"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-05",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/reception-desk",
+      "source": "https://hymobilier.com/en/collections/reception-desk/",
+      "title": "Reception desk",
+      "summary": "Review reception furniture around staff tasks and visitor movement.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Staff zone and equipment",
+        "Dimensions and layout",
+        "Access and project accessibility requirements"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-09",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/living-room-furniture",
+      "source": "https://hymobilier.com/en/collections/living-room-furniture/",
+      "title": "Residential living-room furniture",
+      "summary": "Coordinate seating and tables around your living-room plan.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Plan, dimensions and circulation",
+        "Fabric and colour references",
+        "Set composition"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-06",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/bedroom-furniture",
+      "source": "https://hymobilier.com/en/collections/bedroom-furniture/",
+      "title": "Bedroom and private-space furniture",
+      "summary": "Organise selections by room, dimensions and material palette.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Rooms to furnish",
+        "Dimensions and existing furniture",
+        "Materials and desired finishes"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-07",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/residential-selection",
+      "source": "https://hymobilier.com/en/collections/residential-selection/",
+      "title": "Furniture selection for private interiors",
+      "summary": "Coordinate residential furniture using a room-by-room brief.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Measured plans and composition",
+        "Style references and finishes",
+        "Access and supply scope"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-05",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/customisation",
+      "source": "https://hymobilier.com/en/services/customisation/",
+      "title": "Furniture dimensions and customisation",
+      "summary": "Customisation connects your expectations with the constraints of the product. Plans, measurements, references and quantities help review options for your project.",
+      "sections": [
+        [
+          "Review dimensions",
+          "Provide desired sizes, site measurements and wall or equipment interfaces. Feasibility is confirmed for the chosen model."
+        ],
+        [
+          "Record the decisions",
+          "Link every change to an item reference and document version. Changes after approval may affect production conditions."
+        ],
+        [
+          "Confirm the scope",
+          "Supply, additional studies and on-site work are defined in the proposal."
+        ]
+      ],
+      "checklist": [
+        "Drawings and measurements",
+        "Product references",
+        "Quantities",
+        "Technical interfaces"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/resources/compare-quotations/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/materials",
+      "source": "https://hymobilier.com/en/services/materials/",
+      "title": "Materials and finishes for your project",
+      "summary": "Materials are selected for appearance, use and maintenance. We review your references and the documentation needed for the products selected.",
+      "sections": [
+        [
+          "Connect appearance with use",
+          "Describe frequency of use, cleaning needs and indoor or outdoor conditions. A visual finish alone does not demonstrate performance."
+        ],
+        [
+          "Compare references",
+          "Associate material names, colours, surfaces and sample references with the same item. Technical documents are reviewed for the relevant models."
+        ],
+        [
+          "Confirm with a sample",
+          "On-screen colour varies with lighting and displays. An approved sample provides a clearer reference for the order."
+        ]
+      ],
+      "checklist": [
+        "Palette and references",
+        "Use and maintenance",
+        "Requested samples",
+        "Project document requirements"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/resources/sample-approval/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/samples",
+      "source": "https://hymobilier.com/en/services/samples/",
+      "title": "Samples and project approval",
+      "summary": "Approval can concern a material, finish, drawing or model. Sample requirements are agreed according to the project and chosen products.",
+      "sections": [
+        [
+          "Choose review points",
+          "Identify what needs review: appearance, dimensions, assembly, equipment or documents. Record the scope in the brief."
+        ],
+        [
+          "Record decisions",
+          "Use item references and version numbers for each decision. Avoid contradictory approvals between drawings, messages and samples."
+        ],
+        [
+          "Prepare the next stage",
+          "Quantities, finishes and schedule should be confirmed before ordering. Sample conditions and costs are discussed for your request."
+        ]
+      ],
+      "checklist": [
+        "Item references",
+        "Drawing versions",
+        "Samples to review",
+        "Approval contact"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/resources/sample-approval/",
+        "https://hymobilier.com/en/services/customisation/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/delivery",
+      "source": "https://hymobilier.com/en/services/delivery/",
+      "title": "Preparing packing and delivery",
+      "summary": "Delivery planning starts with quantities, destination and site access. Transport, receiving and assembly conditions are confirmed within the agreed scope.",
+      "sections": [
+        [
+          "Organise the batches",
+          "A room-, zone- or phase-based schedule can help identify packages. Specify storage needs and site readiness."
+        ],
+        [
+          "Clarify responsibilities",
+          "Transport, customs, taxes, unloading and assembly need separate discussion. A general price or delivery period cannot replace a destination-specific proposal."
+        ],
+        [
+          "Prepare receiving",
+          "Identify the receiving location, access and responsible people. Assembly documents and reporting conditions are defined for the order."
+        ]
+      ],
+      "checklist": [
+        "Country and delivery address",
+        "Quantities and phases",
+        "Access and receiving arrangements",
+        "Allocation of responsibilities"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/resources/compare-quotations/",
+        "https://hymobilier.com/en/markets/france/",
+        "https://hymobilier.com/en/markets/morocco/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/hotel-furniture-schedule",
+      "source": "https://hymobilier.com/en/resources/hotel-furniture-schedule/",
+      "title": "Preparing a hotel furniture schedule",
+      "summary": "A useful schedule links each item to a space, quantity and reference. It helps teams review the scope and compare proposals.",
+      "sections": [
+        [
+          "Start with the spaces",
+          "List room types, then reception, dining, meetings and other included areas. Keep typical-room quantities separate from total quantities."
+        ],
+        [
+          "Describe each item",
+          "Include function, desired dimensions, material, finish and quantity. Attach a plan or reference when an item depends on a layout."
+        ],
+        [
+          "Separate the services",
+          "Samples, transport, receiving and installation should be identified with their responsibilities. Furniture quotations can cover different scopes."
+        ]
+      ],
+      "checklist": [
+        "Space and room type",
+        "Item and reference",
+        "Dimensions and quantity",
+        "Material and finish",
+        "Service scope"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/resources/compare-quotations/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/residential-brief",
+      "source": "https://hymobilier.com/en/resources/residential-brief/",
+      "title": "Preparing your residential furniture brief",
+      "summary": "An initial brief does not need to be complete. It should explain the rooms, preferences and decisions already made.",
+      "sections": [
+        [
+          "Describe the rooms",
+          "List rooms to furnish and furniture to retain. Measured plans and access dimensions help frame the selection."
+        ],
+        [
+          "Share references",
+          "A few style images and a material palette are more useful than many unexplained pictures. Say what you like about each reference."
+        ],
+        [
+          "Identify priorities",
+          "Destination, target date and room priorities help discuss the schedule. Delivery and services are defined for your brief."
+        ]
+      ],
+      "checklist": [
+        "Rooms and plans",
+        "Existing furniture",
+        "Style and palette",
+        "Destination and access",
+        "Indicative budget and schedule"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/home/villas/",
+        "https://hymobilier.com/en/home/designers/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/sample-approval",
+      "source": "https://hymobilier.com/en/resources/sample-approval/",
+      "title": "Organising sample approval",
+      "summary": "Clear approval connects a decision with an item, version and responsible person. This reduces uncertainty across documents.",
+      "sections": [
+        [
+          "Identify the reference",
+          "Describe the item, material and finish. Record the date and reference of the reviewed sample."
+        ],
+        [
+          "Describe the decision",
+          "State whether the sample is approved, requires changes or needs another review. Record specific reservations in the brief."
+        ],
+        [
+          "Keep versions consistent",
+          "After a change, verify that drawings and furniture schedules use the same version. Photographs do not replace every physical check."
+        ]
+      ],
+      "checklist": [
+        "Item and version",
+        "Material reference",
+        "Decision and reservations",
+        "Date and responsible person"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/services/materials/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/compare-quotations",
+      "source": "https://hymobilier.com/en/resources/compare-quotations/",
+      "title": "Comparing furniture quotations on a common basis",
+      "summary": "Quotations are comparable only when their scopes are comparable. A lower total may reflect different materials, quantities or services.",
+      "sections": [
+        [
+          "Compare the items",
+          "Check dimensions, finishes, quantities and composition. A product name alone does not establish equivalence."
+        ],
+        [
+          "Identify services",
+          "Samples, packing, transport, importation and assembly may be included, excluded or priced separately. Check each proposal."
+        ],
+        [
+          "Document open questions",
+          "Review substitutions, documents, stage-by-stage timing, payment terms and responsibilities before approval. Estimates must remain distinct from contractual conditions."
+        ]
+      ],
+      "checklist": [
+        "Matching items and quantities",
+        "Comparable specifications",
+        "Included and excluded services",
+        "Conditions and responsibilities"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/services/delivery/",
+        "https://hymobilier.com/en/professionals/hotels/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/office-project-brief",
+      "source": "https://hymobilier.com/en/resources/office-project-brief/",
+      "title": "Information for an office furniture project",
+      "summary": "The brief should explain who uses the spaces, what equipment is needed and how furniture fits the plan.",
+      "sections": [
+        [
+          "Describe activities",
+          "Specify headcount, fixed or shared desks, meeting capacity and reception needs."
+        ],
+        [
+          "Define interfaces",
+          "Identify cable routes, screens and equipment. Check access and storage."
+        ],
+        [
+          "Prepare specifications",
+          "Define desired dimensions, finishes and documentation. Performance is confirmed for selected models."
+        ]
+      ],
+      "checklist": [
+        "Measured floor plan",
+        "Headcount and capacity",
+        "Equipment and cable routes",
+        "Finish references"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/offices/",
+        "https://hymobilier.com/en/collections/workstation/",
+        "https://hymobilier.com/en/collections/meeting-table/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/hotel-room",
+      "source": "https://hymobilier.com/en/references/hotel-room/",
+      "title": "A guestroom composition reference",
+      "summary": "This image from the group library supports a project discussion. It is not a claim of a completed project in France or Morocco.",
+      "sections": [
+        [
+          "Read the composition",
+          "Identify sleeping, storage and desk areas. The actual plan and room category determine the selection."
+        ],
+        [
+          "Turn the image into a brief",
+          "List items, dimensions and desired finishes. Final materials and composition are confirmed through the brief."
+        ]
+      ],
+      "checklist": [
+        "Room composition",
+        "Dimensions and circulation",
+        "Finishes and interfaces"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/collections/hotel-guestroom-set/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/workplace",
+      "source": "https://hymobilier.com/en/references/workplace/",
+      "title": "A workplace layout reference",
+      "summary": "This reference from the group library illustrates a workplace setting. It is not presented as a locally delivered project.",
+      "sections": [
+        [
+          "Review the functions",
+          "Separate workstations, discussion areas and storage. Adapt the layout to your team size."
+        ],
+        [
+          "Define the configuration",
+          "Connect each item to plans, dimensions and cable-management needs. Images do not replace specifications."
+        ]
+      ],
+      "checklist": [
+        "Workstation count",
+        "Circulation and access",
+        "Storage and equipment"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/offices/",
+        "https://hymobilier.com/en/collections/workstation/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/residential-interior",
+      "source": "https://hymobilier.com/en/references/residential-interior/",
+      "title": "A residential interior mood reference",
+      "summary": "This image is a visual reference from the group library for discussing your project. It is not a local delivery testimonial.",
+      "sections": [
+        [
+          "Identify combinations",
+          "Review proportions, colours and relationships between surfaces. Select the elements relevant to your project."
+        ],
+        [
+          "Adapt to your residence",
+          "Plans and access routes guide dimensions. Items and finishes must be confirmed separately from the image."
+        ]
+      ],
+      "checklist": [
+        "Rooms and proportions",
+        "Material palette",
+        "Dimensions and access"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/home/villas/",
+        "https://hymobilier.com/en/services/materials/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "markets/france",
+      "source": "https://hymobilier.com/en/markets/france/",
+      "title": "Your furniture project in France",
+      "summary": "HY Mobilier is a French-language contact point for Hongye, a manufacturer in China. Projects in France are discussed using plans, quantities and document requirements. This site does not claim a local factory, store or installation team in France.",
+      "sections": [
+        [
+          "A brief for discussion",
+          "Designers, owners and purchasing teams can share a space-by-space schedule and required documentation. Conditions are confirmed for each selection."
+        ],
+        [
+          "Specify the destination",
+          "Importation, taxes, receiving and assembly need discussion with the project parties. Documents depend on products and supply-chain responsibilities."
+        ]
+      ],
+      "checklist": [
+        "Project type and city",
+        "Plans and quantities",
+        "Required documents",
+        "Receiving responsibilities"
+      ],
+      "questions": [],
+      "scope": "markets",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/home/villas/",
+        "https://hymobilier.com/en/services/delivery/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "markets/morocco",
+      "source": "https://hymobilier.com/en/markets/morocco/",
+      "title": "Furniture for projects in Morocco",
+      "summary": "A project in Morocco can involve several spaces and stakeholders. Share the furniture schedule, plans and priorities to discuss a coordinated selection.",
+      "sections": [
+        [
+          "Separate the spaces",
+          "Hotels, restaurants, offices and private residences have different requirements. A zone-based schedule clarifies the scope."
+        ],
+        [
+          "Plan receiving",
+          "City, address, access and site readiness help discuss transport and receiving. Local assembly must be defined within the agreed scope."
+        ]
+      ],
+      "checklist": [
+        "City and project type",
+        "Space-by-space schedule",
+        "Quantities and phases",
+        "Project contact"
+      ],
+      "questions": [],
+      "scope": "markets",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/home/villas/",
+        "https://hymobilier.com/en/services/delivery/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    }
+  ]
+}

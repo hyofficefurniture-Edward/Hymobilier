@@ -1,0 +1,929 @@
+{
+  "schemaVersion": 2,
+  "version": "2026-10-09",
+  "language": "fr",
+  "organization": "HY Mobilier",
+  "entries": [
+    {
+      "id": "professionnels/hotels",
+      "source": "https://hymobilier.com/professionnels/hotels/",
+      "title": "Mobilier hôtelier et projets de rénovation",
+      "summary": "Chaque hôtel associe plusieurs usages. Une chambre doit accueillir les bagages, organiser le rangement et permettre une circulation confortable. Le lobby, le restaurant et les espaces de réunion nécessitent leurs propres choix de mobilier. Nous examinons ces espaces à partir de vos plans et de votre liste de besoins.",
+      "sections": [
+        [
+          "Définir le périmètre par espace",
+          "Répartissez les chambres par type et indiquez le nombre de lits, de têtes de lit, de bureaux et de rangements. Identifiez séparément les espaces publics et le mobilier de restauration. Cette organisation aide à comparer les propositions sur une base commune."
+        ],
+        [
+          "Relier le mobilier au projet technique",
+          "Dimensions, finitions, prises, éclairage et accès de montage doivent être examinés ensemble. Les détails de fabrication et les échantillons sont à valider avant la confirmation de la commande."
+        ],
+        [
+          "Préparer une rénovation par étapes",
+          "Précisez les zones disponibles, les contraintes de stockage et les dates de remise des espaces. La fabrication, le transport et les interventions sur place correspondent à des étapes distinctes."
+        ]
+      ],
+      "checklist": [
+        "Plans et types de chambres",
+        "Quantités par espace",
+        "Références de matériaux et de finitions",
+        "Date cible et destination",
+        "Périmètre de livraison et de montage"
+      ],
+      "questions": [],
+      "scope": "professionnels",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/ressources/liste-mobilier-hotel/",
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/references/chambre-hotel/",
+        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
+        "https://hymobilier.com/collections/buffet-rangement/",
+        "https://hymobilier.com/collections/table-restaurant/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "professionnels/bureaux",
+      "source": "https://hymobilier.com/professionnels/bureaux/",
+      "title": "Mobilier de bureau pour vos espaces de travail",
+      "summary": "Un projet de bureau commence par les équipes et les usages. Le nombre de postes, les salles de réunion, les circulations et les besoins de rangement donnent un cadre à la sélection. Hongye accompagne la discussion sur les configurations et les finitions à partir de votre implantation.",
+      "sections": [
+        [
+          "Partir de votre implantation",
+          "Indiquez le nombre de personnes, les modes de travail et les zones à équiper. Vérifiez les accès, les ouvertures de portes et les espaces nécessaires autour des postes et des tables."
+        ],
+        [
+          "Coordonner les équipements",
+          "Passages de câbles, écrans, prises et équipements de conférence doivent être précisés dans le dossier. Une configuration visuellement similaire peut correspondre à des besoins techniques différents."
+        ],
+        [
+          "Comparer les spécifications",
+          "Dimensions, supports, finitions, réglages et conditions de maintenance sont à comparer ligne par ligne. Les documents et essais requis doivent être identifiés pour les modèles retenus."
+        ]
+      ],
+      "checklist": [
+        "Plan coté et effectif",
+        "Capacité des salles de réunion",
+        "Besoins de câblage",
+        "Rangement et accès de maintenance",
+        "Documents techniques souhaités"
+      ],
+      "questions": [],
+      "scope": "professionnels",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/ressources/preparer-projet-bureau/",
+        "https://hymobilier.com/services/personnalisation/",
+        "https://hymobilier.com/references/espace-bureau/",
+        "https://hymobilier.com/collections/poste-travail/",
+        "https://hymobilier.com/collections/table-reunion/",
+        "https://hymobilier.com/collections/banque-accueil/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "professionnels/restaurants",
+      "source": "https://hymobilier.com/professionnels/restaurants/",
+      "title": "Mobilier pour restaurants et espaces de convivialité",
+      "summary": "Une salle de restaurant combine confort des clients, travail des équipes et usage quotidien. Avant de choisir les finitions, examinez le nombre de places, la configuration des tables et la hauteur des assises. Les espaces lounge et les bars demandent une sélection propre à leur utilisation.",
+      "sections": [
+        [
+          "Composer la salle",
+          "Distinguez tables de deux ou quatre personnes, grandes tablées, espaces bar et zones lounge. Une liste par zone permet d’adapter les quantités au plan."
+        ],
+        [
+          "Choisir les finitions pour l’usage",
+          "Précisez les attentes de nettoyage, les risques de taches, la fréquence d’utilisation et les références de couleur. Les performances annoncées doivent être confirmées par les documents du produit concerné."
+        ],
+        [
+          "Organiser le stockage",
+          "Si les espaces changent de fonction, précisez le besoin d’empilage, de déplacement ou de rangement. Vérifiez aussi les accès nécessaires au remplacement des éléments."
+        ]
+      ],
+      "checklist": [
+        "Plan de salle et capacité",
+        "Formats de tables",
+        "Hauteurs de tables et d’assises",
+        "Références de revêtements",
+        "Stockage et entretien"
+      ],
+      "questions": [],
+      "scope": "professionnels",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/materiaux/",
+        "https://hymobilier.com/ressources/comparer-devis/",
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/collections/table-restaurant/",
+        "https://hymobilier.com/collections/tabouret-bar/",
+        "https://hymobilier.com/collections/buffet-rangement/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "maison/villas",
+      "source": "https://hymobilier.com/maison/villas/",
+      "title": "Un projet de mobilier pour votre villa",
+      "summary": "Votre projet résidentiel mérite une approche d’ensemble. Les volumes, les passages, la lumière et les habitudes de vie orientent le choix du mobilier. La sélection Fenmi Casa est discutée à partir de vos plans, de vos références et de votre palette de matériaux.",
+      "sections": [
+        [
+          "Construire une vision commune",
+          "Réunissez quelques références de style et identifiez les pièces prioritaires. Une palette de bois, de tissus et de surfaces permet de relier le salon, la salle à manger et les chambres sans rendre chaque pièce identique."
+        ],
+        [
+          "Vérifier les dimensions",
+          "Les dimensions du mobilier doivent être rapprochées des plans cotés, des passages et des accès. Les portes, escaliers et ascenseurs peuvent conditionner le transport et l’assemblage."
+        ],
+        [
+          "Définir ce qui est inclus",
+          "Distinguez mobilier indépendant, éléments réalisés à partir de dessins et accessoires. Les services, les échantillons et les conditions de livraison sont précisés avec le dossier."
+        ]
+      ],
+      "checklist": [
+        "Plans cotés et liste des pièces",
+        "Références de style",
+        "Palette de matériaux",
+        "Accès et contraintes de livraison",
+        "Priorités et calendrier"
+      ],
+      "questions": [],
+      "scope": "maison",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/ressources/brief-residentiel/",
+        "https://hymobilier.com/services/materiaux/",
+        "https://hymobilier.com/references/interieur-residentiel/",
+        "https://hymobilier.com/collections/salon-residentiel/",
+        "https://hymobilier.com/collections/chambre-residentielle/",
+        "https://hymobilier.com/collections/mobilier-residentiel/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "maison/appartements",
+      "source": "https://hymobilier.com/maison/appartements/",
+      "title": "Mobilier pour appartements et résidences privées",
+      "summary": "Un appartement demande de bien mesurer les relations entre le mobilier et l’espace disponible. Fenmi Casa intervient sur la sélection des pièces, des dimensions et des finitions dans le cadre d’un projet résidentiel défini.",
+      "sections": [
+        [
+          "Respecter les proportions",
+          "Examinez l’emprise des canapés, tables et lits sur le plan. Les passages et les ouvertures doivent rester compatibles avec l’usage quotidien."
+        ],
+        [
+          "Associer les espaces",
+          "Le séjour et la salle à manger peuvent partager une palette tout en ayant des fonctions distinctes. Indiquez les matériaux existants pour discuter les associations."
+        ],
+        [
+          "Anticiper les accès",
+          "Informez-nous des dimensions d’ascenseur, des étages et des accès au bâtiment. Les prestations sur place se confirment selon le dossier et la destination."
+        ]
+      ],
+      "checklist": [
+        "Plan et mesures des passages",
+        "Mobilier à conserver",
+        "Matériaux existants",
+        "Accès au bâtiment",
+        "Pièces à équiper"
+      ],
+      "questions": [],
+      "scope": "maison",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/maison/architectes/",
+        "https://hymobilier.com/ressources/brief-residentiel/",
+        "https://hymobilier.com/services/livraison/",
+        "https://hymobilier.com/collections/salon-residentiel/",
+        "https://hymobilier.com/collections/chambre-residentielle/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "maison/architectes",
+      "source": "https://hymobilier.com/maison/architectes/",
+      "title": "Un interlocuteur mobilier pour vos projets résidentiels",
+      "summary": "Une collaboration avec un architecte d’intérieur ou un décorateur repose sur des informations précises. Références, dessins, dimensions et échantillons forment la base du dialogue. Fenmi Casa aide à organiser les choix de mobilier et les points techniques à confirmer.",
+      "sections": [
+        [
+          "Structurer votre sélection",
+          "Présentez une liste par pièce avec les références, les dimensions souhaitées et les images d’intention. Séparez les modèles existants des éléments nécessitant une étude."
+        ],
+        [
+          "Valider les finitions",
+          "Associez chaque finition à une référence et à un échantillon lorsque nécessaire. Les décisions et les versions doivent rester traçables jusqu’à la confirmation."
+        ],
+        [
+          "Coordonner les interfaces",
+          "Repérez les éléments liés aux murs, aux sols et aux équipements. Les travaux d’agencement et l’installation locale relèvent du périmètre convenu, pas d’une promesse générale."
+        ]
+      ],
+      "checklist": [
+        "Liste de sélection par pièce",
+        "Dessins et dimensions",
+        "Finitions et échantillons",
+        "Points techniques ouverts",
+        "Périmètre des intervenants"
+      ],
+      "questions": [],
+      "scope": "maison",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/services/personnalisation/",
+        "https://hymobilier.com/ressources/brief-residentiel/",
+        "https://hymobilier.com/collections/mobilier-residentiel/",
+        "https://hymobilier.com/collections/salon-residentiel/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/ensemble-chambre-hotel",
+      "source": "https://hymobilier.com/collections/ensemble-chambre-hotel/",
+      "title": "Ensemble de mobilier pour chambre d’hôtel",
+      "summary": "Lit et tête de lit, bureau et rangement sont à coordonner selon le type de chambre.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Nombre de chambres et composition de chaque ensemble",
+        "Dimensions du lit, du bureau et des rangements",
+        "Finitions et interfaces avec les équipements"
+      ],
+      "scope": "hotel",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-03",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/buffet-rangement",
+      "source": "https://hymobilier.com/collections/buffet-rangement/",
+      "title": "Buffet et mobilier de rangement",
+      "summary": "Une sélection de rangement pour les espaces de restauration et de service.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Volume utile et fonctions du rangement",
+        "Dimensions et équipements associés",
+        "Entretien des surfaces et accès"
+      ],
+      "scope": "hotel",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-09",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/table-restaurant",
+      "source": "https://hymobilier.com/collections/table-restaurant/",
+      "title": "Table pour restaurant et salle à manger",
+      "summary": "Le format de la table se choisit en relation avec la capacité et la circulation de la salle.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Nombre de places et forme du plateau",
+        "Dimensions et hauteur souhaitées",
+        "Finition du plateau et compatibilité des assises"
+      ],
+      "scope": "restaurant",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-08",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/tabouret-bar",
+      "source": "https://hymobilier.com/collections/tabouret-bar/",
+      "title": "Assise haute pour bar et espaces de convivialité",
+      "summary": "L’assise haute doit être rapprochée de la hauteur réelle du comptoir et des usages.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Hauteur du comptoir et de l’assise",
+        "Repose-pieds et circulation",
+        "Revêtement et conditions d’entretien"
+      ],
+      "scope": "restaurant",
+      "brand": "Hongye Furniture Group",
+      "productReference": "hotel-ca-07",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/poste-travail",
+      "source": "https://hymobilier.com/collections/poste-travail/",
+      "title": "Poste de travail et implantation modulaire",
+      "summary": "Une sélection de postes de travail à étudier à partir de votre implantation.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Nombre de postes et dimensions",
+        "Passages de câbles et séparation des postes",
+        "Rangement et possibilités d’évolution"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-11",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/table-reunion",
+      "source": "https://hymobilier.com/collections/table-reunion/",
+      "title": "Table de réunion",
+      "summary": "La table de réunion se configure selon la capacité, les accès et les équipements.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Capacité et dimensions de la salle",
+        "Équipements de conférence et connexions",
+        "Finition et accès de maintenance"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-05",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/banque-accueil",
+      "source": "https://hymobilier.com/collections/banque-accueil/",
+      "title": "Banque d’accueil",
+      "summary": "Un mobilier d’accueil à rapprocher du travail de l’équipe et du parcours des visiteurs.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Zone de travail et équipements",
+        "Dimensions et implantation",
+        "Passages et exigences d’accessibilité du projet"
+      ],
+      "scope": "office",
+      "brand": "Hongye Furniture Group",
+      "productReference": "office-ca-09",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/salon-residentiel",
+      "source": "https://hymobilier.com/collections/salon-residentiel/",
+      "title": "Mobilier pour salon résidentiel",
+      "summary": "Une sélection de sièges et de tables pour composer un salon cohérent.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Plan, dimensions et circulation",
+        "Références de tissu et de couleur",
+        "Composition de l’ensemble"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-06",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/chambre-residentielle",
+      "source": "https://hymobilier.com/collections/chambre-residentielle/",
+      "title": "Mobilier pour chambre et espaces privés",
+      "summary": "Organisez votre sélection par pièce, par dimensions et par palette de matériaux.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Liste des pièces à équiper",
+        "Dimensions et mobilier à conserver",
+        "Matériaux et finitions souhaités"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-07",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/mobilier-residentiel",
+      "source": "https://hymobilier.com/collections/mobilier-residentiel/",
+      "title": "Sélection de mobilier pour intérieur privé",
+      "summary": "Coordonnez le mobilier d’une résidence à partir d’un dossier par pièce.",
+      "sections": [],
+      "checklist": [],
+      "questions": [
+        "Plans cotés et composition",
+        "Références de style et finitions",
+        "Accès et périmètre de fourniture"
+      ],
+      "scope": "home",
+      "brand": "Fenmi Casa",
+      "productReference": "home-ca-05",
+      "relatedSources": [],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/personnalisation",
+      "source": "https://hymobilier.com/services/personnalisation/",
+      "title": "Dimensions et personnalisation du mobilier",
+      "summary": "Personnaliser un mobilier nécessite de rapprocher vos attentes des contraintes du produit. Plans, mesures, références et quantités permettent d’examiner les options pour le projet.",
+      "sections": [
+        [
+          "Étudier les dimensions",
+          "Présentez les dimensions souhaitées, les mesures du site et les interfaces avec les murs ou les équipements. La faisabilité se confirme pour le modèle retenu."
+        ],
+        [
+          "Documenter les choix",
+          "Reliez chaque modification à une référence et à une version du dossier. Les changements après validation peuvent modifier les conditions de fabrication."
+        ],
+        [
+          "Confirmer le périmètre",
+          "La fourniture, les études complémentaires et les interventions sur place sont définies dans la proposition."
+        ]
+      ],
+      "checklist": [
+        "Dessins et mesures",
+        "Références de produit",
+        "Quantités",
+        "Interfaces techniques"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/ressources/comparer-devis/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/materiaux",
+      "source": "https://hymobilier.com/services/materiaux/",
+      "title": "Matériaux et finitions pour votre projet",
+      "summary": "Un matériau se choisit pour son aspect, son usage et son entretien. Nous examinons les références souhaitées et les documents nécessaires pour les produits sélectionnés.",
+      "sections": [
+        [
+          "Relier l’aspect à l’usage",
+          "Précisez l’intensité d’utilisation, les attentes de nettoyage et l’environnement intérieur ou extérieur. Un rendu visuel ne suffit pas à confirmer une performance."
+        ],
+        [
+          "Comparer les références",
+          "Nom du matériau, couleur, surface et référence d’échantillon doivent être associés au même article. Les documents techniques sont examinés pour les modèles concernés."
+        ],
+        [
+          "Confirmer par échantillon",
+          "La couleur sur écran dépend de la lumière et de l’affichage. Un échantillon approuvé apporte une référence plus précise pour la commande."
+        ]
+      ],
+      "checklist": [
+        "Palette et références",
+        "Usage et entretien",
+        "Échantillons souhaités",
+        "Documents requis pour le projet"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/ressources/confirmation-echantillons/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/echantillons",
+      "source": "https://hymobilier.com/services/echantillons/",
+      "title": "Échantillons et validation du dossier",
+      "summary": "La validation peut porter sur un matériau, une finition, un dessin ou un modèle. Le besoin d’échantillons se détermine selon le projet et les produits retenus.",
+      "sections": [
+        [
+          "Choisir les points de contrôle",
+          "Identifiez ce qui doit être examiné : aspect, dimensions, assemblage, équipements ou documents. Le contenu de la validation se décrit dans le dossier."
+        ],
+        [
+          "Enregistrer les décisions",
+          "Utilisez une référence d’article et un numéro de version pour chaque décision. Évitez les confirmations contradictoires entre plans, messages et échantillons."
+        ],
+        [
+          "Préparer la suite",
+          "Quantités, finitions et calendrier sont à confirmer avant d’engager la commande. Les conditions et coûts des échantillons sont discutés pour votre demande."
+        ]
+      ],
+      "checklist": [
+        "Références des articles",
+        "Versions des plans",
+        "Échantillons à examiner",
+        "Personne chargée de la validation"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/ressources/confirmation-echantillons/",
+        "https://hymobilier.com/services/personnalisation/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "services/livraison",
+      "source": "https://hymobilier.com/services/livraison/",
+      "title": "Préparer l’emballage et la livraison",
+      "summary": "La livraison se prépare à partir des quantités, de la destination et des accès. Les conditions de transport, de réception et de montage sont confirmées dans le périmètre convenu.",
+      "sections": [
+        [
+          "Organiser les lots",
+          "Une liste par pièce, zone ou phase peut faciliter l’identification des colis. Précisez les besoins de stockage et la disponibilité du site."
+        ],
+        [
+          "Clarifier les responsabilités",
+          "Transport, dédouanement, taxes, déchargement et montage doivent être discutés séparément. Aucun tarif global ni délai universel ne peut remplacer une proposition pour votre destination."
+        ],
+        [
+          "Préparer la réception",
+          "Identifiez le lieu de réception, les accès et les personnes présentes. Les documents d’assemblage et les conditions de signalement sont définis pour la commande."
+        ]
+      ],
+      "checklist": [
+        "Pays et adresse de destination",
+        "Quantités et phases",
+        "Accès et moyens de réception",
+        "Répartition des responsabilités"
+      ],
+      "questions": [],
+      "scope": "services",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/ressources/comparer-devis/",
+        "https://hymobilier.com/marches/france/",
+        "https://hymobilier.com/marches/maroc/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/liste-mobilier-hotel",
+      "source": "https://hymobilier.com/ressources/liste-mobilier-hotel/",
+      "title": "Préparer une liste de mobilier hôtelier",
+      "summary": "Une liste utile associe chaque article à un espace, à une quantité et à une référence. Elle aide les équipes à vérifier le périmètre et à comparer des propositions.",
+      "sections": [
+        [
+          "Commencez par les espaces",
+          "Listez les types de chambres puis le lobby, la restauration, les réunions et les autres espaces inclus. Ne mélangez pas les quantités des chambres types avec les quantités totales."
+        ],
+        [
+          "Décrivez chaque article",
+          "Indiquez fonction, dimensions, matériau souhaité, finition et quantité. Joignez un plan ou une référence lorsque l’article dépend d’une implantation."
+        ],
+        [
+          "Séparez les services",
+          "Échantillons, transport, réception et montage doivent apparaître dans le dossier avec leur responsabilité. Un devis mobilier peut couvrir un périmètre différent d’un autre."
+        ]
+      ],
+      "checklist": [
+        "Espace et type de chambre",
+        "Article et référence",
+        "Dimensions et quantité",
+        "Matériau et finition",
+        "Périmètre des services"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/comparer-devis/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/brief-residentiel",
+      "source": "https://hymobilier.com/ressources/brief-residentiel/",
+      "title": "Préparer votre projet de mobilier résidentiel",
+      "summary": "Un premier dossier n’a pas besoin d’être complet. Il doit expliquer les espaces à équiper, vos préférences et ce qui est déjà décidé.",
+      "sections": [
+        [
+          "Présentez les pièces",
+          "Listez les pièces à équiper et le mobilier à conserver. Les plans cotés et les dimensions des passages aident à cadrer la sélection."
+        ],
+        [
+          "Partagez vos références",
+          "Quelques images de style et une palette de matériaux sont plus utiles qu’une accumulation de photos sans indication. Signalez les éléments qui vous plaisent dans chaque référence."
+        ],
+        [
+          "Indiquez vos priorités",
+          "Destination, date cible et ordre des pièces prioritaires permettent de discuter le calendrier. La livraison et les services se définissent pour le dossier."
+        ]
+      ],
+      "checklist": [
+        "Pièces et plans",
+        "Mobilier existant",
+        "Style et palette",
+        "Destination et accès",
+        "Budget indicatif et calendrier"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/maison/villas/",
+        "https://hymobilier.com/maison/architectes/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/confirmation-echantillons",
+      "source": "https://hymobilier.com/ressources/confirmation-echantillons/",
+      "title": "Comment organiser la confirmation des échantillons",
+      "summary": "Une confirmation claire associe la décision à une référence d’article, à une version et à une personne responsable. Elle réduit les ambiguïtés entre les documents.",
+      "sections": [
+        [
+          "Identifier la référence",
+          "Décrivez l’article, le matériau et la finition. Notez la date et la référence de l’échantillon examiné."
+        ],
+        [
+          "Décrire la décision",
+          "Indiquez si l’échantillon est approuvé, à modifier ou à réexaminer. Les réserves doivent être précises et intégrées au dossier."
+        ],
+        [
+          "Maintenir la cohérence",
+          "Après modification, vérifiez que les plans et la liste de mobilier correspondent à la même version. Une photographie ne remplace pas toutes les vérifications physiques."
+        ]
+      ],
+      "checklist": [
+        "Article et version",
+        "Référence du matériau",
+        "Décision et réserves",
+        "Date et responsable"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/services/materiaux/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/comparer-devis",
+      "source": "https://hymobilier.com/ressources/comparer-devis/",
+      "title": "Comparer des devis de mobilier sur une base commune",
+      "summary": "Deux devis ne sont comparables que si leur périmètre est comparable. Un montant inférieur peut correspondre à d’autres matériaux, quantités ou services.",
+      "sections": [
+        [
+          "Comparer les articles",
+          "Vérifiez dimensions, finitions, quantités et composition. Le nom d’un produit ne suffit pas à établir l’équivalence."
+        ],
+        [
+          "Identifier les services",
+          "Échantillons, emballage, transport, importation et montage peuvent être inclus, exclus ou chiffrés séparément. Vérifiez les conditions de chaque proposition."
+        ],
+        [
+          "Documenter les points ouverts",
+          "Rassemblez les questions avant de confirmer : substitutions, documents, délais par étape, conditions de paiement et responsabilités. Les estimations doivent rester distinctes des conditions contractuelles."
+        ]
+      ],
+      "checklist": [
+        "Articles et quantités identiques",
+        "Spécifications comparables",
+        "Services inclus et exclus",
+        "Conditions et responsabilités"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/services/livraison/",
+        "https://hymobilier.com/professionnels/hotels/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/preparer-projet-bureau",
+      "source": "https://hymobilier.com/ressources/preparer-projet-bureau/",
+      "title": "Les informations utiles pour un projet de bureau",
+      "summary": "Le dossier doit expliquer qui utilise les espaces, quels équipements sont nécessaires et comment le mobilier s’intègre au plan.",
+      "sections": [
+        [
+          "Décrire les usages",
+          "Indiquez l’effectif, les postes fixes ou partagés, la capacité des réunions et les besoins de réception."
+        ],
+        [
+          "Préciser les interfaces",
+          "Les passages de câbles, écrans et équipements doivent être repérés. Vérifiez les accès et le rangement."
+        ],
+        [
+          "Préparer les spécifications",
+          "Définissez les dimensions souhaitées, les finitions et les documents nécessaires. Les performances se confirment pour les modèles sélectionnés."
+        ]
+      ],
+      "checklist": [
+        "Plan coté",
+        "Effectif et capacité",
+        "Équipements et câblage",
+        "Références de finitions"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/bureaux/",
+        "https://hymobilier.com/collections/poste-travail/",
+        "https://hymobilier.com/collections/table-reunion/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/chambre-hotel",
+      "source": "https://hymobilier.com/references/chambre-hotel/",
+      "title": "Référence de composition pour une chambre d’hôtel",
+      "summary": "Cette image de la bibliothèque du groupe sert de support à la discussion. Elle ne constitue pas une déclaration de projet livré en France ou au Maroc.",
+      "sections": [
+        [
+          "Lire la composition",
+          "Identifiez la zone de sommeil, les rangements et la surface de travail. Le plan réel et la catégorie de chambre déterminent la sélection."
+        ],
+        [
+          "Passer de l’image au dossier",
+          "Listez les articles, dimensions et finitions souhaités. Les matériaux et la composition définitive sont à confirmer avec le dossier."
+        ]
+      ],
+      "checklist": [
+        "Composition par chambre",
+        "Dimensions et circulation",
+        "Finitions et interfaces"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/collections/ensemble-chambre-hotel/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/espace-bureau",
+      "source": "https://hymobilier.com/references/espace-bureau/",
+      "title": "Référence d’aménagement d’un espace de bureau",
+      "summary": "Cette référence issue de la bibliothèque du groupe illustre un environnement de travail. Elle n’est pas présentée comme un projet local livré.",
+      "sections": [
+        [
+          "Observer les fonctions",
+          "Distinguez les postes, les espaces de discussion et les rangements. L’implantation doit être adaptée à votre effectif."
+        ],
+        [
+          "Préciser la configuration",
+          "Reliez chaque élément au plan, aux dimensions et aux besoins de câblage. Les images ne remplacent pas les spécifications."
+        ]
+      ],
+      "checklist": [
+        "Nombre de postes",
+        "Circulations et accès",
+        "Rangement et équipements"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/bureaux/",
+        "https://hymobilier.com/collections/poste-travail/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "references/interieur-residentiel",
+      "source": "https://hymobilier.com/references/interieur-residentiel/",
+      "title": "Référence d’ambiance pour un intérieur résidentiel",
+      "summary": "Cette image est une référence visuelle de la bibliothèque du groupe, utilisée pour discuter votre projet. Elle n’est pas un témoignage de livraison à une adresse locale.",
+      "sections": [
+        [
+          "Identifier les associations",
+          "Examinez les proportions, les couleurs et les rapports entre les surfaces. Sélectionnez les éléments qui correspondent à votre projet."
+        ],
+        [
+          "Adapter à votre résidence",
+          "Vos plans et les accès orientent les dimensions. Les articles et les finitions doivent être confirmés indépendamment de l’image."
+        ]
+      ],
+      "checklist": [
+        "Pièces et proportions",
+        "Palette de matériaux",
+        "Dimensions et accès"
+      ],
+      "questions": [],
+      "scope": "references",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/maison/villas/",
+        "https://hymobilier.com/services/materiaux/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "marches/france",
+      "source": "https://hymobilier.com/marches/france/",
+      "title": "Votre projet de mobilier en France",
+      "summary": "HY Mobilier est un point de contact francophone du groupe Hongye, fabricant en Chine. Nous discutons les projets en France à partir des plans, des quantités et des exigences du dossier. Ce site ne déclare pas une usine, un magasin ou une équipe d’installation locale en France.",
+      "sections": [
+        [
+          "Un dossier pour la discussion",
+          "Architectes, propriétaires et équipes d’achat peuvent transmettre une liste par espace et les exigences documentaires. Les conditions se confirment pour chaque sélection."
+        ],
+        [
+          "Préciser la destination",
+          "Importation, taxes, réception et montage doivent être discutés avec les responsables du projet. Les documents requis dépendent des produits et du rôle des intervenants."
+        ]
+      ],
+      "checklist": [
+        "Type de projet et ville",
+        "Plans et quantités",
+        "Documents requis",
+        "Responsabilités de réception"
+      ],
+      "questions": [],
+      "scope": "marches",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/maison/villas/",
+        "https://hymobilier.com/services/livraison/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "marches/maroc",
+      "source": "https://hymobilier.com/marches/maroc/",
+      "title": "Mobilier pour vos projets au Maroc",
+      "summary": "Un projet au Maroc peut réunir plusieurs espaces et plusieurs intervenants. Partagez votre liste de mobilier, vos plans et vos priorités pour discuter une sélection cohérente.",
+      "sections": [
+        [
+          "Distinguer les espaces",
+          "Hôtel, restaurant, bureaux ou résidence privée disposent de leurs propres besoins. Une liste séparée par zone clarifie le périmètre."
+        ],
+        [
+          "Organiser la réception",
+          "La ville, l’adresse, les accès et le planning du site sont nécessaires pour discuter le transport et la réception. Le montage local est à définir dans le périmètre convenu."
+        ]
+      ],
+      "checklist": [
+        "Ville et type de projet",
+        "Liste par espace",
+        "Quantités et phases",
+        "Contact chargé du dossier"
+      ],
+      "questions": [],
+      "scope": "marches",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/maison/villas/",
+        "https://hymobilier.com/services/livraison/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    }
+  ]
+}
