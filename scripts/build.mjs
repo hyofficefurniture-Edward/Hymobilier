@@ -10,7 +10,7 @@ for(const p of products)p.image=assetMap[p.source];
 fs.mkdirSync(out,{recursive:true}); fs.cpSync(path.join(root,'public'),out,{recursive:true});
 const SITE='https://hymobilier.com', esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const url=s=>s?`/${s}/`:'/', find=s=>all.find(p=>p.slug===s), date=contentUpdated;
-const nav=[['professionnels','Professionnels'],['maison','Maison'],['collections','Collections'],['references','Références'],['ressources','Guides']];
+const nav=[['professionnels','Professionnels'],['maison','Maison'],['collections','Collections'],['projets','Projets'],['ressources','Guides']];
 function card(p){return `<a class="card" href="${url(p.slug)}">${p.image?`<div class="card-image"><img src="${p.image}" alt="${esc(p.short||p.title)}" loading="lazy" width="720" height="520"></div>`:''}<div class="card-body"><span class="eyebrow">${p.slug.startsWith('maison')?'FENMI CASA':p.slug.startsWith('ressources')?'GUIDE DE PROJET':'HY MOBILIER'}</span><h3>${esc(p.short||p.title)}</h3><p>${esc(p.description)}</p><span class="text-link">Découvrir <span aria-hidden="true">↗</span></span></div></a>`}
 function grid(items){return `<div class="grid">${items.map(card).join('')}</div>`}
 function cta(res=false){return `<section class="cta"><div><span class="eyebrow">VOTRE PROJET COMMENCE ICI</span><h2>${res?'Parlons de votre intérieur.':'Donnons un cadre à votre projet.'}</h2><p>Plans, références, quantités : partagez ce qui est déjà défini. Nous examinerons les points à préciser.</p></div><a class="button light" href="/contact/?type=${res?'residentiel':'professionnel'}">${res?'Présenter mon projet résidentiel':'Présenter mon projet'} <span aria-hidden="true">↗</span></a></section>`}
@@ -55,3 +55,5 @@ console.log(`Built ${written.length-1} indexable pages plus 404; canonical ${SIT
 await import('./build-en.mjs');
 
 await import('./build-expansion.mjs');
+
+await import('./build-projects.mjs');

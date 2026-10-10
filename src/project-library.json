@@ -1,0 +1,567 @@
+[
+  {
+    "id": "off-012",
+    "name": "Presidential Palace of DR Congo",
+    "country": "DR Congo",
+    "industry": "office",
+    "image": "/images/cases/proyecto-palacio-presidencial-congo.webp",
+    "region": "africa",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-register"
+  },
+  {
+    "id": "hos-017",
+    "name": "Robyson Residency Kinshasa",
+    "country": "DR Congo",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-017.webp",
+    "region": "africa",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-register"
+  },
+  {
+    "id": "hos-014",
+    "name": "Lemaiyan Suites Naivasha",
+    "country": "Kenya",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-014.webp",
+    "region": "africa",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-register"
+  },
+  {
+    "id": "edu-004",
+    "name": "Charterhouse Lagos",
+    "country": "Nigeria",
+    "region": "africa",
+    "industry": "education",
+    "image": "/images/case-library/edu-004.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "nigeria-school-installation",
+    "name": "School furniture installation in Nigeria",
+    "country": "Nigeria",
+    "region": "africa",
+    "industry": "education",
+    "image": "/images/case-library/nigeria-school-installation.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "installation-photo",
+    "anonymous": true
+  },
+  {
+    "id": "hos-018",
+    "name": "TOA Hotel & Spa Zanzibar",
+    "country": "Tanzania",
+    "industry": "resort",
+    "image": null,
+    "region": "africa",
+    "tags": [
+      "resort"
+    ],
+    "sourceKind": "project-register"
+  },
+  {
+    "id": "hos-003",
+    "name": "Elaf Hotel, Jeddah",
+    "country": "Saudi Arabia",
+    "region": "middle-east",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-003.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-012",
+    "name": "Kempinski Hotel & Resort Sariya Yanbu",
+    "country": "Saudi Arabia",
+    "region": "middle-east",
+    "industry": "resort",
+    "image": "/images/case-library/hos-012.webp",
+    "tags": [
+      "resort"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-007",
+    "name": "Saudi German Hospital Makkah",
+    "country": "Saudi Arabia",
+    "region": "middle-east",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-007.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-013",
+    "name": "Saudi Payment",
+    "country": "Saudi Arabia",
+    "region": "middle-east",
+    "industry": "office",
+    "image": "/images/case-library/off-013.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-011",
+    "name": "Singapore Institute of Technology",
+    "country": "Singapore",
+    "region": "southeast-asia",
+    "industry": "education",
+    "image": "/images/case-library/edu-011.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-009",
+    "name": "Woodlands Health Campus",
+    "country": "Singapore",
+    "region": "southeast-asia",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-009.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-002",
+    "name": "Alibaba Group",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-002.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-002",
+    "name": "BBK Experimental School",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-002.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-004",
+    "name": "BYD Co., Ltd.",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-004.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-005",
+    "name": "CCCC--FHDI Engineering Co., Ltd",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-005.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-003",
+    "name": "CPC Provincial Party School",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-003.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-006",
+    "name": "China Insurance",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-006.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-005",
+    "name": "County Vocational Education And Training Base",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-005.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-006",
+    "name": "Dasixiang Primary School",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-006.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-007",
+    "name": "FAW Jiefang (Qingdao) Commercial Vehicle Development Institute",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-007.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-001",
+    "name": "Ganjiang New Area Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-001.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-005",
+    "name": "Ginlan Song Hotel",
+    "country": "China",
+    "region": "china",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-005.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-002",
+    "name": "Heshan People's Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-002.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-009",
+    "name": "HongMou Hotel",
+    "country": "China",
+    "region": "china",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-009.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-007",
+    "name": "Industrial City Primary School",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-007.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-011",
+    "name": "JinShuiWan Hotel",
+    "country": "China",
+    "region": "china",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-011.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-013",
+    "name": "Leezy Hotel",
+    "country": "China",
+    "region": "china",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-013.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-008",
+    "name": "Lingang Center",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-008.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-009",
+    "name": "Macwell Electronic Technology Industrial Park",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-009.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-003",
+    "name": "Maternal And Child Healthcare Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-003.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-004",
+    "name": "Meizhou People's Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-004.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-005",
+    "name": "Nan'an Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-005.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-008",
+    "name": "New Library of Changzhou",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-008.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-015",
+    "name": "Pianzaihuang Hot Spring Hotel",
+    "country": "China",
+    "region": "china",
+    "industry": "resort",
+    "image": "/images/case-library/hos-015.webp",
+    "tags": [
+      "resort"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-006",
+    "name": "Putian Chengxiang District Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-006.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-010",
+    "name": "Sanshui Library",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-010.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "edu-012",
+    "name": "Vocational And Technical School",
+    "country": "China",
+    "region": "china",
+    "industry": "education",
+    "image": "/images/case-library/edu-012.webp",
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-023",
+    "name": "White Swan Hotel Zhanjiang",
+    "country": "China",
+    "region": "china",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-023.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-016",
+    "name": "Wuhai Integrity Education Center",
+    "country": "China",
+    "region": "china",
+    "industry": "office",
+    "image": "/images/case-library/off-016.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hlt-010",
+    "name": "Yueda Ruikang Hospital",
+    "country": "China",
+    "region": "china",
+    "industry": "healthcare",
+    "image": "/images/case-library/hlt-010.webp",
+    "tags": [
+      "healthcare"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-006",
+    "name": "Grand Kempinski Hotel",
+    "country": "Asia",
+    "region": "other",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-006.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-016",
+    "name": "Radisson Collection Hotel",
+    "country": "Asia",
+    "region": "other",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-016.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-020",
+    "name": "The Hilton DoubleTree Hotel",
+    "country": "Asia",
+    "region": "other",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-020.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-019",
+    "name": "The Ebrington Hotel Londonderry",
+    "country": "Ireland",
+    "region": "other",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-019.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-011",
+    "name": "Papua New Guinea International Convention Center",
+    "country": "Papua New Guinea",
+    "region": "other",
+    "industry": "office",
+    "image": "/images/case-library/off-011.webp",
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "project-pdf"
+  },
+  {
+    "id": "hos-007",
+    "name": "Hilton Tashkent, Uzbekistan",
+    "country": "Uzbekistan",
+    "region": "other",
+    "industry": "hospitality",
+    "image": "/images/case-library/hos-007.webp",
+    "tags": [
+      "hospitality"
+    ],
+    "sourceKind": "project-pdf"
+  }
+]
