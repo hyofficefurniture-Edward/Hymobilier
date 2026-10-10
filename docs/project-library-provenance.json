@@ -268,5 +268,11 @@
     "file": "C:\\CompanyShare\\案例项目\\现场安装图Huntington School Of Lagos\\现场安装图Huntington School Of Lagos\\01611dc941e782dd9649f3878a48ce2.jpg",
     "publicLevel": "L2-anonymous",
     "note": "Client name not published; actual site photo supplied by user."
+  },
+  {
+    "id": "HOS-019",
+    "geographyCorrection": "United Kingdom, Northern Ireland",
+    "source": "https://theebringtonhotel.com/rooms/",
+    "note": "Official hotel address corrects old registry country label."
   }
 ]
