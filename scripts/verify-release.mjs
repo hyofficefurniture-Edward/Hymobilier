@@ -27,7 +27,7 @@ for(let i=0;i<routes.length;i+=6){
     if(production&&(/<meta[^>]+name="robots"[^>]+noindex/i.test(text)||/noindex/i.test(response.headers.get('x-robots-tag')||'')))throw Error(url+' blocks indexing');
     if(!text.includes('hreflang="fr"')||!text.includes('hreflang="en"'))throw Error(url+' missing language alternatives');
     if(route==='/contact/'||route==='/en/contact/'){
-      if(!text.includes('id="project-form"')||!text.includes('mailto:hy@hysdfurniture.com')||!text.includes('wa.me/8613702279783'))throw Error(url+' missing inquiry controls');
+      if(!text.includes('id="project-form"')||!text.includes('mailto:h@hysdfurniture.com')||!text.includes('wa.me/8613702279783'))throw Error(url+' missing inquiry controls');
     }
   }));
   for(const result of results)if(result.status==='fulfilled')checked++;else errors.push(String(result.reason));
