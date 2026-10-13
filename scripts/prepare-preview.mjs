@@ -1,5 +1,6 @@
 import fs from'node:fs';import path from'node:path';import{fileURLToPath}from'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),directory=path.resolve(root,process.env.PREVIEW_OUTPUT_DIRECTORY||'dist'),base=process.env.PREVIEW_BASE_PATH;
+if(fs.existsSync(path.join(root,'public/CNAME')))throw Error('Production custom domain is configured; use root-path production publishing.');
 if(!base||!/^\/[A-Za-z0-9_.-]+$/.test(base))throw Error('Set PREVIEW_BASE_PATH to the GitHub project path, for example /hymobilier');
 if(directory!==path.join(root,'dist')&&!directory.startsWith(path.join(root,'qa')+path.sep))throw Error('Preview output must stay in dist or task QA directory');
 if(directory!==path.join(root,'dist'))fs.cpSync(path.join(root,'dist'),directory,{recursive:true});
