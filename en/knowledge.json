@@ -1066,6 +1066,159 @@
       "visibility": "public"
     },
     {
+      "id": "resources/hotel-renovation-phasing",
+      "source": "https://hymobilier.com/en/resources/hotel-renovation-phasing/",
+      "title": "Phasing a hotel renovation: guestrooms, reception and dining",
+      "summary": "Hotel renovations are rarely delivered in one phase. Splitting the work by space — guestrooms, reception, dining — keeps the property trading and lets you compare proposals on the same scope.",
+      "sections": [
+        [
+          "Why split the renovation by space",
+          "The split follows how the property operates, not how a catalogue is arranged. A guestroom wing can close while reception stays in service; the reverse is rarely possible. For each space, record downtime windows, on-site storage constraints and assembly access before you compare proposals."
+        ],
+        [
+          "Start with the guestrooms",
+          "Guestrooms carry the largest and most repetitive volume. Group them by room type and list beds, headboards, desks and storage for each type. One approved type becomes the reference for the rest; surface differences are handled afterwards, not at the point of order."
+        ],
+        [
+          "Plan the reception and public areas",
+          "Reception brings together a welcome zone, a working position and a circulation route. Counter dimensions, cable routes and accessibility requirements are reviewed against the plan, because a visually similar layout can serve a different use."
+        ],
+        [
+          "Set the restaurant and dining areas",
+          "Covers, service style and storage drive the selection. Tables, seating and buffet units are reviewed together: a table selected for the dining room will not necessarily suit the terrace or breakfast service."
+        ],
+        [
+          "Allocate responsibilities and stages",
+          "Production, transport, receiving, installation and packing removal are separate stages. Each appears in the brief with its own responsibility. That level of detail prevents two quotations from being read as the same scope."
+        ]
+      ],
+      "checklist": [
+        "Spaces and downtime windows",
+        "Room counts by type",
+        "Circulations and assembly access",
+        "On-site storage constraints",
+        "Transport and installation responsibilities",
+        "Material and finish references"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/resources/compare-quotations/",
+        "https://hymobilier.com/en/references/hotel-room/",
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/collections/hotel-guestroom-set/",
+        "https://hymobilier.com/en/collections/reception-desk/",
+        "https://hymobilier.com/en/collections/restaurant-table/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/hotel-room-furniture-tier",
+      "source": "https://hymobilier.com/en/resources/hotel-room-furniture-tier/",
+      "title": "Hotel guestroom furniture: what actually changes across service tiers",
+      "summary": "Three-star, four-star, boutique or five-star: the gap is not mainly a matter of style, but of what survives use. Two units that look alike may carry 0.4 mm or 2 mm edging, a roller runner or a full-extension runner with soft close. The markers below describe ranges seen in hotel work and are to be confirmed against supplier documentation. Here are the points that genuinely change, and how to turn them into parameters you can inspect before comparing proposals. These markers are there to frame the right questions, not to rank a supplier.",
+      "sections": [
+        [
+          "Tier shows first in the carcass",
+          "An entry-level unit often uses 16 mm particleboard with 0.4 to 0.8 mm applied edging. A higher tier moves to 18 or 19 mm board with 1.5 to 2 mm ABS edging, laid flat or flush. Band thickness matters as much as the adhesive: thin edging lifts at the first suitcase knock, and the repair shows. Behind the front, the runner decides the feel — roller, ball-bearing, then full extension with soft close. Ask for the rated load per pair, the travel and the cycle count tested. The back panel, often a thin stapled sheet, deserves the same scrutiny as the face, particularly when it carries drawers. Adjustable shelves on pins, rather than fixed battens, let a cabinet be reconfigured without tools, and that flexibility belongs in the brief. Fixings count too: wood screws in a soft board, cam fittings or inserts in a dense one. Specifying by brand name alone leaves the tier open to interpretation, so describe the assembly instead."
+        ],
+        [
+          "Fabrics, foam and removability",
+          "Abrasion resistance is read in Martindale rubs. A lightly used guestroom often holds between 20,000 and 25,000 rubs; a standard hotel room sits nearer 30,000 to 40,000; heavily used seating goes beyond 50,000. These figures are checked on the supplier's report, not on the label. Fire treatment and its classification are confirmed against the regulations of the destination country. A removable cover changes maintenance: closure type, fabric direction, washing behaviour and dimensional stability. For foam, 30 to 40 kg/m³ suits a back panel; a seat calls for a firmer density and a worked thickness, and the two should be specified separately. One spare cover per room type avoids taking a room out of service for a single stain, so state the washing regime you expect. Pile direction and shade are checked on a fitted cover, not on a sample lying flat. State whether covers are washed in-house or contracted out, because that changes the closure and the seam allowance."
+        ],
+        [
+          "The bed: frame, headboard and support",
+          "The bed concentrates the most expensive things to correct. A basic frame butts panels together; a higher tier uses solid wood or plywood legs, corner brackets, a central rail and adjustable feet. Beech or birch slats sit in holders that limit squeaking: their number and section matter more than their finish. Headboards fix in three ways — wall rail, integrated into the frame, or suspended — and a wall rail, which limits vibration, depends on the wall build-up. The mattress support, whether slats, a base or a platform, has to be described: it drives comfort and the replacement route later on. Headboard height follows the mattress top rather than the mood board: give it as a dimension from finished floor and check it against the bedside table. A close-slatted base and a sprung base are replaced differently once the floor is trading. Ask how the headboard is accessed for reupholstery without removing the bed."
+        ],
+        [
+          "Hardware, lighting and power points",
+          "Hardware decides how the room feels in use. A damped hinge with three-axis adjustment can be reset after settlement; a plain hinge only opens. Handles hold through bolted fixings or inserts: adhesive alone gives way. Mirrors integrate side or perimeter lighting, with colour temperature and colour rendering stated, and the ingress protection rating matters in the bathroom. On the electrical side, a guestroom needs sockets at the bedside, USB-A and USB-C ports, and a free point for a charger. These details weigh little at design stage and a great deal to add later, once the walls are closed. A cable route cut at machining stage avoids drilling on site and the making good that follows, so show it on the furniture drawing. Door buffers and drawer bumpers cut noise, which matters along a corridor at night. Bedside controls should be reachable from the pillow without stretching."
+        ],
+        [
+          "Storage, maintenance and the specification",
+          "Storage is drawn from use: rail height, number of adjustable shelves, internal drawers, wardrobe lighting, space for a suitcase and for a safe. A luggage rack is chosen for its height and load, not its look. A minibar needs a ventilated niche and a dedicated socket. Maintenance is prepared at order stage: removable fronts, replaceable panels, interchangeable headboard covers, identified spare parts. Five-year serviceability is judged on those possibilities, not on a promise. Finally, the specification translates tier into parameters: board and edging thickness, runner load and travel, rub count, foam density, fixing method. Those are the values that get inspected on delivery. A spares schedule with references and quantities is handed over with the room file, and that document is what keeps a floor running in year four. Safe niche dimensions and usable wardrobe depth are measured on site, not taken from the architect’s plan. Photograph the inside of a finished wardrobe; it is the part guests judge daily."
+        ]
+      ],
+      "checklist": [
+        "Board and edging thickness in millimetres",
+        "Runner load rating, travel and cycle count",
+        "Martindale rub count and fire treatment class",
+        "Foam density and removable cover specification",
+        "Headboard fixing method and wall build-up",
+        "Wardrobe, safe, minibar and power point positions"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/resources/hotel-furniture-schedule/",
+        "https://hymobilier.com/en/services/samples/",
+        "https://hymobilier.com/en/references/hotel-room/",
+        "https://hymobilier.com/en/collections/hotel-guestroom-set/",
+        "https://hymobilier.com/en/collections/buffet-storage/",
+        "https://hymobilier.com/en/collections/restaurant-table/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "resources/restaurant-seating-capacity",
+      "source": "https://hymobilier.com/en/resources/restaurant-seating-capacity/",
+      "title": "How many covers to plan for before ordering restaurant furniture",
+      "summary": "The cover count is settled before the tables are chosen, not after. A room sized by eye and then furnished often ends up with aisles that are too tight or rows that cannot be sold, and a layout is hard to correct once the furniture is ordered. Area, deductions, table formats and circulation turn into a simple schedule that every proposal can follow and challenge. The aim is not to fill the room, but to reach a cover count that holds up in service. Here is how to move from floor area to a number of covers, and which margins to check on site before the order is fixed.",
+      "sections": [
+        [
+          "Start from usable seating area, not total floor area",
+          "A 180 m² dining room does not offer 180 m² of seats. Deduct the bar, the buffet, service stations, exits and circulation first, then apply 1.2 to 1.8 m² per cover for table service, or 0.9 to 1.2 m² for quick service and cafés. These figures are planning references, not a delivery commitment: room shape, columns, banquettes and the chosen furniture all change the result. For example, 180 m² less 25 m² of bar, 18 m² of buffet and 20 per cent circulation leaves about 110 m² of seating, or 60 to 90 covers depending on the comfort level sought. Keep the density consistent with the service you advertise, and calculate a terrace separately."
+        ],
+        [
+          "Choose table formats that can be combined",
+          "A 700 to 800 mm square table seats two; two of them pushed together make a four, provided the bases do not clash and the tops line up. A 1200 to 1400 mm by 800 mm rectangular table does the same job without handling. A round table of 1200 to 1400 mm in diameter seats four to six and softens the corners of a room. A long table suits groups and narrow rooms. Check the height under the top, usually 720 to 750 mm, and the footprint of the bases, which decides real legroom. Mixing formats only helps if heights, edges and finishes stay compatible, and if a split pair does not block an aisle."
+        ],
+        [
+          "Set the aisles and the clearances",
+          "Three widths structure the room: 1200 mm for the main aisle, 900 mm for the service aisle, and 900 mm between the table edge and the wall so a chair can be pulled out. Between two occupied tables, allow 900 to 1000 mm from chair back to chair back; below that, guests rise sideways and service slows down. These are working minimums: check them on a scaled plan with the actual furniture, and against the accessibility and fire safety rules that apply to the premises. Add fixed obstacles — columns, radiators, doors — before counting. A 1200 mm aisle on paper can become 600 mm once chairs are pulled out."
+        ],
+        [
+          "Service style changes the arithmetic",
+          "Plated service holds a table for longer than a buffet or a counter does. The cover count therefore cannot be read from floor area alone: it depends on how long guests stay and how many services you run. Estimate turnover per service, then check that the kitchen and bar can keep up; adding covers without extra kitchen throughput simply moves the wait into the dining room. Bar seating counts differently: a stool takes less floor than a table but stays occupied for longer. An all-day lobby bar is not sized like a dinner room. Count standing places and stools as separate categories, not as tables, and note that a counter turns faster at lunch than at dinner."
+        ],
+        [
+          "Terrace, breakfast and the seating table",
+          "On a terrace and at breakfast, furniture has to move, stack and withstand exposure. Allow a store or a corner for tables that are not in use, and check the weight of each piece if staff handle it alone. Anticipate wind, sun and rain, which drive the choice of materials and the storage arrangement. At breakfast, density can be higher and occupancy shorter. Then set out a table by zone: gross area, deductions, table formats, resulting covers. That table becomes the reference document for comparing proposals; the five points in the checklist still need confirming on site. Loose furniture also makes cleaning and evening re-sets easier."
+        ]
+      ],
+      "checklist": [
+        "Zone table: gross area, deductions, formats, covers obtained",
+        "Target covers per service and expected turnover, bar and terrace included",
+        "Aisle widths measured on site, not only on the plan",
+        "Table formats and two-plus-two assembly",
+        "Bar, buffet and service stations positioned before counting",
+        "Terrace: storage, stacking, exposure, weight of pieces"
+      ],
+      "questions": [],
+      "scope": "resources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/en/professionals/restaurants/",
+        "https://hymobilier.com/en/professionals/hotels/",
+        "https://hymobilier.com/en/resources/compare-quotations/",
+        "https://hymobilier.com/en/services/materials/",
+        "https://hymobilier.com/en/collections/restaurant-table/",
+        "https://hymobilier.com/en/collections/bar-seating/",
+        "https://hymobilier.com/en/collections/reception-desk/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
       "id": "collections/hotel-ca-01",
       "source": "https://hymobilier.com/en/collections/hotel-ca-01/",
       "title": "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels",

@@ -251,192 +251,332 @@
     {
       "id": "collections/ensemble-chambre-hotel",
       "source": "https://hymobilier.com/collections/ensemble-chambre-hotel/",
-      "title": "Ensemble de mobilier pour chambre d’hôtel",
-      "summary": "Lit et tête de lit, bureau et rangement sont à coordonner selon le type de chambre.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Nombre de chambres et composition de chaque ensemble",
-        "Dimensions du lit, du bureau et des rangements",
-        "Finitions et interfaces avec les équipements"
+      "title": "Mobilier de chambre d’hôtel",
+      "summary": "Mobilier de chambre d’hôtel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier de chambre d’hôtel fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "hotel",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
       "productReference": "hotel-ca-03",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/"
     },
     {
       "id": "collections/buffet-rangement",
       "source": "https://hymobilier.com/collections/buffet-rangement/",
-      "title": "Buffet et mobilier de rangement",
-      "summary": "Une sélection de rangement pour les espaces de restauration et de service.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Volume utile et fonctions du rangement",
-        "Dimensions et équipements associés",
-        "Entretien des surfaces et accès"
+      "title": "Buffet et console de service",
+      "summary": "Buffet et console de service : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Buffet et console de service fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "hotel",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
       "productReference": "hotel-ca-09",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-sideboards-display-tops-hotel-buffet-bar-console/"
     },
     {
       "id": "collections/table-restaurant",
       "source": "https://hymobilier.com/collections/table-restaurant/",
-      "title": "Table pour restaurant et salle à manger",
-      "summary": "Le format de la table se choisit en relation avec la capacité et la circulation de la salle.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Nombre de places et forme du plateau",
-        "Dimensions et hauteur souhaitées",
-        "Finition du plateau et compatibilité des assises"
+      "title": "Tables de restaurant",
+      "summary": "Tables de restaurant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables de restaurant fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "restaurant",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
       "productReference": "hotel-ca-08",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/"
     },
     {
       "id": "collections/tabouret-bar",
       "source": "https://hymobilier.com/collections/tabouret-bar/",
-      "title": "Assise haute pour bar et espaces de convivialité",
-      "summary": "L’assise haute doit être rapprochée de la hauteur réelle du comptoir et des usages.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Hauteur du comptoir et de l’assise",
-        "Repose-pieds et circulation",
-        "Revêtement et conditions d’entretien"
+      "title": "Tabourets hauts pour lounge",
+      "summary": "Tabourets hauts pour lounge : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tabourets hauts pour lounge fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "restaurant",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
       "productReference": "hotel-ca-07",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/"
     },
     {
       "id": "collections/poste-travail",
       "source": "https://hymobilier.com/collections/poste-travail/",
-      "title": "Poste de travail et implantation modulaire",
-      "summary": "Une sélection de postes de travail à étudier à partir de votre implantation.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Nombre de postes et dimensions",
-        "Passages de câbles et séparation des postes",
-        "Rangement et possibilités d’évolution"
+      "title": "Postes de travail série JIANGNAN Bambo",
+      "summary": "Postes de travail série JIANGNAN Bambo : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Postes de travail série JIANGNAN Bambo fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
       "productReference": "office-ca-11",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html"
     },
     {
       "id": "collections/table-reunion",
       "source": "https://hymobilier.com/collections/table-reunion/",
-      "title": "Table de réunion",
-      "summary": "La table de réunion se configure selon la capacité, les accès et les équipements.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Capacité et dimensions de la salle",
-        "Équipements de conférence et connexions",
-        "Finition et accès de maintenance"
+      "title": "Table de conférence pour dix personnes",
+      "summary": "Table de conférence pour dix personnes : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de conférence pour dix personnes fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
       "productReference": "office-ca-05",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-conference-table.html"
     },
     {
       "id": "collections/banque-accueil",
       "source": "https://hymobilier.com/collections/banque-accueil/",
-      "title": "Banque d’accueil",
-      "summary": "Un mobilier d’accueil à rapprocher du travail de l’équipe et du parcours des visiteurs.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Zone de travail et équipements",
-        "Dimensions et implantation",
-        "Passages et exigences d’accessibilité du projet"
+      "title": "Comptoir d’accueil pour hall de bureau",
+      "summary": "Comptoir d’accueil pour hall de bureau : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Comptoir d’accueil pour hall de bureau fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "office",
-      "brand": "Hongye Furniture Group",
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
       "productReference": "office-ca-09",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html"
     },
     {
       "id": "collections/salon-residentiel",
       "source": "https://hymobilier.com/collections/salon-residentiel/",
-      "title": "Mobilier pour salon résidentiel",
-      "summary": "Une sélection de sièges et de tables pour composer un salon cohérent.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Plan, dimensions et circulation",
-        "Références de tissu et de couleur",
-        "Composition de l’ensemble"
+      "title": "Mobilier de salon pour villa",
+      "summary": "Mobilier de salon pour villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier de salon pour villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
       "productReference": "home-ca-06",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/premium-living-room-furniture-for-luxury-villa-projects/"
     },
     {
       "id": "collections/chambre-residentielle",
       "source": "https://hymobilier.com/collections/chambre-residentielle/",
-      "title": "Mobilier pour chambre et espaces privés",
-      "summary": "Organisez votre sélection par pièce, par dimensions et par palette de matériaux.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Liste des pièces à équiper",
-        "Dimensions et mobilier à conserver",
-        "Matériaux et finitions souhaités"
+      "title": "Mobilier de chambre, salon et salle à manger",
+      "summary": "Mobilier de chambre, salon et salle à manger : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier de chambre, salon et salle à manger fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
       "productReference": "home-ca-07",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/residential-furniture-bedroom-living-dining-room-sets/"
     },
     {
       "id": "collections/mobilier-residentiel",
       "source": "https://hymobilier.com/collections/mobilier-residentiel/",
-      "title": "Sélection de mobilier pour intérieur privé",
-      "summary": "Coordonnez le mobilier d’une résidence à partir d’un dossier par pièce.",
-      "sections": [],
-      "checklist": [],
-      "questions": [
-        "Plans cotés et composition",
-        "Références de style et finitions",
-        "Accès et périmètre de fourniture"
+      "title": "Sélection de mobilier pour toute la maison",
+      "summary": "Sélection de mobilier pour toute la maison : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Sélection de mobilier pour toute la maison fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
       ],
-      "scope": "home",
-      "brand": "Fenmi Casa",
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
       "productReference": "home-ca-05",
-      "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "originalSource": "https://hysdfurniture.com/product/modern-whole-house-custom-furniture-home-interior-design/"
     },
     {
       "id": "services/personnalisation",
@@ -975,6 +1115,2238 @@
       ],
       "updated": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "ressources/mobilier-chambre-hotel-niveau-gamme",
+      "source": "https://hymobilier.com/ressources/mobilier-chambre-hotel-niveau-gamme/",
+      "title": "Mobilier de chambre d’hôtel : ce qui change selon le niveau de gamme",
+      "summary": "Trois étoiles, quatre étoiles, boutique ou cinq étoiles : l’écart ne se joue pas d’abord sur le style, mais sur ce qui tient dans le temps. Deux meubles d’apparence proche peuvent recevoir un chant de 0,4 mm ou de 2 mm, un tiroir sur galets ou sur coulisses à sortie totale. Les repères ci-dessous décrivent des ordres de grandeur observés en hôtellerie, à confirmer sur dossier fournisseur. Voici les points qui changent réellement, et comment les traduire en paramètres vérifiables avant de comparer des propositions. Ces repères servent à poser les bonnes questions, pas à classer un fournisseur.",
+      "sections": [
+        [
+          "Le niveau se lit d’abord dans le caisson",
+          "Un meuble d’entrée de gamme assemble souvent un panneau de particules de 16 mm avec un chant appliqué de 0,4 à 0,8 mm. Un meuble de gamme supérieure passe à 18 ou 19 mm, avec un chant ABS de 1,5 à 2 mm, posé à plat ou affleuré. L’épaisseur du chant compte autant que la colle : un chant mince se décolle au premier choc de valise, et la reprise est visible. Derrière la façade, la coulisse décide de la sensation : galets, billes, puis sortie totale avec frein. Demandez la charge déclarée par paire, la course et le nombre de cycles testés. Le fond, souvent un panneau mince agrafé, mérite la même attention que la façade, surtout s’il porte des tiroirs. La visserie compte aussi : vis à bois dans un panneau tendre, excentriques ou inserts dans un panneau dense."
+        ],
+        [
+          "Tissus, mousse et démontabilité",
+          "La résistance à l’abrasion se lit en frottements Martindale. Une chambre peu sollicitée tient souvent entre 20 000 et 25 000 frottements ; une chambre d’hôtel standard se situe plutôt entre 30 000 et 40 000 ; les assises très exposées montent au-delà de 50 000. Ces valeurs se vérifient sur le rapport du fournisseur, pas sur l’étiquette. Le traitement ignifuge et son classement se confirment selon la réglementation du pays de destination. La housse démontable change la maintenance et la mise en œuvre : type de fermeture, sens du tissu, tenue au lavage, stabilité dimensionnelle. Pour la mousse, une masse volumique de 30 à 40 kg/m³ convient à un dossier ; une assise demande une densité plus ferme et une épaisseur travaillée. Une housse de rechange par type de chambre évite d’immobiliser la chambre pour une tache. Le sens du velours et la teinte se contrôlent sur une housse montée, pas sur un échantillon posé à plat."
+        ],
+        [
+          "Le lit : cadre, tête de lit et support",
+          "Le lit concentre les écarts les plus coûteux à corriger. Un cadre basique aboutit des panneaux ; un cadre de gamme supérieure utilise un piètement en bois massif ou en contreplaqué, des équerres, une traverse centrale et des pieds réglables. Les lattes, en hêtre ou en bouleau, reposent sur des supports qui limitent le grincement : leur nombre et leur section comptent plus que leur finition. La tête de lit se fixe de trois façons — rail mural, intégration au cadre, suspension — et le rail mural, qui limite les vibrations, dépend de la nature du mur. Le support de matelas, lattes, sommier ou plateau, doit être décrit : il conditionne le confort et la reprise en cas de remplacement. La hauteur de la tête de lit se règle sur l’assise du matelas, pas sur le seul dessin d’ambiance. Un sommier à lattes serrées et un sommier à ressorts ne se remplacent pas de la même façon en cours d’exploitation."
+        ],
+        [
+          "Quincaillerie, éclairage et points électriques",
+          "La quincaillerie décide de la sensation d’usage. Une charnière à fermeture amortie et réglable sur trois axes se reprend après tassement ; une charnière simple se contente d’ouvrir. Les poignées tiennent par vissage traversant ou par inserts : un collage seul cède à l’usage. Le miroir s’intègre avec un éclairage latéral ou périphérique dont la température de couleur et l’indice de rendu se précisent, et l’indice de protection compte dans la salle d’eau. Côté électrique, la chambre demande des prises près du chevet, des ports USB-A et USB-C, et un point libre pour le chargeur. Ces détails pèsent peu à la conception et beaucoup à ajouter après coup, une fois les murs fermés. Un passe-câbles prévu dès l’usinage évite les percements sur site et les reprises de finition. Les butées de porte et les patins de tiroir limitent le bruit, un critère utile en couloir."
+        ],
+        [
+          "Rangement, maintenance et cahier des charges",
+          "Le rangement se dessine à l’usage : hauteur de tringle, nombre d’étagères réglables, tiroirs internes, éclairage du placard, place pour la valise et pour le coffre. Un porte-valise se choisit pour sa hauteur et sa charge, pas pour son style. Le minibar demande une niche ventilée et une prise dédiée. La maintenance se prépare dès la commande : façades démontables, panneaux remplaçables, housses de tête de lit interchangeables, pièces de rechange identifiées. La tenue sur cinq ans se juge sur ces possibilités, pas sur une promesse. Enfin, le cahier des charges traduit le niveau en paramètres : épaisseur de panneau et de chant, charge et course des coulisses, frottements, densité de mousse, mode de fixation. Ce sont ces valeurs qui se réceptionnent. Le dossier de rechange, avec références et quantités, se transmet à la réception. Les cotes de la niche du coffre et la profondeur utile du placard se relèvent sur place, pas sur le plan d’architecte."
+        ]
+      ],
+      "checklist": [
+        "Épaisseur de panneau et de chant",
+        "Charge et course des coulisses",
+        "Frottements Martindale et traitement ignifuge",
+        "Densité de mousse et démontabilité des housses",
+        "Mode de fixation des têtes de lit",
+        "Placard, coffre, minibar et points électriques"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/liste-mobilier-hotel/",
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/references/chambre-hotel/",
+        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
+        "https://hymobilier.com/collections/buffet-rangement/",
+        "https://hymobilier.com/collections/table-restaurant/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/restaurant-places-mobilier",
+      "source": "https://hymobilier.com/ressources/restaurant-places-mobilier/",
+      "title": "Combien de places prévoir au restaurant avant de commander le mobilier",
+      "summary": "Le nombre de couverts se décide avant le choix des tables, pas après. Une salle dimensionnée à vue, puis équipée, laisse souvent des passages trop étroits ou des rangées invendables, et le plan de salle se corrige mal une fois le mobilier commandé. Surface, déductions, formats et circulations se traduisent en un tableau chiffré que chaque proposition peut reprendre et discuter. L’objectif n’est pas de remplir la salle, mais d’obtenir un nombre de places tenable en service. Voici comment passer de la surface au nombre de places, avec les marges à vérifier sur site avant de figer la commande.",
+      "sections": [
+        [
+          "Partir de la surface utile, pas de la surface au sol",
+          "Une salle de 180 m² n’offre pas 180 m² de places assises. Retirez d’abord le bar, le buffet, les postes de service, les issues et les circulations, puis appliquez une densité de 1,2 à 1,8 m² par place en restauration à table, de 0,9 à 1,2 m² en restauration rapide ou en café. Ces valeurs sont des références de planification, pas un engagement de livraison : la forme de la salle, les poteaux, les banquettes et le mobilier retenu modifient le résultat. Exemple : 180 m² moins 25 m² de bar, 18 m² de buffet et 20 % de circulation laissent environ 110 m² assis, soit 60 à 90 places selon le confort visé. La terrasse se calcule séparément."
+        ],
+        [
+          "Choisir des formats de table qui s’assemblent",
+          "Une table carrée de 700 à 800 mm porte deux couverts ; deux tables réunies forment une table de quatre, à condition que les piètements ne se heurtent pas et que les plateaux s’alignent. Une table rectangulaire de 1200 à 1400 mm sur 800 mm rend le même service sans manipulation. Une table ronde de 1200 à 1400 mm de diamètre accueille quatre à six personnes et adoucit les angles de salle. La table longue convient aux groupes et aux salles étroites. Vérifiez la hauteur sous plateau, généralement 720 à 750 mm, et l’encombrement des piètements, qui décide de la place réelle des jambes. Le mélange n’a d’intérêt que si les hauteurs, les chants et les finitions restent compatibles."
+        ],
+        [
+          "Calibrer les passages et les distances",
+          "Trois largeurs structurent la salle : 1200 mm pour le passage principal, 900 mm pour le passage de service, 900 mm entre le bord de table et le mur pour tirer une chaise. Entre deux tables occupées, comptez 900 à 1000 mm dos de chaise à dos de chaise ; en deçà, le client se lève de biais et le service ralentit. Ces valeurs sont des minima de travail : vérifiez-les sur un plan à l’échelle, avec le mobilier réellement retenu, et confrontez-les aux règles d’accessibilité et de sécurité applicables. Ajoutez les obstacles fixes — poteaux, radiateurs, portes — avant de compter. Un passage de 1200 mm sur le plan peut tomber à 600 mm une fois les chaises tirées."
+        ],
+        [
+          "Le mode de service change le calcul",
+          "Un service à l’assiette immobilise une table plus longtemps qu’un buffet ou qu’un comptoir. Le nombre de places ne se déduit donc pas de la seule surface : il dépend du temps d’occupation et du nombre de services. Estimez la rotation par service, puis vérifiez que la cuisine et le bar peuvent suivre ; ajouter des places sans augmenter le débit de la cuisine déplace l’attente vers la salle. Un bar à hauteur assise compte autrement : un tabouret occupe moins de sol qu’une table, mais reste occupé plus longtemps. Un lobby bar ouvert en continu ne se dimensionne pas comme une salle de dîner. Comptez les places debout et les tabourets comme des catégories distinctes, pas comme des tables."
+        ],
+        [
+          "Terrasse, petit-déjeuner et tableau de calcul",
+          "En terrasse et au petit-déjeuner, le mobilier doit se déplacer, s’empiler et résister à l’exposition. Prévoyez un local ou un angle de stockage pour les tables inutilisées, et vérifiez le poids des pièces si le personnel les manipule seul. Anticipez le vent, le soleil et la pluie, qui décident des matériaux et du rangement. Au petit-déjeuner, la densité peut être plus forte et la durée d’occupation plus courte. Formalisez ensuite un tableau par zone : surface brute, déductions, formats de table, places obtenues. Ce tableau devient la pièce de référence pour comparer les propositions ; les cinq points de la checklist restent à confirmer sur place."
+        ]
+      ],
+      "checklist": [
+        "Tableau par zone : surface brute, déductions, formats, places obtenues",
+        "Couverts visés par service et rotation attendue, bar et terrasse inclus",
+        "Largeurs de passage relevées sur site, pas seulement sur le plan",
+        "Formats de table et assemblage deux places plus deux places",
+        "Bar, buffet et postes de service positionnés avant le calcul",
+        "Terrasse : stockage, empilement, exposition, poids des pièces"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/restaurants/",
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/comparer-devis/",
+        "https://hymobilier.com/services/materiaux/",
+        "https://hymobilier.com/collections/table-restaurant/",
+        "https://hymobilier.com/collections/tabouret-bar/",
+        "https://hymobilier.com/collections/banque-accueil/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "collections/hotel-ca-01",
+      "source": "https://hymobilier.com/collections/hotel-ca-01/",
+      "title": "Ensemble de repas extérieur pour hôtel",
+      "summary": "Ensemble de repas extérieur pour hôtel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Ensemble de repas extérieur pour hôtel fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-01",
+      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/"
+    },
+    {
+      "id": "collections/hotel-ca-02",
+      "source": "https://hymobilier.com/collections/hotel-ca-02/",
+      "title": "Chaises de banquet empilables",
+      "summary": "Chaises de banquet empilables : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Chaises de banquet empilables fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-02",
+      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/"
+    },
+    {
+      "id": "collections/hotel-ca-04",
+      "source": "https://hymobilier.com/collections/hotel-ca-04/",
+      "title": "Tables hautes pour bar hôtelier",
+      "summary": "Tables hautes pour bar hôtelier : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables hautes pour bar hôtelier fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-04",
+      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/"
+    },
+    {
+      "id": "collections/hotel-ca-05",
+      "source": "https://hymobilier.com/collections/hotel-ca-05/",
+      "title": "Banquette haute pour restaurant",
+      "summary": "Banquette haute pour restaurant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Banquette haute pour restaurant fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-05",
+      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
+    },
+    {
+      "id": "collections/hotel-ca-06",
+      "source": "https://hymobilier.com/collections/hotel-ca-06/",
+      "title": "Banquette pour espace de restauration",
+      "summary": "Banquette pour espace de restauration : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Banquette pour espace de restauration fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-06",
+      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
+    },
+    {
+      "id": "collections/hotel-ca-10",
+      "source": "https://hymobilier.com/collections/hotel-ca-10/",
+      "title": "Sélection FF&E pour espaces hôteliers",
+      "summary": "Sélection FF&E pour espaces hôteliers : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Sélection FF&E pour espaces hôteliers fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-10",
+      "originalSource": "https://hysdfurniture.com/product/comprehensive-ffe-solutions-hospitality-commercial-projects/"
+    },
+    {
+      "id": "collections/hotel-ca-11",
+      "source": "https://hymobilier.com/collections/hotel-ca-11/",
+      "title": "Tables pliantes de banquet",
+      "summary": "Tables pliantes de banquet : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables pliantes de banquet fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-11",
+      "originalSource": "https://hysdfurniture.com/product/folding-banquet-tables-hotel-event-hall-tables/"
+    },
+    {
+      "id": "collections/hotel-ca-12",
+      "source": "https://hymobilier.com/collections/hotel-ca-12/",
+      "title": "Fauteuils de réunion pour hôtel",
+      "summary": "Fauteuils de réunion pour hôtel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Fauteuils de réunion pour hôtel fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Type de chambre ou zone publique",
+        "Circulation, dimensions et accès",
+        "Entretien, finitions et équipements"
+      ],
+      "productReference": "hotel-ca-12",
+      "originalSource": "https://hysdfurniture.com/product/high-back-swivel-conference-room-chairs-hotel-boardroom-seating/"
+    },
+    {
+      "id": "collections/home-ca-01",
+      "source": "https://hymobilier.com/collections/home-ca-01/",
+      "title": "Sélection de mobilier pour villa",
+      "summary": "Sélection de mobilier pour villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Sélection de mobilier pour villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-01",
+      "originalSource": "https://hysdfurniture.com/product/bespoke-villa-furniture-solutions-project-sourcing-factory/"
+    },
+    {
+      "id": "collections/home-ca-02",
+      "source": "https://hymobilier.com/collections/home-ca-02/",
+      "title": "Mobilier de salle de bain pour villa",
+      "summary": "Mobilier de salle de bain pour villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier de salle de bain pour villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-02",
+      "originalSource": "https://hysdfurniture.com/product/custom-bathroom-furniture-exclusive-villa-projects/"
+    },
+    {
+      "id": "collections/home-ca-03",
+      "source": "https://hymobilier.com/collections/home-ca-03/",
+      "title": "Ensemble de mobilier personnalisé pour villa",
+      "summary": "Ensemble de mobilier personnalisé pour villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Ensemble de mobilier personnalisé pour villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-03",
+      "originalSource": "https://hysdfurniture.com/product/luxury-furniture-villa-custom-personalization-whole-home-furniture/"
+    },
+    {
+      "id": "collections/home-ca-04",
+      "source": "https://hymobilier.com/collections/home-ca-04/",
+      "title": "Mobilier intérieur et extérieur de villa",
+      "summary": "Mobilier intérieur et extérieur de villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier intérieur et extérieur de villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-04",
+      "originalSource": "https://hysdfurniture.com/product/modern-villa-furniture-sets-complete-home-outdoor-solutions/"
+    },
+    {
+      "id": "collections/home-ca-08",
+      "source": "https://hymobilier.com/collections/home-ca-08/",
+      "title": "Ensemble de mobilier pour espace lounge privé",
+      "summary": "Ensemble de mobilier pour espace lounge privé : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Ensemble de mobilier pour espace lounge privé fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-08",
+      "originalSource": "https://hysdfurniture.com/product/turnkey-house-furniture-villa-lounge-suite-for-interior-design/"
+    },
+    {
+      "id": "collections/home-ca-09",
+      "source": "https://hymobilier.com/collections/home-ca-09/",
+      "title": "Sélection coordonnée pour villa",
+      "summary": "Sélection coordonnée pour villa : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Sélection coordonnée pour villa fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-09",
+      "originalSource": "https://hysdfurniture.com/product/villa-furniture-luxury-whole-house-bespoke-solutions/"
+    },
+    {
+      "id": "collections/home-ca-10",
+      "source": "https://hymobilier.com/collections/home-ca-10/",
+      "title": "Mobilier pour penthouse",
+      "summary": "Mobilier pour penthouse : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier pour penthouse fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-10",
+      "originalSource": "https://hysdfurniture.com/product/high-end-penthouse-furniture-bespoke-luxury-ffe-solutions/"
+    },
+    {
+      "id": "collections/home-ca-11",
+      "source": "https://hymobilier.com/collections/home-ca-11/",
+      "title": "Mobilier et îlot de cuisine résidentielle",
+      "summary": "Mobilier et îlot de cuisine résidentielle : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier et îlot de cuisine résidentielle fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-11",
+      "originalSource": "https://hysdfurniture.com/product/kitchen-island-ffe-solutions-for-luxury-residential/"
+    },
+    {
+      "id": "collections/home-ca-12",
+      "source": "https://hymobilier.com/collections/home-ca-12/",
+      "title": "Mobilier pour projets résidentiels multiples",
+      "summary": "Mobilier pour projets résidentiels multiples : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Mobilier pour projets résidentiels multiples fait partie de la sélection du groupe pour villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Pièce, proportions et mobilier conservé. Palette de matériaux et références de style. Accès, interfaces et dimensions à confirmer. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Pièce, proportions et mobilier conservé",
+        "Palette de matériaux et références de style",
+        "Accès, interfaces et dimensions à confirmer"
+      ],
+      "productReference": "home-ca-12",
+      "originalSource": "https://hysdfurniture.com/product/residential-furniture-premium-luxury-solutions-for-bulk-projects/"
+    },
+    {
+      "id": "collections/med-ca-01",
+      "source": "https://hymobilier.com/collections/med-ca-01/",
+      "title": "Table de chevet pour chambre de soins",
+      "summary": "Table de chevet pour chambre de soins : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de chevet pour chambre de soins fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-01",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html"
+    },
+    {
+      "id": "collections/med-ca-02",
+      "source": "https://hymobilier.com/collections/med-ca-02/",
+      "title": "Paillasse de laboratoire avec évier",
+      "summary": "Paillasse de laboratoire avec évier : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Paillasse de laboratoire avec évier fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-02",
+      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html"
+    },
+    {
+      "id": "collections/med-ca-03",
+      "source": "https://hymobilier.com/collections/med-ca-03/",
+      "title": "Divan pour espace de récupération",
+      "summary": "Divan pour espace de récupération : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Divan pour espace de récupération fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-03",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-adjustable-healthcare-recovery-couch.html"
+    },
+    {
+      "id": "collections/med-ca-04",
+      "source": "https://hymobilier.com/collections/med-ca-04/",
+      "title": "Table de traitement à réglage hydraulique",
+      "summary": "Table de traitement à réglage hydraulique : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de traitement à réglage hydraulique fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-04",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hydraulic-medical-treatment-table.html"
+    },
+    {
+      "id": "collections/med-ca-05",
+      "source": "https://hymobilier.com/collections/med-ca-05/",
+      "title": "Fauteuil pour salle d’examen spécialisé",
+      "summary": "Fauteuil pour salle d’examen spécialisé : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Fauteuil pour salle d’examen spécialisé fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-05",
+      "originalSource": "https://www.hyhealthcarefurniture.com/adjustable-gynecological-examination-reclining-table.html"
+    },
+    {
+      "id": "collections/med-ca-06",
+      "source": "https://hymobilier.com/collections/med-ca-06/",
+      "title": "Fauteuil pour traitement et récupération",
+      "summary": "Fauteuil pour traitement et récupération : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Fauteuil pour traitement et récupération fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-06",
+      "originalSource": "https://www.hyhealthcarefurniture.com/recovery-injection-chair-for-medical-treatment.html"
+    },
+    {
+      "id": "collections/med-ca-07",
+      "source": "https://hymobilier.com/collections/med-ca-07/",
+      "title": "Banc trois places pour salle d’attente",
+      "summary": "Banc trois places pour salle d’attente : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Banc trois places pour salle d’attente fait partie de la sélection du groupe pour établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-07",
+      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html"
+    },
+    {
+      "id": "collections/med-ca-08",
+      "source": "https://hymobilier.com/collections/med-ca-08/",
+      "title": "Comptoir pour poste infirmier",
+      "summary": "Comptoir pour poste infirmier : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Comptoir pour poste infirmier fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-08",
+      "originalSource": "https://www.hyhealthcarefurniture.com/Customised-Commercial-Boutique-Corner-Nurse-Station-Modern-White-And-Brown-Curved-Reception-Desk-with-Counter-pd598421798.html"
+    },
+    {
+      "id": "collections/med-ca-09",
+      "source": "https://hymobilier.com/collections/med-ca-09/",
+      "title": "Armoire trois portes pour espace médical",
+      "summary": "Armoire trois portes pour espace médical : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Armoire trois portes pour espace médical fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-09",
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-3-door-wardrobe-closet-for-medical-office.html"
+    },
+    {
+      "id": "collections/med-ca-10",
+      "source": "https://hymobilier.com/collections/med-ca-10/",
+      "title": "Armoire de stockage pour médicaments",
+      "summary": "Armoire de stockage pour médicaments : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Armoire de stockage pour médicaments fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-10",
+      "originalSource": "https://www.hyhealthcarefurniture.com/stainless-steel-medical-storage-cabinet.html"
+    },
+    {
+      "id": "collections/med-ca-11",
+      "source": "https://hymobilier.com/collections/med-ca-11/",
+      "title": "Meuble avec évier pour salle d’examen",
+      "summary": "Meuble avec évier pour salle d’examen : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Meuble avec évier pour salle d’examen fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-11",
+      "originalSource": "https://www.hyhealthcarefurniture.com/medical-cabinets-with-sink-for-examination.html"
+    },
+    {
+      "id": "collections/med-ca-12",
+      "source": "https://hymobilier.com/collections/med-ca-12/",
+      "title": "Chariot pour espace de soins",
+      "summary": "Chariot pour espace de soins : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Chariot pour espace de soins fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Fonction de la pièce et rôle des utilisateurs",
+        "Nettoyage, accès et rangement",
+        "Documents et exigences applicables au modèle retenu"
+      ],
+      "productReference": "med-ca-12",
+      "originalSource": "https://www.hyhealthcarefurniture.com/medical-treatment-carts-for-hospital.html"
+    },
+    {
+      "id": "collections/office-ca-01",
+      "source": "https://hymobilier.com/collections/office-ca-01/",
+      "title": "Bureau de direction en L",
+      "summary": "Bureau de direction en L : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau de direction en L fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-01",
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
+    },
+    {
+      "id": "collections/office-ca-02",
+      "source": "https://hymobilier.com/collections/office-ca-02/",
+      "title": "Bureau de direction avec rangement",
+      "summary": "Bureau de direction avec rangement : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau de direction avec rangement fait partie de la sélection du groupe pour bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-02",
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
+    },
+    {
+      "id": "collections/office-ca-03",
+      "source": "https://hymobilier.com/collections/office-ca-03/",
+      "title": "Bureau de direction avec surface gainée",
+      "summary": "Bureau de direction avec surface gainée : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau de direction avec surface gainée fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-03",
+      "originalSource": "https://www.hyofficefurniture.com/pagani.html"
+    },
+    {
+      "id": "collections/office-ca-04",
+      "source": "https://hymobilier.com/collections/office-ca-04/",
+      "title": "Bureau de direction avec insert de surface",
+      "summary": "Bureau de direction avec insert de surface : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau de direction avec insert de surface fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-04",
+      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
+    },
+    {
+      "id": "collections/office-ca-06",
+      "source": "https://hymobilier.com/collections/office-ca-06/",
+      "title": "Table de réunion pour douze personnes",
+      "summary": "Table de réunion pour douze personnes : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de réunion pour douze personnes fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-06",
+      "originalSource": "https://www.hyofficefurniture.com/muster-conference-table.html"
+    },
+    {
+      "id": "collections/office-ca-07",
+      "source": "https://hymobilier.com/collections/office-ca-07/",
+      "title": "Table de réunion série JUEDU BUGATTI",
+      "summary": "Table de réunion série JUEDU BUGATTI : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de réunion série JUEDU BUGATTI fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-07",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-BUGATTI-Series-Meeting-Table-W4200-D1600-H750-mm-W3600-D1600-H750-mm-pd46938461.html"
+    },
+    {
+      "id": "collections/office-ca-08",
+      "source": "https://hymobilier.com/collections/office-ca-08/",
+      "title": "Table de conférence série JUEDU CONFERENCE",
+      "summary": "Table de conférence série JUEDU CONFERENCE : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table de conférence série JUEDU CONFERENCE fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-08",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-CONFERENCE-Series-Conference-Tables-W3800-D1400-H760-mm-s-pd42828461.html"
+    },
+    {
+      "id": "collections/office-ca-10",
+      "source": "https://hymobilier.com/collections/office-ca-10/",
+      "title": "Bureau de réception professionnel",
+      "summary": "Bureau de réception professionnel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau de réception professionnel fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-10",
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
+    },
+    {
+      "id": "collections/office-ca-12",
+      "source": "https://hymobilier.com/collections/office-ca-12/",
+      "title": "Bibliothèque et rangement série JUEDU MAGELL",
+      "summary": "Bibliothèque et rangement série JUEDU MAGELL : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bibliothèque et rangement série JUEDU MAGELL fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Effectif, implantation et configuration",
+        "Rangement et interfaces de câblage",
+        "Dimensions, finitions et accès de maintenance"
+      ],
+      "productReference": "office-ca-12",
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
+    },
+    {
+      "id": "collections/edu-ca-01",
+      "source": "https://hymobilier.com/collections/edu-ca-01/",
+      "title": "Tables et assises pour amphithéâtre",
+      "summary": "Tables et assises pour amphithéâtre : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables et assises pour amphithéâtre fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-01",
+      "originalSource": "https://hyeducationfurniture.com/University-Student-Desks-And-Chairs-Modern-Wood-Finish-Tiered-Lecture-Hall-Furniture-pd121400338.html"
+    },
+    {
+      "id": "collections/edu-ca-02",
+      "source": "https://hymobilier.com/collections/edu-ca-02/",
+      "title": "Bureau enseignant et pupitre",
+      "summary": "Bureau enseignant et pupitre : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bureau enseignant et pupitre fait partie de la sélection du groupe pour écoles, universités et bibliothèques, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-02",
+      "originalSource": "https://hyeducationfurniture.com/Teacher-Desk-Wooden-Podium-University-Lecture-Hall-Furniture-pd155889238.html"
+    },
+    {
+      "id": "collections/edu-ca-03",
+      "source": "https://hymobilier.com/collections/edu-ca-03/",
+      "title": "Rayonnage pour bibliothèque universitaire",
+      "summary": "Rayonnage pour bibliothèque universitaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Rayonnage pour bibliothèque universitaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-03",
+      "originalSource": "https://hyeducationfurniture.com/Library-Shelving-Open-Concept-Bookcase-Storage-Function-for-Higher-Education-Spaces-pd151189238.html"
+    },
+    {
+      "id": "collections/edu-ca-04",
+      "source": "https://hymobilier.com/collections/edu-ca-04/",
+      "title": "Lit superposé pour résidence scolaire",
+      "summary": "Lit superposé pour résidence scolaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Lit superposé pour résidence scolaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-04",
+      "originalSource": "https://hyeducationfurniture.com/Bunk-Bed-Dormitory-Educational-School-Furniture-pd535326838.html"
+    },
+    {
+      "id": "collections/edu-ca-05",
+      "source": "https://hymobilier.com/collections/edu-ca-05/",
+      "title": "Tables et chaises pour salle de classe",
+      "summary": "Tables et chaises pour salle de classe : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables et chaises pour salle de classe fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-05",
+      "originalSource": "https://hyeducationfurniture.com/Student-Desk-And-Chair-Primary-Secondary-School-Classroom-Furniture-Set-pd584791838.html"
+    },
+    {
+      "id": "collections/edu-ca-06",
+      "source": "https://hymobilier.com/collections/edu-ca-06/",
+      "title": "Tables pour salle de cours universitaire",
+      "summary": "Tables pour salle de cours universitaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Tables pour salle de cours universitaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-06",
+      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
+    },
+    {
+      "id": "collections/edu-ca-07",
+      "source": "https://hymobilier.com/collections/edu-ca-07/",
+      "title": "Bibliothèque pour espace de lecture",
+      "summary": "Bibliothèque pour espace de lecture : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Bibliothèque pour espace de lecture fait partie de la sélection du groupe pour écoles, universités et bibliothèques, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-07",
+      "originalSource": "https://hyeducationfurniture.com/Library-Bookshelf-Multi-functional-School-Library-Design-Reading-Furniture-pd504511838.html"
+    },
+    {
+      "id": "collections/edu-ca-08",
+      "source": "https://hymobilier.com/collections/edu-ca-08/",
+      "title": "Lit superposé pour dortoir étudiant",
+      "summary": "Lit superposé pour dortoir étudiant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Lit superposé pour dortoir étudiant fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-08",
+      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
+    },
+    {
+      "id": "collections/edu-ca-09",
+      "source": "https://hymobilier.com/collections/edu-ca-09/",
+      "title": "Poste de laboratoire scolaire",
+      "summary": "Poste de laboratoire scolaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Poste de laboratoire scolaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-09",
+      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
+    },
+    {
+      "id": "collections/edu-ca-10",
+      "source": "https://hymobilier.com/collections/edu-ca-10/",
+      "title": "Îlot central pour laboratoire pédagogique",
+      "summary": "Îlot central pour laboratoire pédagogique : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Îlot central pour laboratoire pédagogique fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-10",
+      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
+    },
+    {
+      "id": "collections/edu-ca-11",
+      "source": "https://hymobilier.com/collections/edu-ca-11/",
+      "title": "Table et chaise pour élève",
+      "summary": "Table et chaise pour élève : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table et chaise pour élève fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-11",
+      "originalSource": "https://hyeducationfurniture.com/Classroom-Desk-And-Chair-Student-Furniture-pd521385838.html"
+    },
+    {
+      "id": "collections/edu-ca-12",
+      "source": "https://hymobilier.com/collections/edu-ca-12/",
+      "title": "Table double pour salle de classe",
+      "summary": "Table double pour salle de classe : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "visibility": "public",
+      "updated": "2026-10-10",
+      "sections": [
+        [
+          "Une sélection reliée à votre espace",
+          "Table double pour salle de classe fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+        ],
+        [
+          "Les points à préciser pour cette référence",
+          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+        ],
+        [
+          "Matériaux, documents et validation",
+          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+        ],
+        [
+          "Préparer la demande et la réception",
+          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+        ]
+      ],
+      "questions": [
+        "Âge des utilisateurs et activité pédagogique",
+        "Implantation, accès et capacité du groupe",
+        "Dimensions et documents requis par le projet"
+      ],
+      "productReference": "edu-ca-12",
+      "originalSource": "https://hyeducationfurniture.com/Double-Student-Desk-for-Classroom-Furniture-Ergonomic-Durable-School-Desks-pd177302638.html"
+    },
+    {
+      "id": "catalogue/hotels/page-1",
+      "source": "https://hymobilier.com/catalogue/hotels/page-1/",
+      "title": "Hôtels et restauration — sélection 1",
+      "summary": "Sélection 1 : neuf références pour hôtels et restauration : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/hotels/page-2",
+      "source": "https://hymobilier.com/catalogue/hotels/page-2/",
+      "title": "Hôtels et restauration — sélection 2",
+      "summary": "Sélection 2 : neuf références pour hôtels et restauration : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/bureaux/page-1",
+      "source": "https://hymobilier.com/catalogue/bureaux/page-1/",
+      "title": "Bureaux et espaces de travail — sélection 1",
+      "summary": "Sélection 1 : neuf références pour bureaux et espaces de travail : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/bureaux/page-2",
+      "source": "https://hymobilier.com/catalogue/bureaux/page-2/",
+      "title": "Bureaux et espaces de travail — sélection 2",
+      "summary": "Sélection 2 : neuf références pour bureaux et espaces de travail : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/ecoles/page-1",
+      "source": "https://hymobilier.com/catalogue/ecoles/page-1/",
+      "title": "Écoles, universités et bibliothèques — sélection 1",
+      "summary": "Sélection 1 : neuf références pour écoles, universités et bibliothèques : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/ecoles/page-2",
+      "source": "https://hymobilier.com/catalogue/ecoles/page-2/",
+      "title": "Écoles, universités et bibliothèques — sélection 2",
+      "summary": "Sélection 2 : neuf références pour écoles, universités et bibliothèques : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/sante/page-1",
+      "source": "https://hymobilier.com/catalogue/sante/page-1/",
+      "title": "Établissements de santé et espaces de soins — sélection 1",
+      "summary": "Sélection 1 : neuf références pour établissements de santé et espaces de soins : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/sante/page-2",
+      "source": "https://hymobilier.com/catalogue/sante/page-2/",
+      "title": "Établissements de santé et espaces de soins — sélection 2",
+      "summary": "Sélection 2 : neuf références pour établissements de santé et espaces de soins : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/villas/page-1",
+      "source": "https://hymobilier.com/catalogue/villas/page-1/",
+      "title": "Villas et intérieurs privés — sélection 1",
+      "summary": "Sélection 1 : neuf références pour villas et intérieurs privés : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/villas/page-2",
+      "source": "https://hymobilier.com/catalogue/villas/page-2/",
+      "title": "Villas et intérieurs privés — sélection 2",
+      "summary": "Sélection 2 : neuf références pour villas et intérieurs privés : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/institutions/page-1",
+      "source": "https://hymobilier.com/catalogue/institutions/page-1/",
+      "title": "Institutions, administrations et espaces publics — sélection 1",
+      "summary": "Sélection 1 : neuf références pour institutions, administrations et espaces publics : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "catalogue/institutions/page-2",
+      "source": "https://hymobilier.com/catalogue/institutions/page-2/",
+      "title": "Institutions, administrations et espaces publics — sélection 2",
+      "summary": "Sélection 2 : neuf références pour institutions, administrations et espaces publics : comparez les fonctions, consultez les détails et préparez votre demande.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets",
+      "source": "https://hymobilier.com/projets/",
+      "title": "Projets et références du groupe en Afrique",
+      "summary": "Hôtellerie, éducation et institutions : découvrez cinq références du groupe au Kenya, en Tanzanie, au Nigeria et en République démocratique du Congo.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-014",
+      "source": "https://hymobilier.com/projets/hos-014/",
+      "title": "Projet : Lemaiyan Suites Naivasha — Kenya",
+      "summary": "Lemaiyan Suites Naivasha est une référence du groupe dans la catégorie hôtels, située au Kenya. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-017",
+      "source": "https://hymobilier.com/projets/hos-017/",
+      "title": "Projet : Robyson Residency Kinshasa — République démocratique du Congo",
+      "summary": "Robyson Residency Kinshasa est une référence du groupe dans la catégorie hôtels, située en République démocratique du Congo. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-018",
+      "source": "https://hymobilier.com/projets/hos-018/",
+      "title": "Projet : TOA Hotel & Spa Zanzibar — Tanzanie",
+      "summary": "TOA Hotel & Spa Zanzibar est une référence du groupe dans la catégorie resorts et destinations de loisirs, située en Tanzanie. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-012",
+      "source": "https://hymobilier.com/projets/off-012/",
+      "title": "Projet : Presidential Palace of DR Congo — République démocratique du Congo",
+      "summary": "Presidential Palace of DR Congo est une référence du groupe dans la catégorie bureaux et institutions, située en République démocratique du Congo. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-004",
+      "source": "https://hymobilier.com/projets/edu-004/",
+      "title": "Projet : Charterhouse Lagos — Nigeria",
+      "summary": "Charterhouse Lagos est une référence du groupe dans la catégorie éducation, située au Nigeria. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/nigeria-school-installation",
+      "source": "https://hymobilier.com/projets/nigeria-school-installation/",
+      "title": "Projet : School furniture installation in Nigeria — Nigeria",
+      "summary": "School furniture installation in Nigeria est une référence du groupe dans la catégorie éducation, située au Nigeria. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-003",
+      "source": "https://hymobilier.com/projets/hos-003/",
+      "title": "Projet : Elaf Hotel, Jeddah — Arabie saoudite",
+      "summary": "Elaf Hotel, Jeddah est une référence du groupe dans la catégorie hôtels, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-012",
+      "source": "https://hymobilier.com/projets/hos-012/",
+      "title": "Projet : Kempinski Hotel & Resort Sariya Yanbu — Arabie saoudite",
+      "summary": "Kempinski Hotel & Resort Sariya Yanbu est une référence du groupe dans la catégorie resorts et destinations de loisirs, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-007",
+      "source": "https://hymobilier.com/projets/hlt-007/",
+      "title": "Projet : Saudi German Hospital Makkah — Arabie saoudite",
+      "summary": "Saudi German Hospital Makkah est une référence du groupe dans la catégorie santé et soins, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-013",
+      "source": "https://hymobilier.com/projets/off-013/",
+      "title": "Projet : Saudi Payment — Arabie saoudite",
+      "summary": "Saudi Payment est une référence du groupe dans la catégorie bureaux et institutions, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-011",
+      "source": "https://hymobilier.com/projets/edu-011/",
+      "title": "Projet : Singapore Institute of Technology — Singapour",
+      "summary": "Singapore Institute of Technology est une référence du groupe dans la catégorie éducation, située à Singapour. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-009",
+      "source": "https://hymobilier.com/projets/hlt-009/",
+      "title": "Projet : Woodlands Health Campus — Singapour",
+      "summary": "Woodlands Health Campus est une référence du groupe dans la catégorie santé et soins, située à Singapour. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-002",
+      "source": "https://hymobilier.com/projets/off-002/",
+      "title": "Projet : Alibaba Group — Chine",
+      "summary": "Alibaba Group est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-002",
+      "source": "https://hymobilier.com/projets/edu-002/",
+      "title": "Projet : BBK Experimental School — Chine",
+      "summary": "BBK Experimental School est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-004",
+      "source": "https://hymobilier.com/projets/off-004/",
+      "title": "Projet : BYD Co., Ltd. — Chine",
+      "summary": "BYD Co., Ltd. est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-005",
+      "source": "https://hymobilier.com/projets/off-005/",
+      "title": "Projet : CCCC--FHDI Engineering Co., Ltd — Chine",
+      "summary": "CCCC--FHDI Engineering Co., Ltd est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-003",
+      "source": "https://hymobilier.com/projets/edu-003/",
+      "title": "Projet : CPC Provincial Party School — Chine",
+      "summary": "CPC Provincial Party School est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-006",
+      "source": "https://hymobilier.com/projets/off-006/",
+      "title": "Projet : China Insurance — Chine",
+      "summary": "China Insurance est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-005",
+      "source": "https://hymobilier.com/projets/edu-005/",
+      "title": "Projet : County Vocational Education And Training Base — Chine",
+      "summary": "County Vocational Education And Training Base est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-006",
+      "source": "https://hymobilier.com/projets/edu-006/",
+      "title": "Projet : Dasixiang Primary School — Chine",
+      "summary": "Dasixiang Primary School est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-007",
+      "source": "https://hymobilier.com/projets/off-007/",
+      "title": "Projet : FAW Jiefang (Qingdao) Commercial Vehicle Development Institute — Chine",
+      "summary": "FAW Jiefang (Qingdao) Commercial Vehicle Development Institute est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-001",
+      "source": "https://hymobilier.com/projets/hlt-001/",
+      "title": "Projet : Ganjiang New Area Hospital — Chine",
+      "summary": "Ganjiang New Area Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-005",
+      "source": "https://hymobilier.com/projets/hos-005/",
+      "title": "Projet : Ginlan Song Hotel — Chine",
+      "summary": "Ginlan Song Hotel est une référence du groupe dans la catégorie hôtels, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-002",
+      "source": "https://hymobilier.com/projets/hlt-002/",
+      "title": "Projet : Heshan People's Hospital — Chine",
+      "summary": "Heshan People's Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-009",
+      "source": "https://hymobilier.com/projets/hos-009/",
+      "title": "Projet : HongMou Hotel — Chine",
+      "summary": "HongMou Hotel est une référence du groupe dans la catégorie hôtels, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-007",
+      "source": "https://hymobilier.com/projets/edu-007/",
+      "title": "Projet : Industrial City Primary School — Chine",
+      "summary": "Industrial City Primary School est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-011",
+      "source": "https://hymobilier.com/projets/hos-011/",
+      "title": "Projet : JinShuiWan Hotel — Chine",
+      "summary": "JinShuiWan Hotel est une référence du groupe dans la catégorie hôtels, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-013",
+      "source": "https://hymobilier.com/projets/hos-013/",
+      "title": "Projet : Leezy Hotel — Chine",
+      "summary": "Leezy Hotel est une référence du groupe dans la catégorie hôtels, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-008",
+      "source": "https://hymobilier.com/projets/off-008/",
+      "title": "Projet : Lingang Center — Chine",
+      "summary": "Lingang Center est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-009",
+      "source": "https://hymobilier.com/projets/off-009/",
+      "title": "Projet : Macwell Electronic Technology Industrial Park — Chine",
+      "summary": "Macwell Electronic Technology Industrial Park est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-003",
+      "source": "https://hymobilier.com/projets/hlt-003/",
+      "title": "Projet : Maternal And Child Healthcare Hospital — Chine",
+      "summary": "Maternal And Child Healthcare Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-004",
+      "source": "https://hymobilier.com/projets/hlt-004/",
+      "title": "Projet : Meizhou People's Hospital — Chine",
+      "summary": "Meizhou People's Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-005",
+      "source": "https://hymobilier.com/projets/hlt-005/",
+      "title": "Projet : Nan'an Hospital — Chine",
+      "summary": "Nan'an Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-008",
+      "source": "https://hymobilier.com/projets/edu-008/",
+      "title": "Projet : New Library of Changzhou — Chine",
+      "summary": "New Library of Changzhou est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-015",
+      "source": "https://hymobilier.com/projets/hos-015/",
+      "title": "Projet : Pianzaihuang Hot Spring Hotel — Chine",
+      "summary": "Pianzaihuang Hot Spring Hotel est une référence du groupe dans la catégorie resorts et destinations de loisirs, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-006",
+      "source": "https://hymobilier.com/projets/hlt-006/",
+      "title": "Projet : Putian Chengxiang District Hospital — Chine",
+      "summary": "Putian Chengxiang District Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-010",
+      "source": "https://hymobilier.com/projets/edu-010/",
+      "title": "Projet : Sanshui Library — Chine",
+      "summary": "Sanshui Library est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/edu-012",
+      "source": "https://hymobilier.com/projets/edu-012/",
+      "title": "Projet : Vocational And Technical School — Chine",
+      "summary": "Vocational And Technical School est une référence du groupe dans la catégorie éducation, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-023",
+      "source": "https://hymobilier.com/projets/hos-023/",
+      "title": "Projet : White Swan Hotel Zhanjiang — Chine",
+      "summary": "White Swan Hotel Zhanjiang est une référence du groupe dans la catégorie hôtels, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-016",
+      "source": "https://hymobilier.com/projets/off-016/",
+      "title": "Projet : Wuhai Integrity Education Center — Chine",
+      "summary": "Wuhai Integrity Education Center est une référence du groupe dans la catégorie bureaux et institutions, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hlt-010",
+      "source": "https://hymobilier.com/projets/hlt-010/",
+      "title": "Projet : Yueda Ruikang Hospital — Chine",
+      "summary": "Yueda Ruikang Hospital est une référence du groupe dans la catégorie santé et soins, située en Chine. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-006",
+      "source": "https://hymobilier.com/projets/hos-006/",
+      "title": "Projet : Grand Kempinski Hotel — Asie — pays à préciser",
+      "summary": "Grand Kempinski Hotel est une référence du groupe dans la catégorie hôtels, située en Asie — pays à préciser. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-016",
+      "source": "https://hymobilier.com/projets/hos-016/",
+      "title": "Projet : Radisson Collection Hotel — Asie — pays à préciser",
+      "summary": "Radisson Collection Hotel est une référence du groupe dans la catégorie hôtels, située en Asie — pays à préciser. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-020",
+      "source": "https://hymobilier.com/projets/hos-020/",
+      "title": "Projet : The Hilton DoubleTree Hotel — Asie — pays à préciser",
+      "summary": "The Hilton DoubleTree Hotel est une référence du groupe dans la catégorie hôtels, située en Asie — pays à préciser. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-019",
+      "source": "https://hymobilier.com/projets/hos-019/",
+      "title": "Projet : The Ebrington Hotel Londonderry — Royaume-Uni (Irlande du Nord)",
+      "summary": "The Ebrington Hotel Londonderry est une référence du groupe dans la catégorie hôtels, située au Royaume-Uni (Irlande du Nord). Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-011",
+      "source": "https://hymobilier.com/projets/off-011/",
+      "title": "Projet : Papua New Guinea International Convention Center — Papouasie-Nouvelle-Guinée",
+      "summary": "Papua New Guinea International Convention Center est une référence du groupe dans la catégorie bureaux et institutions, située en Papouasie-Nouvelle-Guinée. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/hos-007",
+      "source": "https://hymobilier.com/projets/hos-007/",
+      "title": "Projet : Hilton Tashkent, Uzbekistan — Ouzbékistan",
+      "summary": "Hilton Tashkent, Uzbekistan est une référence du groupe dans la catégorie hôtels, située en Ouzbékistan. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "visibility": "public",
+      "updated": "2026-10-10"
     }
   ]
 }
