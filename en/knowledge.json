@@ -3347,6 +3347,66 @@
       "summary": "Hilton Tashkent, Uzbekistan is a group reference in the hotels category, located in Uzbekistan. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
       "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-015",
+      "title": "Walmart Costa Rica",
+      "source": "https://hymobilier.com/en/projets/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "This Costa Rican office reference brings workstations and informal collaboration into one workplace brief. Compare the use of shared areas before preparing your own office furniture schedule.",
+      "spaces": [
+        "Workstations",
+        "Informal meeting areas",
+        "Staff dining areas"
+      ],
+      "questions": [
+        "Separate individual and shared-space quantities.",
+        "Mark power and cable access on the plans.",
+        "Confirm the intended seating and circulation for shared areas."
+      ],
+      "language": "en",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "projets/off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "source": "https://hymobilier.com/en/projets/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "The Kuwaiti project reference brings private offices, shared work areas and meeting spaces into one furniture brief. Review the relationship between desk layouts, storage and visitor access.",
+      "spaces": [
+        "Private offices",
+        "Shared workstations",
+        "Meeting and training rooms"
+      ],
+      "questions": [
+        "Distinguish private offices from team workstations.",
+        "List storage needs and visitor seating by room.",
+        "Confirm meeting and training layouts before selection."
+      ],
+      "language": "en",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "projets/edu-001",
+      "title": "American University in Baghdad",
+      "source": "https://hymobilier.com/en/projets/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "This Iraqi university reference connects lobby seating and reception with the lecture-building circulation. The gallery includes project seating and the production of curved furniture components.",
+      "spaces": [
+        "Lobby seating",
+        "Reception",
+        "Curved furniture production"
+      ],
+      "questions": [
+        "Provide the curved seating dimensions and drawings.",
+        "Identify access routes and reception clearances.",
+        "Review samples and component interfaces before ordering."
+      ],
+      "language": "en",
+      "updated": "2026-10-21",
+      "visibility": "public"
     }
   ]
 }

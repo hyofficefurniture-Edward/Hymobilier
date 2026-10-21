@@ -3347,6 +3347,66 @@
       "summary": "Hilton Tashkent, Uzbekistan est une référence du groupe dans la catégorie hôtels, située en Ouzbékistan. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
       "visibility": "public",
       "updated": "2026-10-10"
+    },
+    {
+      "id": "projets/off-015",
+      "title": "Walmart Costa Rica",
+      "source": "https://hymobilier.com/projets/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "Cette référence de bureaux au Costa Rica associe postes de travail et espaces de collaboration. Elle aide à comparer les usages individuels et collectifs avant de préparer une liste de mobilier.",
+      "spaces": [
+        "Postes de travail",
+        "Réunions informelles",
+        "Restauration du personnel"
+      ],
+      "questions": [
+        "Séparez les quantités des zones individuelles et communes.",
+        "Repérez les alimentations et passages de câbles sur les plans.",
+        "Précisez les places assises et les circulations."
+      ],
+      "language": "fr",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "projets/off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "source": "https://hymobilier.com/projets/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "Cette référence au Koweït réunit bureaux privés, postes partagés et espaces de réunion. Examinez ensemble implantation, rangement et accueil des visiteurs.",
+      "spaces": [
+        "Bureaux privés",
+        "Postes partagés",
+        "Salles de réunion et de formation"
+      ],
+      "questions": [
+        "Distinguez bureaux individuels et espaces de travail en équipe.",
+        "Listez les besoins de rangement et les places visiteurs.",
+        "Validez les implantations de réunion et de formation."
+      ],
+      "language": "fr",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "projets/edu-001",
+      "title": "American University in Baghdad",
+      "source": "https://hymobilier.com/projets/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "Cette référence universitaire en Irak relie les assises du hall et la réception aux circulations. La galerie distingue le mobilier du projet et la fabrication des composants courbes.",
+      "spaces": [
+        "Assises du hall",
+        "Réception",
+        "Fabrication de composants courbes"
+      ],
+      "questions": [
+        "Transmettez les dimensions et plans des assises courbes.",
+        "Repérez les parcours et dégagements de la réception.",
+        "Examinez les échantillons et les interfaces avant commande."
+      ],
+      "language": "fr",
+      "updated": "2026-10-21",
+      "visibility": "public"
     }
   ]
 }
