@@ -585,5 +585,368 @@
       "hospitality"
     ],
     "sourceKind": "project-pdf"
+  },
+  {
+    "id": "off-015",
+    "name": "Walmart Costa Rica",
+    "country": "Costa Rica",
+    "region": "latin-america",
+    "industry": "office",
+    "image": "/images/project-library/walmart-costa-rica-workstation-area.webp",
+    "gallery": [
+      {
+        "image": "/images/project-library/walmart-costa-rica-workstation-area.webp",
+        "label": "project-documentation"
+      },
+      {
+        "image": "/images/project-library/walmart-costa-rica-brainstorm-area.webp",
+        "label": "project-documentation"
+      }
+    ],
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "published-project-page",
+    "publicLevel": "L3",
+    "evidenceGrade": "A",
+    "sourceUrl": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+    "reviewed": "2026-10-21",
+    "localized": {
+      "en": {
+        "intro": "This Costa Rican office reference brings workstations and informal collaboration into one workplace brief. Compare the use of shared areas before preparing your own office furniture schedule.",
+        "spaces": [
+          "Workstations",
+          "Informal meeting areas",
+          "Staff dining areas"
+        ],
+        "questions": [
+          "Separate individual and shared-space quantities.",
+          "Mark power and cable access on the plans.",
+          "Confirm the intended seating and circulation for shared areas."
+        ]
+      },
+      "ru": {
+        "intro": "Офисный проект в Коста-Рике объединяет рабочие места и зоны неформального общения. Сравните назначение общих зон до подготовки своей ведомости мебели.",
+        "spaces": [
+          "Рабочие места",
+          "Зоны неформальных встреч",
+          "Столовая для сотрудников"
+        ],
+        "questions": [
+          "Разделите количество мебели для личных и общих зон.",
+          "Отметьте питание и кабельные выводы на плане.",
+          "Уточните число мест и проходы в общих пространствах."
+        ]
+      },
+      "kk": {
+        "intro": "Коста-Рикадағы кеңсе жобасы жұмыс орындары мен бейресми кездесу аймақтарын біріктіреді. Өз жиһаз тізіміңізді дайындау алдында ортақ кеңістіктердің қызметін салыстырыңыз.",
+        "spaces": [
+          "Жұмыс орындары",
+          "Бейресми кездесу аймақтары",
+          "Қызметкерлердің асханасы"
+        ],
+        "questions": [
+          "Жеке және ортақ аймақтардың жиһаз санын бөліңіз.",
+          "Жоспарда қуат пен кабель нүктелерін көрсетіңіз.",
+          "Ортақ кеңістіктердегі орын санын және өту жолдарын нақтылаңыз."
+        ]
+      },
+      "uz": {
+        "intro": "Kosta-Rikadagi ofis loyihasi ish joylari va norasmiy uchrashuv hududlarini birlashtiradi. O‘z mebel ro‘yxatingizni tayyorlashdan oldin umumiy joylarning vazifasini solishtiring.",
+        "spaces": [
+          "Ish joylari",
+          "Norasmiy uchrashuv hududlari",
+          "Xodimlar ovqatlanish joyi"
+        ],
+        "questions": [
+          "Shaxsiy va umumiy hududlar mebel miqdorini ajrating.",
+          "Rejada elektr va kabel nuqtalarini belgilang.",
+          "Umumiy joylardagi o‘rindiqlar va yo‘laklarni aniqlang."
+        ]
+      },
+      "mn": {
+        "intro": "Коста-Рикагийн оффисын төсөл ажлын байр болон албан бус уулзалтын бүсийг нэгтгэнэ. Өөрийн тавилгын жагсаалтыг гаргахын өмнө нийтийн талбайн зориулалтыг харьцуулна уу.",
+        "spaces": [
+          "Ажлын байр",
+          "Албан бус уулзалтын бүс",
+          "Ажилчдын хоолны талбай"
+        ],
+        "questions": [
+          "Хувийн болон нийтийн бүсийн тавилгын тоог тусгаарлана уу.",
+          "Цахилгаан ба кабелийн цэгийг зурагт тэмдэглэнэ үү.",
+          "Нийтийн талбайн суудал болон гарцыг тодруулна уу."
+        ]
+      },
+      "es": {
+        "intro": "Esta referencia de oficinas en Costa Rica combina puestos de trabajo y espacios para compartir ideas. Permite comparar el uso de áreas individuales y comunes antes de preparar una lista de mobiliario.",
+        "spaces": [
+          "Puestos de trabajo",
+          "Áreas de reunión informal",
+          "Comedor del personal"
+        ],
+        "questions": [
+          "Separa las cantidades de las zonas individuales y compartidas.",
+          "Marca las tomas de corriente y pasos de cable en el plano.",
+          "Define los asientos y recorridos de las zonas comunes."
+        ]
+      },
+      "fr": {
+        "intro": "Cette référence de bureaux au Costa Rica associe postes de travail et espaces de collaboration. Elle aide à comparer les usages individuels et collectifs avant de préparer une liste de mobilier.",
+        "spaces": [
+          "Postes de travail",
+          "Réunions informelles",
+          "Restauration du personnel"
+        ],
+        "questions": [
+          "Séparez les quantités des zones individuelles et communes.",
+          "Repérez les alimentations et passages de câbles sur les plans.",
+          "Précisez les places assises et les circulations."
+        ]
+      }
+    },
+    "imageWidth": 1800,
+    "imageHeight": 959
+  },
+  {
+    "id": "off-001",
+    "name": "Ahmadi Services Group, Kuwait Oil Company",
+    "country": "Kuwait",
+    "region": "middle-east",
+    "industry": "office",
+    "image": "/images/project-library/ahmadi-kuwait-executive-office.webp",
+    "gallery": [
+      {
+        "image": "/images/project-library/ahmadi-kuwait-executive-office.webp",
+        "label": "project-documentation"
+      },
+      {
+        "image": "/images/project-library/ahmadi-kuwait-training-room.webp",
+        "label": "project-documentation"
+      }
+    ],
+    "tags": [
+      "office"
+    ],
+    "sourceKind": "published-project-page",
+    "publicLevel": "L3",
+    "evidenceGrade": "A",
+    "sourceUrl": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+    "reviewed": "2026-10-21",
+    "localized": {
+      "en": {
+        "intro": "The Kuwaiti project reference brings private offices, shared work areas and meeting spaces into one furniture brief. Review the relationship between desk layouts, storage and visitor access.",
+        "spaces": [
+          "Private offices",
+          "Shared workstations",
+          "Meeting and training rooms"
+        ],
+        "questions": [
+          "Distinguish private offices from team workstations.",
+          "List storage needs and visitor seating by room.",
+          "Confirm meeting and training layouts before selection."
+        ]
+      },
+      "ru": {
+        "intro": "Кувейтский проект объединяет отдельные кабинеты, общие рабочие зоны и пространства встреч. Сопоставьте расстановку столов, хранение и доступ посетителей.",
+        "spaces": [
+          "Отдельные кабинеты",
+          "Общие рабочие места",
+          "Переговорные и учебные помещения"
+        ],
+        "questions": [
+          "Разделите отдельные кабинеты и командные рабочие места.",
+          "Укажите хранение и гостевые места по помещениям.",
+          "Согласуйте планировки переговорных и учебных комнат."
+        ]
+      },
+      "kk": {
+        "intro": "Кувейттегі жоба жеке кабинеттерді, ортақ жұмыс орындарын және кездесу кеңістіктерін қамтиды. Үстел орналасуын, сақтауды және келушілер жолын бірге қарастырыңыз.",
+        "spaces": [
+          "Жеке кабинеттер",
+          "Ортақ жұмыс орындары",
+          "Кездесу және оқу бөлмелері"
+        ],
+        "questions": [
+          "Жеке кабинеттер мен топтық жұмыс орындарын ажыратыңыз.",
+          "Әр бөлменің сақтау және қонақ орындарын тізіңіз.",
+          "Кездесу мен оқу бөлмелерінің жоспарын растаңыз."
+        ]
+      },
+      "uz": {
+        "intro": "Quvaytdagi loyiha alohida kabinetlar, umumiy ish joylari va uchrashuv xonalarini qamrab oladi. Stollar joylashuvi, saqlash va tashrif buyuruvchilar yo‘nalishini birga ko‘rib chiqing.",
+        "spaces": [
+          "Alohida kabinetlar",
+          "Umumiy ish joylari",
+          "Uchrashuv va o‘quv xonalari"
+        ],
+        "questions": [
+          "Alohida kabinetlar va jamoaviy ish joylarini ajrating.",
+          "Har xona uchun saqlash va mehmon o‘rindiqlarini ko‘rsating.",
+          "Uchrashuv va o‘quv xonalari rejasini tasdiqlang."
+        ]
+      },
+      "mn": {
+        "intro": "Кувейтийн төсөл хувийн өрөө, хамтын ажлын байр болон уулзалтын талбайг хамарна. Ширээний байрлал, хадгалалт болон зочдын хөдөлгөөнийг хамтад нь авч үзнэ үү.",
+        "spaces": [
+          "Хувийн өрөөнүүд",
+          "Хамтын ажлын байр",
+          "Уулзалт ба сургалтын өрөө"
+        ],
+        "questions": [
+          "Хувийн өрөө болон багийн ажлын байрыг ялгана уу.",
+          "Өрөө тус бүрийн хадгалалт ба зочны суудлыг жагсаана уу.",
+          "Уулзалт, сургалтын өрөөний төлөвлөлтийг баталгаажуулна уу."
+        ]
+      },
+      "es": {
+        "intro": "La referencia de Kuwait reúne despachos privados, puestos de trabajo y espacios de reunión. Revisa la relación entre la distribución, el almacenaje y la atención a visitantes.",
+        "spaces": [
+          "Despachos privados",
+          "Puestos compartidos",
+          "Salas de reunión y formación"
+        ],
+        "questions": [
+          "Distingue los despachos y las áreas de trabajo en equipo.",
+          "Indica el almacenaje y los asientos de visita por estancia.",
+          "Confirma la distribución de las salas antes de seleccionar el mobiliario."
+        ]
+      },
+      "fr": {
+        "intro": "Cette référence au Koweït réunit bureaux privés, postes partagés et espaces de réunion. Examinez ensemble implantation, rangement et accueil des visiteurs.",
+        "spaces": [
+          "Bureaux privés",
+          "Postes partagés",
+          "Salles de réunion et de formation"
+        ],
+        "questions": [
+          "Distinguez bureaux individuels et espaces de travail en équipe.",
+          "Listez les besoins de rangement et les places visiteurs.",
+          "Validez les implantations de réunion et de formation."
+        ]
+      }
+    },
+    "imageWidth": 1800,
+    "imageHeight": 1184
+  },
+  {
+    "id": "edu-001",
+    "name": "American University in Baghdad",
+    "country": "Iraq",
+    "region": "middle-east",
+    "industry": "education",
+    "image": "/images/project-library/auib-lecture-hall-seating.webp",
+    "gallery": [
+      {
+        "image": "/images/project-library/auib-lecture-hall-seating.webp",
+        "label": "project-documentation"
+      },
+      {
+        "image": "/images/project-library/auib-seating-production.webp",
+        "label": "project-documentation"
+      }
+    ],
+    "tags": [
+      "education"
+    ],
+    "sourceKind": "published-project-page",
+    "publicLevel": "L3",
+    "evidenceGrade": "A",
+    "sourceUrl": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+    "reviewed": "2026-10-21",
+    "localized": {
+      "en": {
+        "intro": "This Iraqi university reference connects lobby seating and reception with the lecture-building circulation. The gallery includes project seating and the production of curved furniture components.",
+        "spaces": [
+          "Lobby seating",
+          "Reception",
+          "Curved furniture production"
+        ],
+        "questions": [
+          "Provide the curved seating dimensions and drawings.",
+          "Identify access routes and reception clearances.",
+          "Review samples and component interfaces before ordering."
+        ]
+      },
+      "ru": {
+        "intro": "Университетский проект в Ираке связывает мебель вестибюля и приёмной с маршрутами движения. Галерея показывает проектную мебель и изготовление изогнутых элементов.",
+        "spaces": [
+          "Места ожидания в вестибюле",
+          "Приёмная",
+          "Производство изогнутой мебели"
+        ],
+        "questions": [
+          "Передайте размеры и чертежи изогнутых сидений.",
+          "Обозначьте пути движения и зазоры у приёмной.",
+          "Проверьте образцы и стыки компонентов до заказа."
+        ]
+      },
+      "kk": {
+        "intro": "Ирактағы университет жобасында вестибюль мен қабылдау жиһазы қозғалыс жолдарымен үйлестіріледі. Галереяда жоба жиһазы мен қисық элементтердің өндірісі көрсетілген.",
+        "spaces": [
+          "Вестибюльдегі орындықтар",
+          "Қабылдау аймағы",
+          "Қисық жиһаз өндірісі"
+        ],
+        "questions": [
+          "Қисық орындықтардың өлшемдері мен сызбаларын беріңіз.",
+          "Қозғалыс жолдары мен қабылдау аралықтарын белгілеңіз.",
+          "Тапсырыс алдында үлгілер мен түйісулерді тексеріңіз."
+        ]
+      },
+      "uz": {
+        "intro": "Iroqdagi universitet loyihasida foye va qabul mebellari harakat yo‘nalishlari bilan bog‘langan. Galereyada loyiha o‘rindiqlari va egri mebel qismlarining ishlab chiqarilishi ko‘rsatilgan.",
+        "spaces": [
+          "Foye o‘rindiqlari",
+          "Qabul joyi",
+          "Egri mebel ishlab chiqarish"
+        ],
+        "questions": [
+          "Egri o‘rindiqlar o‘lchami va chizmalarini yuboring.",
+          "Harakat yo‘llari va qabul joyi oraliqlarini belgilang.",
+          "Buyurtmadan oldin namunalar va qismlar tutashuvini tekshiring."
+        ]
+      },
+      "mn": {
+        "intro": "Иракийн их сургуулийн төсөлд үүдний суудал болон хүлээн авах тавилгыг хөдөлгөөний урсгалтай уялдуулсан. Зургийн хэсэгт төслийн тавилга болон муруй эд ангийн үйлдвэрлэлийг харуулсан.",
+        "spaces": [
+          "Үүдний суудал",
+          "Хүлээн авах хэсэг",
+          "Муруй тавилга үйлдвэрлэл"
+        ],
+        "questions": [
+          "Муруй суудлын хэмжээ ба зургийг өгнө үү.",
+          "Хөдөлгөөний зам, хүлээн авах хэсгийн зайг тэмдэглэнэ үү.",
+          "Захиалахаас өмнө дээж ба эд ангийн залгаасыг шалгана уу."
+        ]
+      },
+      "es": {
+        "intro": "La referencia universitaria en Irak relaciona los asientos del vestíbulo y la recepción con la circulación. La galería distingue el mobiliario del proyecto y la fabricación de componentes curvos.",
+        "spaces": [
+          "Asientos del vestíbulo",
+          "Recepción",
+          "Producción de componentes curvos"
+        ],
+        "questions": [
+          "Facilita planos y dimensiones de los asientos curvos.",
+          "Identifica los recorridos y espacios libres en recepción.",
+          "Revisa muestras y encuentros entre componentes antes del pedido."
+        ]
+      },
+      "fr": {
+        "intro": "Cette référence universitaire en Irak relie les assises du hall et la réception aux circulations. La galerie distingue le mobilier du projet et la fabrication des composants courbes.",
+        "spaces": [
+          "Assises du hall",
+          "Réception",
+          "Fabrication de composants courbes"
+        ],
+        "questions": [
+          "Transmettez les dimensions et plans des assises courbes.",
+          "Repérez les parcours et dégagements de la réception.",
+          "Examinez les échantillons et les interfaces avant commande."
+        ]
+      }
+    },
+    "imageWidth": 2956,
+    "imageHeight": 2217
   }
 ]
