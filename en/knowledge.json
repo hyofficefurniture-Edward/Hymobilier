@@ -3024,9 +3024,16 @@
       "id": "projets/hos-003",
       "source": "https://hymobilier.com/en/projets/hos-003/",
       "title": "Project: Elaf Hotel, Jeddah — Saudi Arabia",
-      "summary": "Elaf Hotel, Jeddah is a group reference in the hotels category, located in Saudi Arabia. The visuals above come from the corresponding document or the group project library.",
+      "summary": "The company project presentation identifies Elaf Hotel in Jeddah, Saudi Arabia, and lists lobbies, suites, restaurant, massage and meeting spaces. These are the documented categories of the reference; they do not make every furniture item shown a specification for another hotel.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-25",
+      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
+      "procurementAdvice": [
+        "Create a schedule by space: suite furniture, reception or lobby seating, dining pieces and meeting-room furniture serve different uses. For a new project, state the number of each room type and the activities in each shared area before asking for matching pieces.",
+        "Mark wall junctions, power points, circulation and access on measured plans. Review how wardrobes, beds and movable seating meet the room layout. Samples, dimensions and accessory scope should be approved separately; this is a preparation method, not a claim about an unverified procedure used on the original project.",
+        "The existing project images are retained with their original reference role. They cannot verify hidden dimensions, a sensor specification, fire performance, a material test or a guaranteed delivery period. Ask for the documents applicable to the selected items and the intended destination."
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "projets/hos-012",
@@ -3373,7 +3380,7 @@
       "title": "Ahmadi Services Group, Kuwait Oil Company",
       "source": "https://hymobilier.com/en/projets/off-001/",
       "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "The Kuwaiti project reference brings private offices, shared work areas and meeting spaces into one furniture brief. Review the relationship between desk layouts, storage and visitor access.",
+      "summary": "The Kuwait office project documentation separates executive offices, reading or library areas, workstations, conference spaces and a training room. This range makes the case useful for discussing different workplace functions rather than treating the entire building as one repeated desk layout.",
       "spaces": [
         "Private offices",
         "Shared workstations",
@@ -3385,8 +3392,14 @@
         "Confirm meeting and training layouts before selection."
       ],
       "language": "en",
-      "updated": "2026-10-21",
-      "visibility": "public"
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "procurementAdvice": [
+        "List individual offices, shared workstations, meeting rooms, reading areas and training spaces separately. For each, identify expected users, visitor seating and storage requirements. This creates a more useful brief than a single total workstation count.",
+        "For a new office, map power, data access, movement behind occupied chairs and cabinet opening clearances. Compare meeting-table layouts with sightlines and room access. These are procurement checks for the new project; the source photographs do not provide the hidden dimensions needed to reproduce the original furniture.",
+        "The public reference establishes the workplace categories and the company’s project presentation. It does not replace an item-specific test report or guarantee ergonomic, acoustic or load performance. Confirm each selected finish, sample and interface in the approved furniture schedule."
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "projets/edu-001",

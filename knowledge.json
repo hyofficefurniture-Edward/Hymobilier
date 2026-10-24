@@ -3024,9 +3024,16 @@
       "id": "projets/hos-003",
       "source": "https://hymobilier.com/projets/hos-003/",
       "title": "Projet : Elaf Hotel, Jeddah — Arabie saoudite",
-      "summary": "Elaf Hotel, Jeddah est une référence du groupe dans la catégorie hôtels, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "summary": "La présentation du groupe identifie Elaf Hotel à Djeddah, en Arabie saoudite, et cite halls, suites, restaurant, espaces de massage et de réunion. Ce sont les zones décrites dans le dossier ; elles ne transforment pas chaque meuble illustré en spécification applicable à un autre hôtel.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-25",
+      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
+      "procurementAdvice": [
+        "Préparez une liste par zone : mobilier de suite, accueil, assises du hall, restauration et réunion répondent à des usages différents. Pour un nouveau projet, indiquez les types de chambres, leurs quantités et les activités de chaque espace commun avant de choisir les pièces.",
+        "Repérez sur les plans cotés les jonctions aux murs, les prises, les circulations et les accès. Vérifiez la relation entre rangement, lit et assises mobiles. Dimensions, échantillons et accessoires se valident séparément : cette démarche est un conseil de préparation, pas une procédure attribuée sans preuve au chantier d’origine.",
+        "Les images existantes gardent leur rôle de référence du projet. Elles ne vérifient ni cotes cachées, ni système de détection, ni comportement au feu, ni essai de matériau, ni délai garanti. Demandez les documents qui s’appliquent aux éléments choisis et à leur destination."
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "projets/hos-012",
@@ -3373,7 +3380,7 @@
       "title": "Ahmadi Services Group, Kuwait Oil Company",
       "source": "https://hymobilier.com/projets/off-001/",
       "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "Cette référence au Koweït réunit bureaux privés, postes partagés et espaces de réunion. Examinez ensemble implantation, rangement et accueil des visiteurs.",
+      "summary": "Le dossier du projet de bureaux au Koweït distingue bureaux de direction, espaces de lecture ou bibliothèque, postes de travail, réunion et formation. Cette diversité permet de discuter les fonctions du lieu de travail au lieu de traiter tout le bâtiment comme une répétition du même bureau.",
       "spaces": [
         "Bureaux privés",
         "Postes partagés",
@@ -3385,8 +3392,14 @@
         "Validez les implantations de réunion et de formation."
       ],
       "language": "fr",
-      "updated": "2026-10-21",
-      "visibility": "public"
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "procurementAdvice": [
+        "Distinguez bureaux individuels, postes partagés, salles de réunion, zones de lecture et espaces de formation. Pour chaque zone, précisez utilisateurs, visiteurs et besoins de rangement. Le dossier sera plus exploitable qu’un simple nombre global de postes.",
+        "Pour le nouveau bureau, repérez alimentation, réseau, passage derrière les sièges occupés et ouverture des rangements. Comparez les tables de réunion aux lignes de vue et aux accès. Ce sont des points de préparation : les photographies ne donnent pas les cotes cachées nécessaires pour reproduire les meubles du projet.",
+        "Le document public établit les catégories d’espaces et la présentation du projet par le groupe. Il ne remplace pas un rapport d’essai propre à un article et ne garantit pas ses performances ergonomiques, acoustiques ou de charge. Confirmez finitions, échantillons et interfaces dans la liste approuvée."
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "projets/edu-001",
