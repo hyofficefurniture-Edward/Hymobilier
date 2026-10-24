@@ -3407,6 +3407,25 @@
       "language": "en",
       "updated": "2026-10-21",
       "visibility": "public"
+    },
+    {
+      "id": "projets/hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "source": "https://hymobilier.com/en/projets/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Holiday Inn Fairview Heights in the United States is documented in the group hotel project library. The company source separates guestrooms from public areas and illustrates furniture for sleeping, working, sitting and storing luggage. This reference helps a project team define a coordinated furniture schedule; it is not evidence that another order has the same dimensions, materials or delivery conditions.",
+      "documentedSpaces": [
+        "Guestrooms",
+        "Public-area seating"
+      ],
+      "procurementAdvice": [
+        "Separate the request by room type and furniture item. Ask the design and procurement teams to identify what is fixed, what is movable and which accessories are included. When discussing seating or a writing area, record the intended use and the available clearances rather than copying a catalogue size without checking the room.",
+        "Confirm power and lighting locations, cable access, furniture-to-wall junctions and delivery access. Review material samples and the approved finish schedule together so that adjacent pieces can be coordinated. These are recommendations for a new project, not a claim that the original project used a particular installation or approval procedure."
+      ],
+      "language": "en",
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "publicLevel": "L3"
     }
   ]
 }

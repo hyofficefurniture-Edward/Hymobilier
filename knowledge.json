@@ -3407,6 +3407,25 @@
       "language": "fr",
       "updated": "2026-10-21",
       "visibility": "public"
+    },
+    {
+      "id": "projets/hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "source": "https://hymobilier.com/projets/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Le Holiday Inn Fairview Heights, aux États-Unis, figure dans la documentation hôtelière du groupe. La page source distingue les chambres des espaces communs et présente du mobilier pour dormir, travailler, s’asseoir et organiser les effets personnels. Ce cas aide à construire une liste de mobilier cohérente ; il ne fixe ni les dimensions, ni les matériaux, ni les conditions de livraison d’une autre commande.",
+      "documentedSpaces": [
+        "Guestrooms",
+        "Public-area seating"
+      ],
+      "procurementAdvice": [
+        "Distinguez les types de chambres, puis les meubles à chiffrer dans chacun. Identifiez les éléments fixes, les meubles mobiles et les accessoires inclus. Pour le bureau et les assises, précisez l’usage et les dégagements disponibles avant de choisir un format. Cette méthode produit un échange plus précis qu’une simple demande de prix accompagnée d’une image.",
+        "Repérez prises, éclairage, passages de câbles, jonctions au mur et accès de livraison. Comparez les échantillons et le tableau de finitions afin de coordonner les éléments voisins. Il s’agit de conseils pour préparer un nouveau dossier, et non d’une description non vérifiée des procédures suivies pour ce chantier."
+      ],
+      "language": "fr",
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "publicLevel": "L3"
     }
   ]
 }
