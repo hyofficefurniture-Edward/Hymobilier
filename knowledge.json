@@ -2975,10 +2975,39 @@
     {
       "id": "projets/hos-014",
       "source": "https://hymobilier.com/projets/hos-014/",
-      "title": "Projet : Lemaiyan Suites Naivasha — Kenya",
-      "summary": "Lemaiyan Suites Naivasha est une référence du groupe dans la catégorie hôtels, située au Kenya. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "title": "Lemaiyan Suites Naivasha : mobilier hôtelier au Kenya",
+      "summary": "Lemaiyan Suites Naivasha, au Kenya, est une référence hôtelière du groupe. Une chambre et un siège présenté dans la partie production de son dossier permettent de discuter aménagement, validation des échantillons et préparation d’un nouvel achat.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-30",
+      "procurementSections": [
+        [
+          "Ce que documente le dossier de Naivasha",
+          "Le document du groupe nomme Lemaiyan Suites Naivasha et le Kenya. Les deux images retenues proviennent des parties chambre et production ; les vues de réception montrant du personnel ne sont pas reprises. La référence établit un contexte hôtelier en Afrique de l’Est, sans constituer un inventaire contractuel de tous les éléments photographiés."
+        ],
+        [
+          "Chambre : séparer implantation et liste de mobilier",
+          "Pour un nouvel hôtel, commencez par les types de chambres et les plans cotés. Positionnez lit, chevets, assises et bagagerie avec les passages, les prises et les ouvertures. Séparez menuiseries fixées, pièces mobiles, éclairage et équipements relevant d’autres intervenants. Ce sont des vérifications pour votre opération, pas des quantités ou prestations attribuées à ce projet."
+        ],
+        [
+          "Échantillon : partir du siège réellement sélectionné",
+          "La vue de production sert à poser des questions concrètes sur l’échantillon : dimensions, hauteur d’assise, coutures, finition et zone à comparer au dessin. Demandez les justificatifs applicables à la référence retenue et à son usage. La présence d’un siège dans un dossier ne confirme pas une composition de revêtement, une résistance au feu ou une certification pour une nouvelle commande."
+        ],
+        [
+          "Destination francophone : définir les interfaces de réception",
+          "Pour une opération au Maroc, en France ou dans un autre marché francophone, transmettez la destination, les accès, les quantités par espace et la répartition des responsabilités. Faites confirmer étiquetage, emballage, transport, réception et montage dans votre offre. Une référence kenyane ne signifie ni stock local, ni équipe installée, ni délai garanti dans votre pays."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Ces photos constituent-elles une fiche technique de produit ?",
+          "a": "Non. Elles documentent une chambre et un siège de production dans le dossier du projet. Dimensions, matières, échantillons et justificatifs doivent être confirmés pour le produit choisi."
+        },
+        {
+          "q": "Quels éléments envoyer pour une demande hôtelière comparable ?",
+          "a": "Les plans cotés, types de chambres, quantités, destination et priorités de finition, en citant HOS-014. Distinguez mobilier fixe, pièces mobiles et équipements à confirmer séparément."
+        }
+      ],
+      "imageClassification": "Reviewed guestroom photograph and document-labelled production chair; staff images excluded"
     },
     {
       "id": "projets/hos-017",

@@ -2975,10 +2975,39 @@
     {
       "id": "projets/hos-014",
       "source": "https://hymobilier.com/en/projets/hos-014/",
-      "title": "Project: Lemaiyan Suites Naivasha — Kenya",
-      "summary": "Lemaiyan Suites Naivasha is a group reference in the hotels category, located in Kenya. The visuals above come from the corresponding document or the group project library.",
+      "title": "Lemaiyan Suites Naivasha: a Kenya hotel furniture reference",
+      "summary": "Lemaiyan Suites Naivasha in Kenya is a group hospitality reference. A guestroom image and a chair shown in its production section provide a starting point for room planning, sample review and the scope of a new furniture enquiry.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-30",
+      "procurementSections": [
+        [
+          "What the Naivasha document establishes",
+          "The group document identifies Lemaiyan Suites Naivasha and Kenya. The selected guestroom and production-chair images contain no people; reception images showing staff are excluded. This is an East African hospitality reference, not an item-by-item contract schedule for everything visible in the room."
+        ],
+        [
+          "Guestroom planning: keep the layout separate from the order list",
+          "For a new hotel, start with room types and measured plans. Coordinate beds, bedside units, seating and luggage storage with circulation, outlets and door openings. Separate fixed joinery, loose furniture, lighting and other-team equipment. These are checks for the next brief, not unverified quantities or services attributed to the Kenyan project."
+        ],
+        [
+          "Sample approval: inspect the chair actually selected",
+          "Use the production image to frame a sample review: dimensions, seat height, seams, finish and the details to compare with the approved drawing. Request evidence applicable to the chosen item and intended use. A chair in a project document does not certify upholstery composition, fire performance or compliance for a new order."
+        ],
+        [
+          "Plan delivery responsibilities for your own destination",
+          "For a French-speaking destination or another overseas market, provide the city, site access, quantities by space and the intended responsibility split. Agree labels, packing, transport, receipt and installation in the offer. A Kenyan reference establishes no local stock, local installation team or guaranteed schedule elsewhere."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Do these images constitute a product specification?",
+          "a": "No. They document a guestroom and a production chair in the project file. Confirm dimensions, materials, samples and supporting documents for the item selected."
+        },
+        {
+          "q": "What should I provide for a comparable hotel enquiry?",
+          "a": "Measured plans, room types, quantities, destination and finish priorities, quoting HOS-014. Separate fixed furniture, loose items and equipment requiring its own confirmation."
+        }
+      ],
+      "imageClassification": "Reviewed guestroom photograph and document-labelled production chair; staff images excluded"
     },
     {
       "id": "projets/hos-017",
