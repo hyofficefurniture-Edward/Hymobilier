@@ -3347,10 +3347,45 @@
     {
       "id": "projets/hos-016",
       "source": "https://hymobilier.com/projets/hos-016/",
-      "title": "Projet : Radisson Collection Hotel — Asie — pays à préciser",
-      "summary": "Radisson Collection Hotel est une référence du groupe dans la catégorie hôtels, située en Asie — pays à préciser. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "title": "Radisson Collection Lingang Shanghai : référence hôtelière en Chine",
+      "summary": "Le dossier Radisson Collection du groupe est rattaché à Lingang, Shanghai, en Chine, grâce à l’identification de l’établissement et aux informations de son exploitant. Cette référence invite à distinguer mobilier de chambre et mobilier d’appartement avec services dans un nouvel appel d’offres.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-30",
+      "country": "China",
+      "city": "Shanghai",
+      "region": "china",
+      "procurementSections": [
+        [
+          "Une localisation recoupée : Lingang, Shanghai",
+          "L’identification visible dans le dossier du groupe est recoupée avec la page officielle de Radisson Collection Lingang Shanghai. L’exploitant présente des chambres, des suites et des appartements avec services. Ces informations précisent l’identité et les usages de l’établissement ; le périmètre des pièces effectivement fournies reste à vérifier dans les documents de fourniture."
+        ],
+        [
+          "Chambres : constituer une liste par typologie",
+          "Pour votre nouvel hôtel, séparez lits, chevets, bureau, bagagerie et rangements sur chaque plan de chambre. Vérifiez passages, ouvertures, prises et jonctions avec les habillages fixés. Le nombre de chambres annoncé par un exploitant ne peut pas être repris comme quantité de mobilier livrée par un fournisseur."
+        ],
+        [
+          "Appartements avec services : une nomenclature distincte",
+          "Dans un nouveau programme de séjour prolongé, distinguez couchage, repas, rangement et zones d’équipement. Définissez qui fournit mobilier, appareils et raccordements avant de chiffrer. Une image d’hôtel ou d’appartement ne suffit pas à inclure une cuisine, un électroménager ou une installation technique dans l’offre de mobilier."
+        ],
+        [
+          "Valider un nouvel achat sur pièces et échantillons",
+          "Demandez un bordereau par espace avec dimensions, finitions, quantités et références d’échantillons. Préparez les accès, emballages et responsabilités de montage pour votre destination. Ce projet chinois sert de contexte de travail ; les essais, conditions de transport et services locaux de votre commande doivent être confirmés séparément."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "L’hôtel est-il situé dans un pays encore inconnu ?",
+          "a": "La localisation a été précisée : Lingang, Shanghai, Chine. L’identité dans le dossier du groupe a été rapprochée des informations officielles de l’exploitant."
+        },
+        {
+          "q": "Le nombre de chambres correspond-il au volume fourni par Hongye ?",
+          "a": "Non. Les informations de capacité de l’hôtel décrivent l’établissement. Seuls les documents de fourniture peuvent préciser les pièces, quantités et prestations attribuées au groupe."
+        }
+      ],
+      "locationSources": [
+        "https://www.radissonhotels.com/en-us/hotels/radisson-collection-lingang-shanghai",
+        "https://www.radissonhotels.com/en-us/hotels/radisson-collection-lingang-shanghai/rooms"
+      ]
     },
     {
       "id": "projets/hos-020",
