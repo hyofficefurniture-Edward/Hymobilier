@@ -907,6 +907,210 @@
       "visibility": "public"
     },
     {
+      "id": "ressources/phaser-renovation-hotel",
+      "source": "https://hymobilier.com/ressources/phaser-renovation-hotel/",
+      "title": "Phaser une rénovation d’hôtel : chambres, réception et restaurant",
+      "summary": "Une rénovation d’hôtel se conduit rarement en une seule phase. Découper le chantier par espace — chambres, réception, restaurant — permet de garder l’établissement en exploitation et de comparer les propositions sur un périmètre identique.",
+      "sections": [
+        [
+          "Pourquoi découper la rénovation par espace",
+          "Le découpage suit l’exploitation, pas le catalogue. Une aile de chambres peut fermer pendant que la réception reste en service ; l’inverse est rarement possible. Pour chaque espace, notez les dates d’indisponibilité, les contraintes de stockage sur site et l’accès de montage avant de comparer des propositions."
+        ],
+        [
+          "Commencer par les chambres",
+          "Les chambres représentent le volume le plus important et le plus répétitif. Regroupez-les par type, puis indiquez pour chaque type le nombre de lits, de têtes de lit, de bureaux et de rangements. Un type validé sert de référence aux suivants ; les écarts de surface se traitent ensuite, plutôt qu’au moment de la commande."
+        ],
+        [
+          "Traiter la réception et les espaces publics",
+          "La réception combine une zone d’accueil, un poste de travail et une circulation. Les dimensions du comptoir, les passages de câbles et les contraintes d’accessibilité s’examinent avec le plan : une configuration visuellement proche peut répondre à des usages différents."
+        ],
+        [
+          "Caler le restaurant et les espaces de restauration",
+          "Le nombre de couverts, le mode de service et le rangement déterminent la sélection. Tables, sièges et buffets se vérifient ensemble : une table choisie pour la salle ne convient pas nécessairement à la terrasse ni au service du petit-déjeuner."
+        ],
+        [
+          "Répartir les responsabilités et les étapes",
+          "Fabrication, transport, réception, montage et reprise des emballages correspondent à des étapes distinctes. Elles apparaissent séparément dans le dossier, avec la responsabilité de chacune. Cette précision évite les écarts d’interprétation entre deux propositions."
+        ]
+      ],
+      "checklist": [
+        "Espaces et dates d’indisponibilité",
+        "Nombre de chambres par type",
+        "Circulations et accès de montage",
+        "Contraintes de stockage sur site",
+        "Responsabilités transport et montage",
+        "Références de matériaux et de finitions"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/comparer-devis/",
+        "https://hymobilier.com/references/chambre-hotel/",
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
+        "https://hymobilier.com/collections/banque-accueil/",
+        "https://hymobilier.com/collections/table-restaurant/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/mobilier-chambre-hotel-niveau-gamme",
+      "source": "https://hymobilier.com/ressources/mobilier-chambre-hotel-niveau-gamme/",
+      "title": "Mobilier de chambre d’hôtel : ce qui change selon le niveau de gamme",
+      "summary": "Trois étoiles, quatre étoiles, boutique ou cinq étoiles : l’écart ne se joue pas d’abord sur le style, mais sur ce qui tient dans le temps. Deux meubles d’apparence proche peuvent recevoir un chant de 0,4 mm ou de 2 mm, un tiroir sur galets ou sur coulisses à sortie totale. Les repères ci-dessous décrivent des ordres de grandeur observés en hôtellerie, à confirmer sur dossier fournisseur. Voici les points qui changent réellement, et comment les traduire en paramètres vérifiables avant de comparer des propositions. Ces repères servent à poser les bonnes questions, pas à classer un fournisseur.",
+      "sections": [
+        [
+          "Le niveau se lit d’abord dans le caisson",
+          "Un meuble d’entrée de gamme assemble souvent un panneau de particules de 16 mm avec un chant appliqué de 0,4 à 0,8 mm. Un meuble de gamme supérieure passe à 18 ou 19 mm, avec un chant ABS de 1,5 à 2 mm, posé à plat ou affleuré. L’épaisseur du chant compte autant que la colle : un chant mince se décolle au premier choc de valise, et la reprise est visible. Derrière la façade, la coulisse décide de la sensation : galets, billes, puis sortie totale avec frein. Demandez la charge déclarée par paire, la course et le nombre de cycles testés. Le fond, souvent un panneau mince agrafé, mérite la même attention que la façade, surtout s’il porte des tiroirs. La visserie compte aussi : vis à bois dans un panneau tendre, excentriques ou inserts dans un panneau dense."
+        ],
+        [
+          "Tissus, mousse et démontabilité",
+          "La résistance à l’abrasion se lit en frottements Martindale. Une chambre peu sollicitée tient souvent entre 20 000 et 25 000 frottements ; une chambre d’hôtel standard se situe plutôt entre 30 000 et 40 000 ; les assises très exposées montent au-delà de 50 000. Ces valeurs se vérifient sur le rapport du fournisseur, pas sur l’étiquette. Le traitement ignifuge et son classement se confirment selon la réglementation du pays de destination. La housse démontable change la maintenance et la mise en œuvre : type de fermeture, sens du tissu, tenue au lavage, stabilité dimensionnelle. Pour la mousse, une masse volumique de 30 à 40 kg/m³ convient à un dossier ; une assise demande une densité plus ferme et une épaisseur travaillée. Une housse de rechange par type de chambre évite d’immobiliser la chambre pour une tache. Le sens du velours et la teinte se contrôlent sur une housse montée, pas sur un échantillon posé à plat."
+        ],
+        [
+          "Le lit : cadre, tête de lit et support",
+          "Le lit concentre les écarts les plus coûteux à corriger. Un cadre basique aboutit des panneaux ; un cadre de gamme supérieure utilise un piètement en bois massif ou en contreplaqué, des équerres, une traverse centrale et des pieds réglables. Les lattes, en hêtre ou en bouleau, reposent sur des supports qui limitent le grincement : leur nombre et leur section comptent plus que leur finition. La tête de lit se fixe de trois façons — rail mural, intégration au cadre, suspension — et le rail mural, qui limite les vibrations, dépend de la nature du mur. Le support de matelas, lattes, sommier ou plateau, doit être décrit : il conditionne le confort et la reprise en cas de remplacement. La hauteur de la tête de lit se règle sur l’assise du matelas, pas sur le seul dessin d’ambiance. Un sommier à lattes serrées et un sommier à ressorts ne se remplacent pas de la même façon en cours d’exploitation."
+        ],
+        [
+          "Quincaillerie, éclairage et points électriques",
+          "La quincaillerie décide de la sensation d’usage. Une charnière à fermeture amortie et réglable sur trois axes se reprend après tassement ; une charnière simple se contente d’ouvrir. Les poignées tiennent par vissage traversant ou par inserts : un collage seul cède à l’usage. Le miroir s’intègre avec un éclairage latéral ou périphérique dont la température de couleur et l’indice de rendu se précisent, et l’indice de protection compte dans la salle d’eau. Côté électrique, la chambre demande des prises près du chevet, des ports USB-A et USB-C, et un point libre pour le chargeur. Ces détails pèsent peu à la conception et beaucoup à ajouter après coup, une fois les murs fermés. Un passe-câbles prévu dès l’usinage évite les percements sur site et les reprises de finition. Les butées de porte et les patins de tiroir limitent le bruit, un critère utile en couloir."
+        ],
+        [
+          "Rangement, maintenance et cahier des charges",
+          "Le rangement se dessine à l’usage : hauteur de tringle, nombre d’étagères réglables, tiroirs internes, éclairage du placard, place pour la valise et pour le coffre. Un porte-valise se choisit pour sa hauteur et sa charge, pas pour son style. Le minibar demande une niche ventilée et une prise dédiée. La maintenance se prépare dès la commande : façades démontables, panneaux remplaçables, housses de tête de lit interchangeables, pièces de rechange identifiées. La tenue sur cinq ans se juge sur ces possibilités, pas sur une promesse. Enfin, le cahier des charges traduit le niveau en paramètres : épaisseur de panneau et de chant, charge et course des coulisses, frottements, densité de mousse, mode de fixation. Ce sont ces valeurs qui se réceptionnent. Le dossier de rechange, avec références et quantités, se transmet à la réception. Les cotes de la niche du coffre et la profondeur utile du placard se relèvent sur place, pas sur le plan d’architecte."
+        ]
+      ],
+      "checklist": [
+        "Épaisseur de panneau et de chant",
+        "Charge et course des coulisses",
+        "Frottements Martindale et traitement ignifuge",
+        "Densité de mousse et démontabilité des housses",
+        "Mode de fixation des têtes de lit",
+        "Placard, coffre, minibar et points électriques"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/liste-mobilier-hotel/",
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/references/chambre-hotel/",
+        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
+        "https://hymobilier.com/collections/buffet-rangement/",
+        "https://hymobilier.com/collections/table-restaurant/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/restaurant-places-mobilier",
+      "source": "https://hymobilier.com/ressources/restaurant-places-mobilier/",
+      "title": "Combien de places prévoir au restaurant avant de commander le mobilier",
+      "summary": "Le nombre de couverts se décide avant le choix des tables, pas après. Une salle dimensionnée à vue, puis équipée, laisse souvent des passages trop étroits ou des rangées invendables, et le plan de salle se corrige mal une fois le mobilier commandé. Surface, déductions, formats et circulations se traduisent en un tableau chiffré que chaque proposition peut reprendre et discuter. L’objectif n’est pas de remplir la salle, mais d’obtenir un nombre de places tenable en service. Voici comment passer de la surface au nombre de places, avec les marges à vérifier sur site avant de figer la commande.",
+      "sections": [
+        [
+          "Partir de la surface utile, pas de la surface au sol",
+          "Une salle de 180 m² n’offre pas 180 m² de places assises. Retirez d’abord le bar, le buffet, les postes de service, les issues et les circulations, puis appliquez une densité de 1,2 à 1,8 m² par place en restauration à table, de 0,9 à 1,2 m² en restauration rapide ou en café. Ces valeurs sont des références de planification, pas un engagement de livraison : la forme de la salle, les poteaux, les banquettes et le mobilier retenu modifient le résultat. Exemple : 180 m² moins 25 m² de bar, 18 m² de buffet et 20 % de circulation laissent environ 110 m² assis, soit 60 à 90 places selon le confort visé. La terrasse se calcule séparément."
+        ],
+        [
+          "Choisir des formats de table qui s’assemblent",
+          "Une table carrée de 700 à 800 mm porte deux couverts ; deux tables réunies forment une table de quatre, à condition que les piètements ne se heurtent pas et que les plateaux s’alignent. Une table rectangulaire de 1200 à 1400 mm sur 800 mm rend le même service sans manipulation. Une table ronde de 1200 à 1400 mm de diamètre accueille quatre à six personnes et adoucit les angles de salle. La table longue convient aux groupes et aux salles étroites. Vérifiez la hauteur sous plateau, généralement 720 à 750 mm, et l’encombrement des piètements, qui décide de la place réelle des jambes. Le mélange n’a d’intérêt que si les hauteurs, les chants et les finitions restent compatibles."
+        ],
+        [
+          "Calibrer les passages et les distances",
+          "Trois largeurs structurent la salle : 1200 mm pour le passage principal, 900 mm pour le passage de service, 900 mm entre le bord de table et le mur pour tirer une chaise. Entre deux tables occupées, comptez 900 à 1000 mm dos de chaise à dos de chaise ; en deçà, le client se lève de biais et le service ralentit. Ces valeurs sont des minima de travail : vérifiez-les sur un plan à l’échelle, avec le mobilier réellement retenu, et confrontez-les aux règles d’accessibilité et de sécurité applicables. Ajoutez les obstacles fixes — poteaux, radiateurs, portes — avant de compter. Un passage de 1200 mm sur le plan peut tomber à 600 mm une fois les chaises tirées."
+        ],
+        [
+          "Le mode de service change le calcul",
+          "Un service à l’assiette immobilise une table plus longtemps qu’un buffet ou qu’un comptoir. Le nombre de places ne se déduit donc pas de la seule surface : il dépend du temps d’occupation et du nombre de services. Estimez la rotation par service, puis vérifiez que la cuisine et le bar peuvent suivre ; ajouter des places sans augmenter le débit de la cuisine déplace l’attente vers la salle. Un bar à hauteur assise compte autrement : un tabouret occupe moins de sol qu’une table, mais reste occupé plus longtemps. Un lobby bar ouvert en continu ne se dimensionne pas comme une salle de dîner. Comptez les places debout et les tabourets comme des catégories distinctes, pas comme des tables."
+        ],
+        [
+          "Terrasse, petit-déjeuner et tableau de calcul",
+          "En terrasse et au petit-déjeuner, le mobilier doit se déplacer, s’empiler et résister à l’exposition. Prévoyez un local ou un angle de stockage pour les tables inutilisées, et vérifiez le poids des pièces si le personnel les manipule seul. Anticipez le vent, le soleil et la pluie, qui décident des matériaux et du rangement. Au petit-déjeuner, la densité peut être plus forte et la durée d’occupation plus courte. Formalisez ensuite un tableau par zone : surface brute, déductions, formats de table, places obtenues. Ce tableau devient la pièce de référence pour comparer les propositions ; les cinq points de la checklist restent à confirmer sur place."
+        ]
+      ],
+      "checklist": [
+        "Tableau par zone : surface brute, déductions, formats, places obtenues",
+        "Couverts visés par service et rotation attendue, bar et terrasse inclus",
+        "Largeurs de passage relevées sur site, pas seulement sur le plan",
+        "Formats de table et assemblage deux places plus deux places",
+        "Bar, buffet et postes de service positionnés avant le calcul",
+        "Terrasse : stockage, empilement, exposition, poids des pièces"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/restaurants/",
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/comparer-devis/",
+        "https://hymobilier.com/services/materiaux/",
+        "https://hymobilier.com/collections/table-restaurant/",
+        "https://hymobilier.com/collections/tabouret-bar/",
+        "https://hymobilier.com/collections/banque-accueil/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "ressources/amenagement-lobby-hotel-zones-circulation",
+      "source": "https://hymobilier.com/ressources/amenagement-lobby-hotel-zones-circulation/",
+      "title": "Meubler le lobby d’un hôtel : zones, circulation et sélection",
+      "summary": "Un lobby n’est pas une pièce à meubler d’un seul geste : c’est une suite de séquences que le client traverse en quelques secondes, avec une valise à la main. La réception, l’attente, le travail, le bar et l’axe de circulation n’ont ni les mêmes largeurs, ni les mêmes tissus, ni la même durée de vie. Les repères ci-dessous sont des ordres de grandeur observés en hôtellerie, à confirmer sur plan et sur dossier fournisseur. Ils servent à poser les bonnes questions avant de comparer des propositions, pas à classer un fournisseur.",
+      "sections": [
+        [
+          "Lire le lobby comme cinq zones, pas comme une pièce",
+          "Un lobby se lit en marchant, pas en survolant un plan. Depuis la porte d’entrée jusqu’au comptoir, puis du comptoir vers l’ascenseur, le client traverse au moins quatre ambiances en quelques secondes : il pose sa valise, cherche un repère, attend, s’assoit parfois, commande un café, repart. Chacune de ces séquences appelle un mobilier différent et, surtout, une largeur de passage différente. Découper le lobby en cinq zones — arrivée, attente, travail et social, bar, axe de circulation — évite de traiter la pièce comme un seul lot d’assises.\n\nLa méthode tient en trois relevés. D’abord l’axe : la ligne la plus directe entre l’entrée, la réception et les ascenseurs, à tenir à 1,20 m libre au minimum, et 1,50 m aux croisements et devant la file d’attente. Ensuite les points de contact : mains sur les accoudoirs, valises contre les banquettes, plateaux posés sur les tables basses. Enfin les cotes de chaque groupe, prises entre les meubles et non entre les murs, car un fauteuil reculé de 20 cm mange un passage.\n\nCette découpe a une conséquence directe sur le dossier de consultation. Un lobby équipé d’un seul tissu et d’une seule densité de mousse sera surdimensionné dans les angles calmes et sous-dimensionné autour du bar. En séparant les zones, on attribue à chacune son niveau de frottement, son type de housse et sa logique de remplacement, sans payer deux fois la même performance."
+        ],
+        [
+          "Arrivée et réception : les trois premiers mètres",
+          "La zone d’arrivée porte le mobilier le plus sollicité du lobby : banque d’accueil, retour de comptoir, console basse, banquette à bagages, tabourets hauts pour l’attente debout, porte-parapluies. Le plan de travail se situe couramment entre 1 050 et 1 150 mm, avec un poste accessible à 750–800 mm, un dégagement genoux de 700 mm de large et 450 mm de profondeur. Devant le comptoir, prévoir 1 200 mm libres pour un client avec valise et un accompagnant ; derrière, 900 mm pour le siège et le passage du personnel. La banquette à bagages se tient à 450–500 mm d’assise, 400–450 mm de profondeur, avec un plateau protégé par un chant rapporté.\n\nLe devant de comptoir reçoit les chariots, les valises et les ceintures. Un parement stratifié haute pression ou un placage avec chant ABS de 2 mm se reprend localement ; une laque, beaucoup moins. Le soubassement se conçoit comme une pièce d’usure : plinthe démontable, fixation par vis traversantes, teinte proche du sol pour masquer les coups de pied. Les tabourets hauts d’attente reçoivent un vinyle de 50 000 frottements Martindale minimum, sans couture sur l’assise, et des patins remplaçables.\n\nUn point souvent oublié : la file. Sans tracé au sol ni banquette de dépose, les clients s’arrêtent devant le comptoir et bloquent l’axe. Une assise d’attente à 1 500 mm du comptoir, ou une console de dépose de 400 mm de profondeur, suffit souvent à désengorger. Prévoir également une prise à proximité de la banquette et un éclairage qui rend le comptoir lisible sans éblouir l’assise."
+        ],
+        [
+          "Attente : régler l’entraxe avant de choisir le dessin",
+          "Dans la zone d’attente, le confort se joue sur des cotes simples. Un fauteuil de lobby s’assoit à 420–450 mm, sur 480–520 mm de profondeur, pour 600–700 mm de largeur par place. Entre deux fauteuils, une table d’appoint de 400–450 mm de diamètre demande un dégagement de 400–450 mm de chaque côté. Deux fauteuils face à face se placent à 800–900 mm pour permettre la conversation sans que les genoux se touchent ; derrière les dossiers, compter 1 200 mm si l’axe de circulation passe là. Ces valeurs se vérifient sur un plan à l’échelle 1/20, pas sur une image d’ambiance.\n\nLe textile d’attente travaille par contact prolongé plutôt que par frottement violent : 40 000 à 50 000 frottements Martindale pour une assise de lobby, 25 000 à 30 000 pour un dossier. Une mousse d’assise de 35–40 kg/m³ tient la forme ; en dessous, l’assise se tasse et le bord avant marque. La housse démontable, avec fermeture invisible et sens du tissu respecté, permet de retourner ou de remplacer un coussin sans immobiliser le groupe. Un velours clair se salit au dossier et aux accoudoirs : préférer une teinte médiane ou une armure serrée.\n\nLe coût réel d’une assise de lobby ne se lit pas à la commande mais au premier remplacement. Trois décisions le réduisent : coussins indépendants du dossier, housses disponibles séparément, piètement démontable. À l’usage, les coussins se retournent, les housses se lavent, un piètement se reprend sans rebuter l’assise entière. À l’inverse, une assise entièrement capitonnée et collée oblige à remplacer le fauteuil pour une tache ou un affaissement localisé."
+        ],
+        [
+          "Travail et social : la table qui accepte un ordinateur",
+          "La zone travail-social du lobby accueille des usages mélangés : un client qui répond à des messages, deux collègues qui préparent une réunion, un voyageur qui attend son taxi. Une table haute de bar ne convient pas au travail assis ; une table de 740–750 mm de hauteur, 600 mm de profondeur utile par personne et 700 mm de largeur d’assise reste la base. Pour une table partagée, compter 600 mm de largeur par place et 1 200 mm entre deux rangées dos à dos si des chaises sont reculées. Une banquette fixe gagne de la place mais impose de calculer la profondeur d’assise (450–480 mm) et le dégagement de la table (250–300 mm).\n\nLes prises décident de l’usage réel. Deux prises par table, dont une USB-C, avec passe-câbles usiné et non percé sur site, évitent les rallonges apparentes. Le plateau doit rester mat sous l’éclairage : un stratifié brillant renvoie l’écran et fatigue. Côté acoustique, un lobby en pierre et verre renvoie les conversations vers la réception ; des panneaux absorbants en sous-face de table ou en assise, et des textiles épais, réduisent le niveau sonore sans cloisonner.\n\nEn zone sociale, ce sont les bords de plateau, les accoudoirs et les dossiers qui s’usent d’abord. Un chant de 2 mm, un plateau remplaçable indépendamment du piètement et des accoudoirs en pièce détachée changent la facture d’entretien sur la durée. Éviter les plateaux monoblocs collés au piètement : la moindre rayure profonde impose de sortir l’ensemble."
+        ],
+        [
+          "Bar et axe de circulation : ce qui casse en premier",
+          "Autour du bar, les cotes se calculent à partir du comptoir. Pour un comptoir à 1 050–1 100 mm, un tabouret se règle à 750–780 mm d’assise, avec un repose-pieds à environ 450 mm. Prévoir 250–300 mm entre deux tabourets, un débord de comptoir de 300–350 mm pour les genoux, et 1 200 mm libres derrière les tabourets occupés — davantage si le tabouret recule. Sans ce débord, les genoux touchent le parement, le client s’assoit de biais et use le bord de l’assise.\n\nL’axe principal se tient à 1 200 mm, élargi à 1 500 mm aux croisements, devant l’ascenseur et à l’entrée du restaurant. Les meubles bas — consoles, bacs à plantes, présentoirs — se placent hors de cet axe, à 300 mm au moins des battants de porte. Les changements de revêtement de sol méritent un profil plat : une barre de seuil mal posée fait trébucher et arrache les patins des tabourets.\n\nLe tabouret de bar est le meuble le plus remplacé d’un lobby : bord d’assise, coutures, patins, repose-pieds. Un vinyle technique de 100 000 frottements Martindale, une assise moulée sans couture sur le devant et un piètement métallique avec patins vissés tiennent mieux qu’un tissu d’ameublement. Il faut enfin séparer, dans le dossier de consultation, les quantités par zone et les pièces d’usure : assises, housses, plateaux, patins. C’est cette séparation qui permet de remplacer un lot de tabourets sans toucher aux fauteuils d’attente, et de garder un lobby homogène après plusieurs années d’exploitation."
+        ]
+      ],
+      "checklist": [
+        "Largeur libre de l’axe principal et des croisements",
+        "Hauteurs du plan d’accueil et du poste accessible",
+        "Entraxe des assises et dégagement derrière les fauteuils",
+        "Frottements Martindale par zone et housses démontables",
+        "Densité de mousse et remplaçabilité des coussins",
+        "Prises, passe-câbles et protections de pieds"
+      ],
+      "questions": [],
+      "scope": "ressources",
+      "brand": null,
+      "productReference": null,
+      "relatedSources": [
+        "https://hymobilier.com/professionnels/hotels/",
+        "https://hymobilier.com/ressources/liste-mobilier-hotel/",
+        "https://hymobilier.com/services/materiaux/",
+        "https://hymobilier.com/services/echantillons/",
+        "https://hymobilier.com/collections/banque-accueil/",
+        "https://hymobilier.com/collections/salon-residentiel/",
+        "https://hymobilier.com/collections/tabouret-bar/"
+      ],
+      "updated": "2026-10-09",
+      "visibility": "public"
+    },
+    {
       "id": "references/chambre-hotel",
       "source": "https://hymobilier.com/references/chambre-hotel/",
       "title": "Référence de composition pour une chambre d’hôtel",
@@ -1061,159 +1265,6 @@
         "https://hymobilier.com/professionnels/hotels/",
         "https://hymobilier.com/maison/villas/",
         "https://hymobilier.com/services/livraison/"
-      ],
-      "updated": "2026-10-09",
-      "visibility": "public"
-    },
-    {
-      "id": "ressources/phaser-renovation-hotel",
-      "source": "https://hymobilier.com/ressources/phaser-renovation-hotel/",
-      "title": "Phaser une rénovation d’hôtel : chambres, réception et restaurant",
-      "summary": "Une rénovation d’hôtel se conduit rarement en une seule phase. Découper le chantier par espace — chambres, réception, restaurant — permet de garder l’établissement en exploitation et de comparer les propositions sur un périmètre identique.",
-      "sections": [
-        [
-          "Pourquoi découper la rénovation par espace",
-          "Le découpage suit l’exploitation, pas le catalogue. Une aile de chambres peut fermer pendant que la réception reste en service ; l’inverse est rarement possible. Pour chaque espace, notez les dates d’indisponibilité, les contraintes de stockage sur site et l’accès de montage avant de comparer des propositions."
-        ],
-        [
-          "Commencer par les chambres",
-          "Les chambres représentent le volume le plus important et le plus répétitif. Regroupez-les par type, puis indiquez pour chaque type le nombre de lits, de têtes de lit, de bureaux et de rangements. Un type validé sert de référence aux suivants ; les écarts de surface se traitent ensuite, plutôt qu’au moment de la commande."
-        ],
-        [
-          "Traiter la réception et les espaces publics",
-          "La réception combine une zone d’accueil, un poste de travail et une circulation. Les dimensions du comptoir, les passages de câbles et les contraintes d’accessibilité s’examinent avec le plan : une configuration visuellement proche peut répondre à des usages différents."
-        ],
-        [
-          "Caler le restaurant et les espaces de restauration",
-          "Le nombre de couverts, le mode de service et le rangement déterminent la sélection. Tables, sièges et buffets se vérifient ensemble : une table choisie pour la salle ne convient pas nécessairement à la terrasse ni au service du petit-déjeuner."
-        ],
-        [
-          "Répartir les responsabilités et les étapes",
-          "Fabrication, transport, réception, montage et reprise des emballages correspondent à des étapes distinctes. Elles apparaissent séparément dans le dossier, avec la responsabilité de chacune. Cette précision évite les écarts d’interprétation entre deux propositions."
-        ]
-      ],
-      "checklist": [
-        "Espaces et dates d’indisponibilité",
-        "Nombre de chambres par type",
-        "Circulations et accès de montage",
-        "Contraintes de stockage sur site",
-        "Responsabilités transport et montage",
-        "Références de matériaux et de finitions"
-      ],
-      "questions": [],
-      "scope": "ressources",
-      "brand": null,
-      "productReference": null,
-      "relatedSources": [
-        "https://hymobilier.com/professionnels/hotels/",
-        "https://hymobilier.com/ressources/comparer-devis/",
-        "https://hymobilier.com/references/chambre-hotel/",
-        "https://hymobilier.com/services/echantillons/",
-        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
-        "https://hymobilier.com/collections/banque-accueil/",
-        "https://hymobilier.com/collections/table-restaurant/"
-      ],
-      "updated": "2026-10-09",
-      "visibility": "public"
-    },
-    {
-      "id": "ressources/mobilier-chambre-hotel-niveau-gamme",
-      "source": "https://hymobilier.com/ressources/mobilier-chambre-hotel-niveau-gamme/",
-      "title": "Mobilier de chambre d’hôtel : ce qui change selon le niveau de gamme",
-      "summary": "Trois étoiles, quatre étoiles, boutique ou cinq étoiles : l’écart ne se joue pas d’abord sur le style, mais sur ce qui tient dans le temps. Deux meubles d’apparence proche peuvent recevoir un chant de 0,4 mm ou de 2 mm, un tiroir sur galets ou sur coulisses à sortie totale. Les repères ci-dessous décrivent des ordres de grandeur observés en hôtellerie, à confirmer sur dossier fournisseur. Voici les points qui changent réellement, et comment les traduire en paramètres vérifiables avant de comparer des propositions. Ces repères servent à poser les bonnes questions, pas à classer un fournisseur.",
-      "sections": [
-        [
-          "Le niveau se lit d’abord dans le caisson",
-          "Un meuble d’entrée de gamme assemble souvent un panneau de particules de 16 mm avec un chant appliqué de 0,4 à 0,8 mm. Un meuble de gamme supérieure passe à 18 ou 19 mm, avec un chant ABS de 1,5 à 2 mm, posé à plat ou affleuré. L’épaisseur du chant compte autant que la colle : un chant mince se décolle au premier choc de valise, et la reprise est visible. Derrière la façade, la coulisse décide de la sensation : galets, billes, puis sortie totale avec frein. Demandez la charge déclarée par paire, la course et le nombre de cycles testés. Le fond, souvent un panneau mince agrafé, mérite la même attention que la façade, surtout s’il porte des tiroirs. La visserie compte aussi : vis à bois dans un panneau tendre, excentriques ou inserts dans un panneau dense."
-        ],
-        [
-          "Tissus, mousse et démontabilité",
-          "La résistance à l’abrasion se lit en frottements Martindale. Une chambre peu sollicitée tient souvent entre 20 000 et 25 000 frottements ; une chambre d’hôtel standard se situe plutôt entre 30 000 et 40 000 ; les assises très exposées montent au-delà de 50 000. Ces valeurs se vérifient sur le rapport du fournisseur, pas sur l’étiquette. Le traitement ignifuge et son classement se confirment selon la réglementation du pays de destination. La housse démontable change la maintenance et la mise en œuvre : type de fermeture, sens du tissu, tenue au lavage, stabilité dimensionnelle. Pour la mousse, une masse volumique de 30 à 40 kg/m³ convient à un dossier ; une assise demande une densité plus ferme et une épaisseur travaillée. Une housse de rechange par type de chambre évite d’immobiliser la chambre pour une tache. Le sens du velours et la teinte se contrôlent sur une housse montée, pas sur un échantillon posé à plat."
-        ],
-        [
-          "Le lit : cadre, tête de lit et support",
-          "Le lit concentre les écarts les plus coûteux à corriger. Un cadre basique aboutit des panneaux ; un cadre de gamme supérieure utilise un piètement en bois massif ou en contreplaqué, des équerres, une traverse centrale et des pieds réglables. Les lattes, en hêtre ou en bouleau, reposent sur des supports qui limitent le grincement : leur nombre et leur section comptent plus que leur finition. La tête de lit se fixe de trois façons — rail mural, intégration au cadre, suspension — et le rail mural, qui limite les vibrations, dépend de la nature du mur. Le support de matelas, lattes, sommier ou plateau, doit être décrit : il conditionne le confort et la reprise en cas de remplacement. La hauteur de la tête de lit se règle sur l’assise du matelas, pas sur le seul dessin d’ambiance. Un sommier à lattes serrées et un sommier à ressorts ne se remplacent pas de la même façon en cours d’exploitation."
-        ],
-        [
-          "Quincaillerie, éclairage et points électriques",
-          "La quincaillerie décide de la sensation d’usage. Une charnière à fermeture amortie et réglable sur trois axes se reprend après tassement ; une charnière simple se contente d’ouvrir. Les poignées tiennent par vissage traversant ou par inserts : un collage seul cède à l’usage. Le miroir s’intègre avec un éclairage latéral ou périphérique dont la température de couleur et l’indice de rendu se précisent, et l’indice de protection compte dans la salle d’eau. Côté électrique, la chambre demande des prises près du chevet, des ports USB-A et USB-C, et un point libre pour le chargeur. Ces détails pèsent peu à la conception et beaucoup à ajouter après coup, une fois les murs fermés. Un passe-câbles prévu dès l’usinage évite les percements sur site et les reprises de finition. Les butées de porte et les patins de tiroir limitent le bruit, un critère utile en couloir."
-        ],
-        [
-          "Rangement, maintenance et cahier des charges",
-          "Le rangement se dessine à l’usage : hauteur de tringle, nombre d’étagères réglables, tiroirs internes, éclairage du placard, place pour la valise et pour le coffre. Un porte-valise se choisit pour sa hauteur et sa charge, pas pour son style. Le minibar demande une niche ventilée et une prise dédiée. La maintenance se prépare dès la commande : façades démontables, panneaux remplaçables, housses de tête de lit interchangeables, pièces de rechange identifiées. La tenue sur cinq ans se juge sur ces possibilités, pas sur une promesse. Enfin, le cahier des charges traduit le niveau en paramètres : épaisseur de panneau et de chant, charge et course des coulisses, frottements, densité de mousse, mode de fixation. Ce sont ces valeurs qui se réceptionnent. Le dossier de rechange, avec références et quantités, se transmet à la réception. Les cotes de la niche du coffre et la profondeur utile du placard se relèvent sur place, pas sur le plan d’architecte."
-        ]
-      ],
-      "checklist": [
-        "Épaisseur de panneau et de chant",
-        "Charge et course des coulisses",
-        "Frottements Martindale et traitement ignifuge",
-        "Densité de mousse et démontabilité des housses",
-        "Mode de fixation des têtes de lit",
-        "Placard, coffre, minibar et points électriques"
-      ],
-      "questions": [],
-      "scope": "ressources",
-      "brand": null,
-      "productReference": null,
-      "relatedSources": [
-        "https://hymobilier.com/professionnels/hotels/",
-        "https://hymobilier.com/ressources/liste-mobilier-hotel/",
-        "https://hymobilier.com/services/echantillons/",
-        "https://hymobilier.com/references/chambre-hotel/",
-        "https://hymobilier.com/collections/ensemble-chambre-hotel/",
-        "https://hymobilier.com/collections/buffet-rangement/",
-        "https://hymobilier.com/collections/table-restaurant/"
-      ],
-      "updated": "2026-10-09",
-      "visibility": "public"
-    },
-    {
-      "id": "ressources/restaurant-places-mobilier",
-      "source": "https://hymobilier.com/ressources/restaurant-places-mobilier/",
-      "title": "Combien de places prévoir au restaurant avant de commander le mobilier",
-      "summary": "Le nombre de couverts se décide avant le choix des tables, pas après. Une salle dimensionnée à vue, puis équipée, laisse souvent des passages trop étroits ou des rangées invendables, et le plan de salle se corrige mal une fois le mobilier commandé. Surface, déductions, formats et circulations se traduisent en un tableau chiffré que chaque proposition peut reprendre et discuter. L’objectif n’est pas de remplir la salle, mais d’obtenir un nombre de places tenable en service. Voici comment passer de la surface au nombre de places, avec les marges à vérifier sur site avant de figer la commande.",
-      "sections": [
-        [
-          "Partir de la surface utile, pas de la surface au sol",
-          "Une salle de 180 m² n’offre pas 180 m² de places assises. Retirez d’abord le bar, le buffet, les postes de service, les issues et les circulations, puis appliquez une densité de 1,2 à 1,8 m² par place en restauration à table, de 0,9 à 1,2 m² en restauration rapide ou en café. Ces valeurs sont des références de planification, pas un engagement de livraison : la forme de la salle, les poteaux, les banquettes et le mobilier retenu modifient le résultat. Exemple : 180 m² moins 25 m² de bar, 18 m² de buffet et 20 % de circulation laissent environ 110 m² assis, soit 60 à 90 places selon le confort visé. La terrasse se calcule séparément."
-        ],
-        [
-          "Choisir des formats de table qui s’assemblent",
-          "Une table carrée de 700 à 800 mm porte deux couverts ; deux tables réunies forment une table de quatre, à condition que les piètements ne se heurtent pas et que les plateaux s’alignent. Une table rectangulaire de 1200 à 1400 mm sur 800 mm rend le même service sans manipulation. Une table ronde de 1200 à 1400 mm de diamètre accueille quatre à six personnes et adoucit les angles de salle. La table longue convient aux groupes et aux salles étroites. Vérifiez la hauteur sous plateau, généralement 720 à 750 mm, et l’encombrement des piètements, qui décide de la place réelle des jambes. Le mélange n’a d’intérêt que si les hauteurs, les chants et les finitions restent compatibles."
-        ],
-        [
-          "Calibrer les passages et les distances",
-          "Trois largeurs structurent la salle : 1200 mm pour le passage principal, 900 mm pour le passage de service, 900 mm entre le bord de table et le mur pour tirer une chaise. Entre deux tables occupées, comptez 900 à 1000 mm dos de chaise à dos de chaise ; en deçà, le client se lève de biais et le service ralentit. Ces valeurs sont des minima de travail : vérifiez-les sur un plan à l’échelle, avec le mobilier réellement retenu, et confrontez-les aux règles d’accessibilité et de sécurité applicables. Ajoutez les obstacles fixes — poteaux, radiateurs, portes — avant de compter. Un passage de 1200 mm sur le plan peut tomber à 600 mm une fois les chaises tirées."
-        ],
-        [
-          "Le mode de service change le calcul",
-          "Un service à l’assiette immobilise une table plus longtemps qu’un buffet ou qu’un comptoir. Le nombre de places ne se déduit donc pas de la seule surface : il dépend du temps d’occupation et du nombre de services. Estimez la rotation par service, puis vérifiez que la cuisine et le bar peuvent suivre ; ajouter des places sans augmenter le débit de la cuisine déplace l’attente vers la salle. Un bar à hauteur assise compte autrement : un tabouret occupe moins de sol qu’une table, mais reste occupé plus longtemps. Un lobby bar ouvert en continu ne se dimensionne pas comme une salle de dîner. Comptez les places debout et les tabourets comme des catégories distinctes, pas comme des tables."
-        ],
-        [
-          "Terrasse, petit-déjeuner et tableau de calcul",
-          "En terrasse et au petit-déjeuner, le mobilier doit se déplacer, s’empiler et résister à l’exposition. Prévoyez un local ou un angle de stockage pour les tables inutilisées, et vérifiez le poids des pièces si le personnel les manipule seul. Anticipez le vent, le soleil et la pluie, qui décident des matériaux et du rangement. Au petit-déjeuner, la densité peut être plus forte et la durée d’occupation plus courte. Formalisez ensuite un tableau par zone : surface brute, déductions, formats de table, places obtenues. Ce tableau devient la pièce de référence pour comparer les propositions ; les cinq points de la checklist restent à confirmer sur place."
-        ]
-      ],
-      "checklist": [
-        "Tableau par zone : surface brute, déductions, formats, places obtenues",
-        "Couverts visés par service et rotation attendue, bar et terrasse inclus",
-        "Largeurs de passage relevées sur site, pas seulement sur le plan",
-        "Formats de table et assemblage deux places plus deux places",
-        "Bar, buffet et postes de service positionnés avant le calcul",
-        "Terrasse : stockage, empilement, exposition, poids des pièces"
-      ],
-      "questions": [],
-      "scope": "ressources",
-      "brand": null,
-      "productReference": null,
-      "relatedSources": [
-        "https://hymobilier.com/professionnels/restaurants/",
-        "https://hymobilier.com/professionnels/hotels/",
-        "https://hymobilier.com/ressources/comparer-devis/",
-        "https://hymobilier.com/services/materiaux/",
-        "https://hymobilier.com/collections/table-restaurant/",
-        "https://hymobilier.com/collections/tabouret-bar/",
-        "https://hymobilier.com/collections/banque-accueil/"
       ],
       "updated": "2026-10-09",
       "visibility": "public"
@@ -2975,39 +3026,10 @@
     {
       "id": "projets/hos-014",
       "source": "https://hymobilier.com/projets/hos-014/",
-      "title": "Lemaiyan Suites Naivasha : mobilier hôtelier au Kenya",
-      "summary": "Lemaiyan Suites Naivasha, au Kenya, est une référence hôtelière du groupe. Une chambre et un siège présenté dans la partie production de son dossier permettent de discuter aménagement, validation des échantillons et préparation d’un nouvel achat.",
+      "title": "Projet : Lemaiyan Suites Naivasha — Kenya",
+      "summary": "Lemaiyan Suites Naivasha est une référence du groupe dans la catégorie hôtels, située au Kenya. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
       "visibility": "public",
-      "updated": "2026-10-30",
-      "procurementSections": [
-        [
-          "Ce que documente le dossier de Naivasha",
-          "Le document du groupe nomme Lemaiyan Suites Naivasha et le Kenya. Les deux images retenues proviennent des parties chambre et production ; les vues de réception montrant du personnel ne sont pas reprises. La référence établit un contexte hôtelier en Afrique de l’Est, sans constituer un inventaire contractuel de tous les éléments photographiés."
-        ],
-        [
-          "Chambre : séparer implantation et liste de mobilier",
-          "Pour un nouvel hôtel, commencez par les types de chambres et les plans cotés. Positionnez lit, chevets, assises et bagagerie avec les passages, les prises et les ouvertures. Séparez menuiseries fixées, pièces mobiles, éclairage et équipements relevant d’autres intervenants. Ce sont des vérifications pour votre opération, pas des quantités ou prestations attribuées à ce projet."
-        ],
-        [
-          "Échantillon : partir du siège réellement sélectionné",
-          "La vue de production sert à poser des questions concrètes sur l’échantillon : dimensions, hauteur d’assise, coutures, finition et zone à comparer au dessin. Demandez les justificatifs applicables à la référence retenue et à son usage. La présence d’un siège dans un dossier ne confirme pas une composition de revêtement, une résistance au feu ou une certification pour une nouvelle commande."
-        ],
-        [
-          "Destination francophone : définir les interfaces de réception",
-          "Pour une opération au Maroc, en France ou dans un autre marché francophone, transmettez la destination, les accès, les quantités par espace et la répartition des responsabilités. Faites confirmer étiquetage, emballage, transport, réception et montage dans votre offre. Une référence kenyane ne signifie ni stock local, ni équipe installée, ni délai garanti dans votre pays."
-        ]
-      ],
-      "questions": [
-        {
-          "q": "Ces photos constituent-elles une fiche technique de produit ?",
-          "a": "Non. Elles documentent une chambre et un siège de production dans le dossier du projet. Dimensions, matières, échantillons et justificatifs doivent être confirmés pour le produit choisi."
-        },
-        {
-          "q": "Quels éléments envoyer pour une demande hôtelière comparable ?",
-          "a": "Les plans cotés, types de chambres, quantités, destination et priorités de finition, en citant HOS-014. Distinguez mobilier fixe, pièces mobiles et équipements à confirmer séparément."
-        }
-      ],
-      "imageClassification": "Reviewed guestroom photograph and document-labelled production chair; staff images excluded"
+      "updated": "2026-10-10"
     },
     {
       "id": "projets/hos-017",
@@ -3053,16 +3075,9 @@
       "id": "projets/hos-003",
       "source": "https://hymobilier.com/projets/hos-003/",
       "title": "Projet : Elaf Hotel, Jeddah — Arabie saoudite",
-      "summary": "La présentation du groupe identifie Elaf Hotel à Djeddah, en Arabie saoudite, et cite halls, suites, restaurant, espaces de massage et de réunion. Ce sont les zones décrites dans le dossier ; elles ne transforment pas chaque meuble illustré en spécification applicable à un autre hôtel.",
+      "summary": "Elaf Hotel, Jeddah est une référence du groupe dans la catégorie hôtels, située en Arabie saoudite. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
       "visibility": "public",
-      "updated": "2026-10-25",
-      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
-      "procurementAdvice": [
-        "Préparez une liste par zone : mobilier de suite, accueil, assises du hall, restauration et réunion répondent à des usages différents. Pour un nouveau projet, indiquez les types de chambres, leurs quantités et les activités de chaque espace commun avant de choisir les pièces.",
-        "Repérez sur les plans cotés les jonctions aux murs, les prises, les circulations et les accès. Vérifiez la relation entre rangement, lit et assises mobiles. Dimensions, échantillons et accessoires se valident séparément : cette démarche est un conseil de préparation, pas une procédure attribuée sans preuve au chantier d’origine.",
-        "Les images existantes gardent leur rôle de référence du projet. Elles ne vérifient ni cotes cachées, ni système de détection, ni comportement au feu, ni essai de matériau, ni délai garanti. Demandez les documents qui s’appliquent aux éléments choisis et à leur destination."
-      ],
-      "factAdviceSeparation": true
+      "updated": "2026-10-10"
     },
     {
       "id": "projets/hos-012",
@@ -3347,45 +3362,10 @@
     {
       "id": "projets/hos-016",
       "source": "https://hymobilier.com/projets/hos-016/",
-      "title": "Radisson Collection Lingang Shanghai : référence hôtelière en Chine",
-      "summary": "Le dossier Radisson Collection du groupe est rattaché à Lingang, Shanghai, en Chine, grâce à l’identification de l’établissement et aux informations de son exploitant. Cette référence invite à distinguer mobilier de chambre et mobilier d’appartement avec services dans un nouvel appel d’offres.",
+      "title": "Projet : Radisson Collection Hotel — Asie — pays à préciser",
+      "summary": "Radisson Collection Hotel est une référence du groupe dans la catégorie hôtels, située en Asie — pays à préciser. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
       "visibility": "public",
-      "updated": "2026-10-30",
-      "country": "China",
-      "city": "Shanghai",
-      "region": "china",
-      "procurementSections": [
-        [
-          "Une localisation recoupée : Lingang, Shanghai",
-          "L’identification visible dans le dossier du groupe est recoupée avec la page officielle de Radisson Collection Lingang Shanghai. L’exploitant présente des chambres, des suites et des appartements avec services. Ces informations précisent l’identité et les usages de l’établissement ; le périmètre des pièces effectivement fournies reste à vérifier dans les documents de fourniture."
-        ],
-        [
-          "Chambres : constituer une liste par typologie",
-          "Pour votre nouvel hôtel, séparez lits, chevets, bureau, bagagerie et rangements sur chaque plan de chambre. Vérifiez passages, ouvertures, prises et jonctions avec les habillages fixés. Le nombre de chambres annoncé par un exploitant ne peut pas être repris comme quantité de mobilier livrée par un fournisseur."
-        ],
-        [
-          "Appartements avec services : une nomenclature distincte",
-          "Dans un nouveau programme de séjour prolongé, distinguez couchage, repas, rangement et zones d’équipement. Définissez qui fournit mobilier, appareils et raccordements avant de chiffrer. Une image d’hôtel ou d’appartement ne suffit pas à inclure une cuisine, un électroménager ou une installation technique dans l’offre de mobilier."
-        ],
-        [
-          "Valider un nouvel achat sur pièces et échantillons",
-          "Demandez un bordereau par espace avec dimensions, finitions, quantités et références d’échantillons. Préparez les accès, emballages et responsabilités de montage pour votre destination. Ce projet chinois sert de contexte de travail ; les essais, conditions de transport et services locaux de votre commande doivent être confirmés séparément."
-        ]
-      ],
-      "questions": [
-        {
-          "q": "L’hôtel est-il situé dans un pays encore inconnu ?",
-          "a": "La localisation a été précisée : Lingang, Shanghai, Chine. L’identité dans le dossier du groupe a été rapprochée des informations officielles de l’exploitant."
-        },
-        {
-          "q": "Le nombre de chambres correspond-il au volume fourni par Hongye ?",
-          "a": "Non. Les informations de capacité de l’hôtel décrivent l’établissement. Seuls les documents de fourniture peuvent préciser les pièces, quantités et prestations attribuées au groupe."
-        }
-      ],
-      "locationSources": [
-        "https://www.radissonhotels.com/en-us/hotels/radisson-collection-lingang-shanghai",
-        "https://www.radissonhotels.com/en-us/hotels/radisson-collection-lingang-shanghai/rooms"
-      ]
+      "updated": "2026-10-10"
     },
     {
       "id": "projets/hos-020",
@@ -3421,88 +3401,30 @@
     },
     {
       "id": "projets/off-015",
-      "title": "Walmart Costa Rica",
       "source": "https://hymobilier.com/projets/off-015/",
-      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "title": "Projet : Walmart Costa Rica — Costa Rica",
       "summary": "Cette référence de bureaux au Costa Rica associe postes de travail et espaces de collaboration. Elle aide à comparer les usages individuels et collectifs avant de préparer une liste de mobilier.",
-      "spaces": [
-        "Postes de travail",
-        "Réunions informelles",
-        "Restauration du personnel"
-      ],
-      "questions": [
-        "Séparez les quantités des zones individuelles et communes.",
-        "Repérez les alimentations et passages de câbles sur les plans.",
-        "Précisez les places assises et les circulations."
-      ],
-      "language": "fr",
+      "visibility": "public",
       "updated": "2026-10-21",
-      "visibility": "public"
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html"
     },
     {
       "id": "projets/off-001",
-      "title": "Ahmadi Services Group, Kuwait Oil Company",
       "source": "https://hymobilier.com/projets/off-001/",
-      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "Le dossier du projet de bureaux au Koweït distingue bureaux de direction, espaces de lecture ou bibliothèque, postes de travail, réunion et formation. Cette diversité permet de discuter les fonctions du lieu de travail au lieu de traiter tout le bâtiment comme une répétition du même bureau.",
-      "spaces": [
-        "Bureaux privés",
-        "Postes partagés",
-        "Salles de réunion et de formation"
-      ],
-      "questions": [
-        "Distinguez bureaux individuels et espaces de travail en équipe.",
-        "Listez les besoins de rangement et les places visiteurs.",
-        "Validez les implantations de réunion et de formation."
-      ],
-      "language": "fr",
-      "updated": "2026-10-25",
+      "title": "Projet : Ahmadi Services Group, Kuwait Oil Company — Koweït",
+      "summary": "Cette référence au Koweït réunit bureaux privés, postes partagés et espaces de réunion. Examinez ensemble implantation, rangement et accueil des visiteurs.",
       "visibility": "public",
-      "procurementAdvice": [
-        "Distinguez bureaux individuels, postes partagés, salles de réunion, zones de lecture et espaces de formation. Pour chaque zone, précisez utilisateurs, visiteurs et besoins de rangement. Le dossier sera plus exploitable qu’un simple nombre global de postes.",
-        "Pour le nouveau bureau, repérez alimentation, réseau, passage derrière les sièges occupés et ouverture des rangements. Comparez les tables de réunion aux lignes de vue et aux accès. Ce sont des points de préparation : les photographies ne donnent pas les cotes cachées nécessaires pour reproduire les meubles du projet.",
-        "Le document public établit les catégories d’espaces et la présentation du projet par le groupe. Il ne remplace pas un rapport d’essai propre à un article et ne garantit pas ses performances ergonomiques, acoustiques ou de charge. Confirmez finitions, échantillons et interfaces dans la liste approuvée."
-      ],
-      "factAdviceSeparation": true
+      "updated": "2026-10-21",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html"
     },
     {
       "id": "projets/edu-001",
-      "title": "American University in Baghdad",
       "source": "https://hymobilier.com/projets/edu-001/",
-      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "title": "Projet : American University in Baghdad — Irak",
       "summary": "Cette référence universitaire en Irak relie les assises du hall et la réception aux circulations. La galerie distingue le mobilier du projet et la fabrication des composants courbes.",
-      "spaces": [
-        "Assises du hall",
-        "Réception",
-        "Fabrication de composants courbes"
-      ],
-      "questions": [
-        "Transmettez les dimensions et plans des assises courbes.",
-        "Repérez les parcours et dégagements de la réception.",
-        "Examinez les échantillons et les interfaces avant commande."
-      ],
-      "language": "fr",
-      "updated": "2026-10-21",
-      "visibility": "public"
-    },
-    {
-      "id": "projets/hos-008",
-      "title": "Holiday Inn Fairview Heights",
-      "source": "https://hymobilier.com/projets/hos-008/",
-      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
-      "summary": "Le Holiday Inn Fairview Heights, aux États-Unis, figure dans la documentation hôtelière du groupe. La page source distingue les chambres des espaces communs et présente du mobilier pour dormir, travailler, s’asseoir et organiser les effets personnels. Ce cas aide à construire une liste de mobilier cohérente ; il ne fixe ni les dimensions, ni les matériaux, ni les conditions de livraison d’une autre commande.",
-      "documentedSpaces": [
-        "Guestrooms",
-        "Public-area seating"
-      ],
-      "procurementAdvice": [
-        "Distinguez les types de chambres, puis les meubles à chiffrer dans chacun. Identifiez les éléments fixes, les meubles mobiles et les accessoires inclus. Pour le bureau et les assises, précisez l’usage et les dégagements disponibles avant de choisir un format. Cette méthode produit un échange plus précis qu’une simple demande de prix accompagnée d’une image.",
-        "Repérez prises, éclairage, passages de câbles, jonctions au mur et accès de livraison. Comparez les échantillons et le tableau de finitions afin de coordonner les éléments voisins. Il s’agit de conseils pour préparer un nouveau dossier, et non d’une description non vérifiée des procédures suivies pour ce chantier."
-      ],
-      "language": "fr",
-      "updated": "2026-10-25",
       "visibility": "public",
-      "publicLevel": "L3"
+      "updated": "2026-10-21",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html"
     }
   ]
 }
