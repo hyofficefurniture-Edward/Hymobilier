@@ -3043,9 +3043,38 @@
       "id": "projets/hos-018",
       "source": "https://hymobilier.com/projets/hos-018/",
       "title": "Projet : TOA Hotel & Spa Zanzibar — Tanzanie",
-      "summary": "TOA Hotel & Spa Zanzibar est une référence du groupe dans la catégorie resorts et destinations de loisirs, située en Tanzanie. Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "summary": "TOA Zanzibar : distinguer chambres, espaces communs et exposition côtière pour préparer un nouveau dossier de mobilier, avec plans, échantillons et périmètre de fourniture.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-31",
+      "procurementDiscussion": [
+        {
+          "heading": "Une référence de resort en Tanzanie",
+          "text": "Le dossier de référence identifie TOA Hotel & Spa à Zanzibar, en Tanzanie. Les vues présentées illustrent le cadre du resort et plusieurs espaces. Elles ne constituent pas une nomenclature exhaustive des meubles fournis, ni une preuve que chaque élément visible appartient au lot de mobilier du groupe."
+        },
+        {
+          "heading": "Définir les pièces par type de chambre",
+          "text": "Pour un nouveau resort, séparez chambres, suites et espaces communs dans une matrice de quantités. Repérez lit, tête de lit, rangement et assises sur des plans cotés, puis vérifiez ouverture des portes et passage autour du mobilier. Les modèles proposés pour cette nouvelle demande doivent être confirmés indépendamment du projet illustré."
+        },
+        {
+          "heading": "Vérifier les conditions côtières avant de choisir",
+          "text": "Distinguez intérieur, terrasse abritée et zone exposée dans le cahier des charges. Indiquez humidité, entretien et stockage prévus, puis demandez les données adaptées au matériau et à la quincaillerie retenus. La situation à Zanzibar ne démontre ni résistance au sel, ni usage extérieur, ni garantie de performance pour une autre commande."
+        },
+        {
+          "heading": "Valider échantillons, emballage et réception",
+          "text": "Choisissez un type de chambre représentatif pour la revue des échantillons et des détails de raccord. Notez la révision approuvée et les changements avant répétition. Pour une livraison insulaire, précisez point de réception, déchargement, stockage et responsabilités de montage ; le transport et les services restent à convenir dans le nouveau contrat."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ce resort prouve-t-il la résistance du mobilier en extérieur ?",
+          "answer": "Non. L’exposition prévue, le matériau et les essais pertinents doivent être vérifiés pour chaque modèle sélectionné. Les photos du projet ne remplacent pas ces éléments."
+        },
+        {
+          "question": "Quels documents envoyer pour un resort comparable ?",
+          "answer": "Plans cotés, types de chambres, liste des pièces et quantités, destination et conditions de réception. Mentionnez HOS-018 et les espaces qui vous intéressent, sans considérer les images comme une offre de fourniture."
+        }
+      ],
+      "factAdviceSeparated": true
     },
     {
       "id": "projets/off-012",
@@ -3379,9 +3408,38 @@
       "id": "projets/hos-019",
       "source": "https://hymobilier.com/projets/hos-019/",
       "title": "Projet : The Ebrington Hotel Londonderry — Royaume-Uni (Irlande du Nord)",
-      "summary": "The Ebrington Hotel Londonderry est une référence du groupe dans la catégorie hôtels, située au Royaume-Uni (Irlande du Nord). Les visuels ci-dessus proviennent du dossier correspondant ou de la bibliothèque projet du groupe.",
+      "summary": "Ebrington Hotel : préparer une nouvelle sélection par type de chambre, interfaces techniques, échantillons et réception.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-10-31",
+      "procurementDiscussion": [
+        {
+          "heading": "Situer le projet et son périmètre documenté",
+          "text": "The Ebrington Hotel Londonderry est une référence hôtelière au Royaume-Uni, en Irlande du Nord. Le visuel du dossier situe le projet ; il ne constitue pas une nomenclature exhaustive des meubles, matériaux ou quantités fournis."
+        },
+        {
+          "heading": "Construire la matrice de chambres",
+          "text": "Pour un nouvel hôtel, positionnez lits, rangements, bagages et assises sur les plans de chaque type de chambre. Séparez mobilier fixe et pièces mobiles ; conservez des listes distinctes pour réception, restauration et réunion afin de comparer des offres équivalentes."
+        },
+        {
+          "heading": "Attribuer les interfaces techniques",
+          "text": "Précisez qui confirme prises, éclairage, trappes de visite, plinthes et raccords aux parois avant validation des dessins. Vérifiez les accès de maintenance. Ces points sont des recommandations pour votre opération, pas des caractéristiques attribuées sans preuve au projet original."
+        },
+        {
+          "heading": "Suivre les échantillons et la réception",
+          "text": "Conservez références de finition, révisions et observations de la chambre témoin dans un registre commun. Reliez les étiquettes de colis aux chambres ou zones, puis précisez stockage et montage. Aucun délai ou service local ne se déduit de la référence internationale."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Les quantités de l’hôtel correspondent-elles à celles du fournisseur ?",
+          "answer": "Cela ne peut pas être établi à partir de cette page. Pour votre commande, préparez une liste de pièces et de quantités à confirmer avec les modèles et plans retenus."
+        },
+        {
+          "question": "Comment comparer deux offres de mobilier ?",
+          "answer": "Utilisez les mêmes pièces, dimensions, finitions, accessoires et quantités, puis séparez emballage, transport et montage. Citez HOS-019 comme référence de discussion."
+        }
+      ],
+      "factAdviceSeparated": true
     },
     {
       "id": "projets/off-011",
@@ -3425,6 +3483,25 @@
       "visibility": "public",
       "updated": "2026-10-21",
       "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html"
+    },
+    {
+      "id": "projets/hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "source": "https://hymobilier.com/projets/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Le Holiday Inn Fairview Heights, aux États-Unis, figure dans la documentation hôtelière du groupe. La page source distingue les chambres des espaces communs et présente du mobilier pour dormir, travailler, s’asseoir et organiser les effets personnels. Ce cas aide à construire une liste de mobilier cohérente ; il ne fixe ni les dimensions, ni les matériaux, ni les conditions de livraison d’une autre commande.",
+      "documentedSpaces": [
+        "Guestrooms",
+        "Public-area seating"
+      ],
+      "procurementAdvice": [
+        "Distinguez les types de chambres, puis les meubles à chiffrer dans chacun. Identifiez les éléments fixes, les meubles mobiles et les accessoires inclus. Pour le bureau et les assises, précisez l’usage et les dégagements disponibles avant de choisir un format. Cette méthode produit un échange plus précis qu’une simple demande de prix accompagnée d’une image.",
+        "Repérez prises, éclairage, passages de câbles, jonctions au mur et accès de livraison. Comparez les échantillons et le tableau de finitions afin de coordonner les éléments voisins. Il s’agit de conseils pour préparer un nouveau dossier, et non d’une description non vérifiée des procédures suivies pour ce chantier."
+      ],
+      "language": "fr",
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "publicLevel": "L3"
     }
   ]
 }
