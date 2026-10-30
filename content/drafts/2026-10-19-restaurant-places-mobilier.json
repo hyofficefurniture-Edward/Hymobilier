@@ -1,0 +1,207 @@
+{
+  "batch": "2026-10-19",
+  "topic": "How to convert restaurant floor area, table formats and circulation into a cover count before ordering furniture",
+  "audience": "Restaurant and hotel F&B owners, project managers and FF&E purchasers in France and French-speaking markets",
+  "searchIntent": "How to move from a restaurant floor plan to a realistic number of covers, by deducting non-seating areas, mixing table formats, checking aisle widths and matching the count to the service style",
+  "duplicateCheck": "Distinct from ressources/liste-mobilier-hotel (item-by-item furniture schedule) and ressources/comparer-devis (comparing quotations): this guide covers seating capacity arithmetic and layout clearances before the furniture specification is fixed.",
+  "factsPolicy": "Area-per-cover figures, table dimensions and aisle widths are given as planning references to be verified against the actual plan, the chosen furniture and local accessibility and safety rules. No prices, lead times, certifications, production capacity, project volumes or guaranteed cover counts.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可具名引用；按实际国家（坦桑尼亚）呈现，不改写为法国/摩洛哥交付"
+    }
+  },
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "publishedAt": null,
+  "updatedAt": null,
+  "reviewedAt": "2026-10-19",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/restaurant-places-mobilier/",
+    "en": "https://hymobilier.com/en/resources/restaurant-seating-capacity/"
+  },
+  "sources": [
+    {
+      "url": "https://hymobilier.com/projets/hos-018/",
+      "facts": "Documented project used as a space reference: restaurant, lobby and terrace areas with images. Used only as a layout discussion support; no delivery claim in France or Morocco."
+    },
+    {
+      "url": "https://hymobilier.com/professionnels/restaurants/",
+      "facts": "Existing site guidance on furnishing restaurant and bar spaces by zone; internal link target."
+    }
+  ],
+  "routeMapping": {
+    "ressources/restaurant-places-mobilier": "resources/restaurant-seating-capacity"
+  },
+  "cta": {
+    "fr": "/contact/",
+    "en": "/en/contact/"
+  },
+  "fr": {
+    "slug": "ressources/restaurant-places-mobilier",
+    "title": "Combien de places prévoir au restaurant avant de commander le mobilier",
+    "short": "Calculer les places d’un restaurant",
+    "description": "Passer de la surface d’un restaurant au nombre de places : déductions, formats de table, passages, mode de service et tableau de calcul par zone.",
+    "image": "/images/case-library/hos-018-restaurant.webp",
+    "imageAlt": "Salle de restaurant aménagée — projet TOA Hotel & Spa Zanzibar, Tanzanie",
+    "imageCaption": "Image du dossier du projet TOA Hotel & Spa Zanzibar (Tanzanie). Référence d’espaces, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Le nombre de couverts se décide avant le choix des tables, pas après. Une salle dimensionnée à vue, puis équipée, laisse souvent des passages trop étroits ou des rangées invendables, et le plan de salle se corrige mal une fois le mobilier commandé. Surface, déductions, formats et circulations se traduisent en un tableau chiffré que chaque proposition peut reprendre et discuter. L’objectif n’est pas de remplir la salle, mais d’obtenir un nombre de places tenable en service. Voici comment passer de la surface au nombre de places, avec les marges à vérifier sur site avant de figer la commande.",
+    "sections": [
+      [
+        "Partir de la surface utile, pas de la surface au sol",
+        "Une salle de 180 m² n’offre pas 180 m² de places assises. Retirez d’abord le bar, le buffet, les postes de service, les issues et les circulations, puis appliquez une densité de 1,2 à 1,8 m² par place en restauration à table, de 0,9 à 1,2 m² en restauration rapide ou en café. Ces valeurs sont des références de planification, pas un engagement de livraison : la forme de la salle, les poteaux, les banquettes et le mobilier retenu modifient le résultat. Exemple : 180 m² moins 25 m² de bar, 18 m² de buffet et 20 % de circulation laissent environ 110 m² assis, soit 60 à 90 places selon le confort visé. La terrasse se calcule séparément."
+      ],
+      [
+        "Choisir des formats de table qui s’assemblent",
+        "Une table carrée de 700 à 800 mm porte deux couverts ; deux tables réunies forment une table de quatre, à condition que les piètements ne se heurtent pas et que les plateaux s’alignent. Une table rectangulaire de 1200 à 1400 mm sur 800 mm rend le même service sans manipulation. Une table ronde de 1200 à 1400 mm de diamètre accueille quatre à six personnes et adoucit les angles de salle. La table longue convient aux groupes et aux salles étroites. Vérifiez la hauteur sous plateau, généralement 720 à 750 mm, et l’encombrement des piètements, qui décide de la place réelle des jambes. Le mélange n’a d’intérêt que si les hauteurs, les chants et les finitions restent compatibles."
+      ],
+      [
+        "Calibrer les passages et les distances",
+        "Trois largeurs structurent la salle : 1200 mm pour le passage principal, 900 mm pour le passage de service, 900 mm entre le bord de table et le mur pour tirer une chaise. Entre deux tables occupées, comptez 900 à 1000 mm dos de chaise à dos de chaise ; en deçà, le client se lève de biais et le service ralentit. Ces valeurs sont des minima de travail : vérifiez-les sur un plan à l’échelle, avec le mobilier réellement retenu, et confrontez-les aux règles d’accessibilité et de sécurité applicables. Ajoutez les obstacles fixes — poteaux, radiateurs, portes — avant de compter. Un passage de 1200 mm sur le plan peut tomber à 600 mm une fois les chaises tirées."
+      ],
+      [
+        "Le mode de service change le calcul",
+        "Un service à l’assiette immobilise une table plus longtemps qu’un buffet ou qu’un comptoir. Le nombre de places ne se déduit donc pas de la seule surface : il dépend du temps d’occupation et du nombre de services. Estimez la rotation par service, puis vérifiez que la cuisine et le bar peuvent suivre ; ajouter des places sans augmenter le débit de la cuisine déplace l’attente vers la salle. Un bar à hauteur assise compte autrement : un tabouret occupe moins de sol qu’une table, mais reste occupé plus longtemps. Un lobby bar ouvert en continu ne se dimensionne pas comme une salle de dîner. Comptez les places debout et les tabourets comme des catégories distinctes, pas comme des tables."
+      ],
+      [
+        "Terrasse, petit-déjeuner et tableau de calcul",
+        "En terrasse et au petit-déjeuner, le mobilier doit se déplacer, s’empiler et résister à l’exposition. Prévoyez un local ou un angle de stockage pour les tables inutilisées, et vérifiez le poids des pièces si le personnel les manipule seul. Anticipez le vent, le soleil et la pluie, qui décident des matériaux et du rangement. Au petit-déjeuner, la densité peut être plus forte et la durée d’occupation plus courte. Formalisez ensuite un tableau par zone : surface brute, déductions, formats de table, places obtenues. Ce tableau devient la pièce de référence pour comparer les propositions ; les cinq points de la checklist restent à confirmer sur place."
+      ]
+    ],
+    "faqs": [
+      {
+        "q": "Combien de mètres carrés faut-il prévoir par place en salle ?",
+        "a": "Comptez 1,2 à 1,8 m² par place en restauration à table et 0,9 à 1,2 m² en restauration rapide. Ces densités s’appliquent à la surface utile, après déduction du bar, du buffet et des circulations, et se vérifient sur le plan à l’échelle."
+      },
+      {
+        "q": "Quelle largeur minimale prévoir pour les passages ?",
+        "a": "Prévoyez 1200 mm pour le passage principal et 900 mm pour le passage de service. Entre deux tables occupées, comptez 900 à 1000 mm dos de chaise à dos de chaise. Vérifiez ces largeurs sur le plan avec le mobilier retenu."
+      },
+      {
+        "q": "Mieux vaut-il des tables rondes ou des tables carrées ?",
+        "a": "Cela dépend de la salle. Une table carrée de 700 à 800 mm porte deux couverts et s’assemble en table de quatre ; une ronde de 1200 à 1400 mm accueille quatre à six personnes et adoucit les angles. Vérifiez que hauteurs et finitions s’accordent."
+      },
+      {
+        "q": "Les places en terrasse comptent-elles dans le nombre de couverts ?",
+        "a": "Oui, mais séparément. La terrasse se calcule avec sa propre surface, son mobilier et son stockage, car le vent, la pluie et le soleil imposent des pièces déplaçables. Additionnez les deux zones seulement après avoir vérifié chaque plan."
+      },
+      {
+        "q": "À quel moment faut-il arrêter le choix du mobilier ?",
+        "a": "Après le tableau par zone, jamais avant. Surface utile, déductions, formats de table et largeurs de passage doivent être fixés et vérifiés sur place, car un plan de salle se corrige mal une fois le mobilier commandé."
+      }
+    ],
+    "caseNote": "Référence d’espaces : le projet TOA Hotel & Spa Zanzibar (Tanzanie) documente une salle de restaurant, un lobby et une terrasse. Ces images servent à discuter des compositions, des formats de table et des circulations ; aucune conclusion sur des quantités livrées n’en est tirée, et elles n’annoncent pas une livraison en France ou au Maroc. Elles ne remplacent ni un relevé sur site ni un plan à l’échelle.",
+    "checklist": [
+      "Tableau par zone : surface brute, déductions, formats, places obtenues",
+      "Couverts visés par service et rotation attendue, bar et terrasse inclus",
+      "Largeurs de passage relevées sur site, pas seulement sur le plan",
+      "Formats de table et assemblage deux places plus deux places",
+      "Bar, buffet et postes de service positionnés avant le calcul",
+      "Terrasse : stockage, empilement, exposition, poids des pièces"
+    ],
+    "products": [
+      "table-restaurant",
+      "tabouret-bar",
+      "banque-accueil"
+    ],
+    "links": [
+      "professionnels/restaurants",
+      "professionnels/hotels",
+      "ressources/comparer-devis",
+      "services/materiaux"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ]
+  },
+  "en": {
+    "slug": "resources/restaurant-seating-capacity",
+    "title": "How many covers to plan for before ordering restaurant furniture",
+    "short": "Calculating restaurant covers",
+    "description": "Turning restaurant floor area into a cover count: deductions, table formats, aisle widths, service style and a zone-by-zone seating table.",
+    "image": "/images/case-library/hos-018-restaurant.webp",
+    "imageAlt": "Furnished restaurant dining room — TOA Hotel & Spa Zanzibar project, Tanzania",
+    "imageCaption": "Image from the TOA Hotel & Spa Zanzibar (Tanzania) project file. A space reference, not an announcement of a delivery in France or Morocco.",
+    "intro": "The cover count is settled before the tables are chosen, not after. A room sized by eye and then furnished often ends up with aisles that are too tight or rows that cannot be sold, and a layout is hard to correct once the furniture is ordered. Area, deductions, table formats and circulation turn into a simple schedule that every proposal can follow and challenge. The aim is not to fill the room, but to reach a cover count that holds up in service. Here is how to move from floor area to a number of covers, and which margins to check on site before the order is fixed.",
+    "sections": [
+      [
+        "Start from usable seating area, not total floor area",
+        "A 180 m² dining room does not offer 180 m² of seats. Deduct the bar, the buffet, service stations, exits and circulation first, then apply 1.2 to 1.8 m² per cover for table service, or 0.9 to 1.2 m² for quick service and cafés. These figures are planning references, not a delivery commitment: room shape, columns, banquettes and the chosen furniture all change the result. For example, 180 m² less 25 m² of bar, 18 m² of buffet and 20 per cent circulation leaves about 110 m² of seating, or 60 to 90 covers depending on the comfort level sought. Keep the density consistent with the service you advertise, and calculate a terrace separately."
+      ],
+      [
+        "Choose table formats that can be combined",
+        "A 700 to 800 mm square table seats two; two of them pushed together make a four, provided the bases do not clash and the tops line up. A 1200 to 1400 mm by 800 mm rectangular table does the same job without handling. A round table of 1200 to 1400 mm in diameter seats four to six and softens the corners of a room. A long table suits groups and narrow rooms. Check the height under the top, usually 720 to 750 mm, and the footprint of the bases, which decides real legroom. Mixing formats only helps if heights, edges and finishes stay compatible, and if a split pair does not block an aisle."
+      ],
+      [
+        "Set the aisles and the clearances",
+        "Three widths structure the room: 1200 mm for the main aisle, 900 mm for the service aisle, and 900 mm between the table edge and the wall so a chair can be pulled out. Between two occupied tables, allow 900 to 1000 mm from chair back to chair back; below that, guests rise sideways and service slows down. These are working minimums: check them on a scaled plan with the actual furniture, and against the accessibility and fire safety rules that apply to the premises. Add fixed obstacles — columns, radiators, doors — before counting. A 1200 mm aisle on paper can become 600 mm once chairs are pulled out."
+      ],
+      [
+        "Service style changes the arithmetic",
+        "Plated service holds a table for longer than a buffet or a counter does. The cover count therefore cannot be read from floor area alone: it depends on how long guests stay and how many services you run. Estimate turnover per service, then check that the kitchen and bar can keep up; adding covers without extra kitchen throughput simply moves the wait into the dining room. Bar seating counts differently: a stool takes less floor than a table but stays occupied for longer. An all-day lobby bar is not sized like a dinner room. Count standing places and stools as separate categories, not as tables, and note that a counter turns faster at lunch than at dinner."
+      ],
+      [
+        "Terrace, breakfast and the seating table",
+        "On a terrace and at breakfast, furniture has to move, stack and withstand exposure. Allow a store or a corner for tables that are not in use, and check the weight of each piece if staff handle it alone. Anticipate wind, sun and rain, which drive the choice of materials and the storage arrangement. At breakfast, density can be higher and occupancy shorter. Then set out a table by zone: gross area, deductions, table formats, resulting covers. That table becomes the reference document for comparing proposals; the five points in the checklist still need confirming on site. Loose furniture also makes cleaning and evening re-sets easier."
+      ]
+    ],
+    "faqs": [
+      {
+        "q": "How much floor area should I allow per cover?",
+        "a": "Allow 1.2 to 1.8 m² per cover for table service and 0.9 to 1.2 m² for quick service. Apply these densities to usable seating area, after deducting the bar, buffet and circulation, and check them on a scaled plan."
+      },
+      {
+        "q": "What is the minimum aisle width in a restaurant?",
+        "a": "Allow 1200 mm for the main aisle and 900 mm for the service aisle. Between two occupied tables, keep 900 to 1000 mm from chair back to chair back, then measure again with chairs pulled out."
+      },
+      {
+        "q": "Are round tables better than square tables?",
+        "a": "Neither is better in every room. A 700 to 800 mm square table seats two and pairs into a four; a round table of 1200 to 1400 mm seats four to six and softens corners. Mix them only if heights and finishes match."
+      },
+      {
+        "q": "Should terrace seats be included in the cover count?",
+        "a": "Yes, but as a separate figure. A terrace has its own area, furniture and storage needs, because wind, rain and sun require pieces that move and stack. Add the two zones only after checking each layout."
+      },
+      {
+        "q": "When should the furniture specification be fixed?",
+        "a": "After the zone table is complete, not before. Usable area, deductions, table formats and aisle widths need to be settled and checked on site, because a layout is hard to correct once the furniture is ordered."
+      }
+    ],
+    "caseNote": "As a space reference, the TOA Hotel & Spa Zanzibar (Tanzania) project documents a restaurant, a lobby and a terrace. These images support the discussion of layouts, table formats and circulation; no conclusion is drawn about delivered quantities, and they do not announce a delivery in France or Morocco. They are no substitute for a site survey or a scaled plan, and the plan and the room should be checked together.",
+    "checklist": [
+      "Zone table: gross area, deductions, formats, covers obtained",
+      "Target covers per service and expected turnover, bar and terrace included",
+      "Aisle widths measured on site, not only on the plan",
+      "Table formats and two-plus-two assembly",
+      "Bar, buffet and service stations positioned before counting",
+      "Terrace: storage, stacking, exposure, weight of pieces"
+    ],
+    "links": [
+      "professionals/restaurants",
+      "professionals/hotels",
+      "resources/compare-quotations",
+      "services/materials"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "products": [
+      "table-restaurant",
+      "tabouret-bar",
+      "banque-accueil"
+    ]
+  }
+}

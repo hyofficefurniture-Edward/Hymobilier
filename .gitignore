@@ -2,6 +2,7 @@ dist/
 node_modules/
 *.log
 .env*
+content/sources.local.json
 qa/
 docs/site-network-inventory.json
 docs/IMPLEMENTATION_STATUS.md

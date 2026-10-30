@@ -1,0 +1,210 @@
+{
+  "batch": "2026-10-26",
+  "topic": "Meubler le lobby d’un hôtel : zones, circulation et sélection / Hotel lobby furniture: zones, circulation and selection",
+  "audience": "Hôteliers, architectes d’intérieur et acheteurs FF&E qui doivent meubler un lobby neuf ou en rénovation / Hotel operators, interior designers and FF&E buyers furnishing a new or refurbished lobby",
+  "searchIntent": "Savoir découper un lobby en zones opérationnelles, fixer les largeurs de passage et choisir les furniture, tissus et pièces d’usure adaptés à chaque zone / Learn how to split a lobby into operational zones, set clear widths and specify furniture, fabrics and wear parts zone by zone",
+  "duplicateCheck": "Distinct de ressources/liste-mobilier-hotel (liste poste par poste) et de professionnels/hotels (cadrage général de projet) : ce texte découpe le lobby en cinq zones avec cotes de passage, entraxes, exigences textile et logique de remplacement.",
+  "factsPolicy": "Aucune donnée tarifaire, remise ou pourcentage. Aucun délai de livraison, agrément détenu, volume de production, nombre de projets ni quantité minimale de commande. Les cotes et les valeurs de frottement ou de densité sont données comme ordres de grandeur à vérifier sur dossier fournisseur et sur plan, pas comme engagements. Aucune marque hôtelière, mobilière ou de matériau tierce. Le cas HOS-018 est présenté par ville et pays uniquement, comme référence d’espaces.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可引用空间图像；正文只写城市+国家（Zanzibar, Tanzanie），不写客户名，不改写为法国/摩洛哥交付"
+    }
+  },
+  "author": "Hongye Furniture Group Editorial Team",
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "publishedAt": null,
+  "updatedAt": null,
+  "reviewedAt": "2026-10-26",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/amenagement-lobby-hotel-zones-circulation/",
+    "en": "https://hymobilier.com/en/resources/hotel-lobby-furniture-zones-circulation/"
+  },
+  "sources": [
+    {
+      "url": "https://hymobilier.com/projets/hos-018/",
+      "facts": "Dossier de projet documenté, utilisé comme référence d’espaces (lobby, chambre, restaurant, piscine) avec images. Aucune allégation de livraison en France ou au Maroc."
+    },
+    {
+      "url": "https://hymobilier.com/professionnels/hotels/",
+      "facts": "Cadrage existant du site sur la sélection de mobilier hôtelier par espace ; cible de lien interne."
+    }
+  ],
+  "routeMapping": {
+    "ressources/amenagement-lobby-hotel-zones-circulation": "resources/hotel-lobby-furniture-zones-circulation"
+  },
+  "cta": {
+    "fr": "/contact/",
+    "en": "/en/contact/"
+  },
+  "fr": {
+    "slug": "ressources/amenagement-lobby-hotel-zones-circulation",
+    "title": "Meubler le lobby d’un hôtel : zones, circulation et sélection",
+    "short": "Aménagement du lobby",
+    "description": "Cinq zones, des largeurs de passage mesurées, des tissus choisis par usage : comment meubler un lobby d’hôtel sans surdimensionner les angles calmes ni sous-dimensionner le bar.",
+    "image": "/images/case-library/hos-018-lobby.webp",
+    "imageAlt": "Lobby d’hôtel avec banque d’accueil, assises et circulation — projet hôtelier à Zanzibar, Tanzanie",
+    "imageCaption": "Image de la bibliothèque du groupe, issue d’un projet hôtelier à Zanzibar (Tanzanie). Référence d’espaces, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Un lobby n’est pas une pièce à meubler d’un seul geste : c’est une suite de séquences que le client traverse en quelques secondes, avec une valise à la main. La réception, l’attente, le travail, le bar et l’axe de circulation n’ont ni les mêmes largeurs, ni les mêmes tissus, ni la même durée de vie. Les repères ci-dessous sont des ordres de grandeur observés en hôtellerie, à confirmer sur plan et sur dossier fournisseur. Ils servent à poser les bonnes questions avant de comparer des propositions, pas à classer un fournisseur.",
+    "sections": [
+      [
+        "Lire le lobby comme cinq zones, pas comme une pièce",
+        "Un lobby se lit en marchant, pas en survolant un plan. Depuis la porte d’entrée jusqu’au comptoir, puis du comptoir vers l’ascenseur, le client traverse au moins quatre ambiances en quelques secondes : il pose sa valise, cherche un repère, attend, s’assoit parfois, commande un café, repart. Chacune de ces séquences appelle un mobilier différent et, surtout, une largeur de passage différente. Découper le lobby en cinq zones — arrivée, attente, travail et social, bar, axe de circulation — évite de traiter la pièce comme un seul lot d’assises.\n\nLa méthode tient en trois relevés. D’abord l’axe : la ligne la plus directe entre l’entrée, la réception et les ascenseurs, à tenir à 1,20 m libre au minimum, et 1,50 m aux croisements et devant la file d’attente. Ensuite les points de contact : mains sur les accoudoirs, valises contre les banquettes, plateaux posés sur les tables basses. Enfin les cotes de chaque groupe, prises entre les meubles et non entre les murs, car un fauteuil reculé de 20 cm mange un passage.\n\nCette découpe a une conséquence directe sur le dossier de consultation. Un lobby équipé d’un seul tissu et d’une seule densité de mousse sera surdimensionné dans les angles calmes et sous-dimensionné autour du bar. En séparant les zones, on attribue à chacune son niveau de frottement, son type de housse et sa logique de remplacement, sans payer deux fois la même performance."
+      ],
+      [
+        "Arrivée et réception : les trois premiers mètres",
+        "La zone d’arrivée porte le mobilier le plus sollicité du lobby : banque d’accueil, retour de comptoir, console basse, banquette à bagages, tabourets hauts pour l’attente debout, porte-parapluies. Le plan de travail se situe couramment entre 1 050 et 1 150 mm, avec un poste accessible à 750–800 mm, un dégagement genoux de 700 mm de large et 450 mm de profondeur. Devant le comptoir, prévoir 1 200 mm libres pour un client avec valise et un accompagnant ; derrière, 900 mm pour le siège et le passage du personnel. La banquette à bagages se tient à 450–500 mm d’assise, 400–450 mm de profondeur, avec un plateau protégé par un chant rapporté.\n\nLe devant de comptoir reçoit les chariots, les valises et les ceintures. Un parement stratifié haute pression ou un placage avec chant ABS de 2 mm se reprend localement ; une laque, beaucoup moins. Le soubassement se conçoit comme une pièce d’usure : plinthe démontable, fixation par vis traversantes, teinte proche du sol pour masquer les coups de pied. Les tabourets hauts d’attente reçoivent un vinyle de 50 000 frottements Martindale minimum, sans couture sur l’assise, et des patins remplaçables.\n\nUn point souvent oublié : la file. Sans tracé au sol ni banquette de dépose, les clients s’arrêtent devant le comptoir et bloquent l’axe. Une assise d’attente à 1 500 mm du comptoir, ou une console de dépose de 400 mm de profondeur, suffit souvent à désengorger. Prévoir également une prise à proximité de la banquette et un éclairage qui rend le comptoir lisible sans éblouir l’assise."
+      ],
+      [
+        "Attente : régler l’entraxe avant de choisir le dessin",
+        "Dans la zone d’attente, le confort se joue sur des cotes simples. Un fauteuil de lobby s’assoit à 420–450 mm, sur 480–520 mm de profondeur, pour 600–700 mm de largeur par place. Entre deux fauteuils, une table d’appoint de 400–450 mm de diamètre demande un dégagement de 400–450 mm de chaque côté. Deux fauteuils face à face se placent à 800–900 mm pour permettre la conversation sans que les genoux se touchent ; derrière les dossiers, compter 1 200 mm si l’axe de circulation passe là. Ces valeurs se vérifient sur un plan à l’échelle 1/20, pas sur une image d’ambiance.\n\nLe textile d’attente travaille par contact prolongé plutôt que par frottement violent : 40 000 à 50 000 frottements Martindale pour une assise de lobby, 25 000 à 30 000 pour un dossier. Une mousse d’assise de 35–40 kg/m³ tient la forme ; en dessous, l’assise se tasse et le bord avant marque. La housse démontable, avec fermeture invisible et sens du tissu respecté, permet de retourner ou de remplacer un coussin sans immobiliser le groupe. Un velours clair se salit au dossier et aux accoudoirs : préférer une teinte médiane ou une armure serrée.\n\nLe coût réel d’une assise de lobby ne se lit pas à la commande mais au premier remplacement. Trois décisions le réduisent : coussins indépendants du dossier, housses disponibles séparément, piètement démontable. À l’usage, les coussins se retournent, les housses se lavent, un piètement se reprend sans rebuter l’assise entière. À l’inverse, une assise entièrement capitonnée et collée oblige à remplacer le fauteuil pour une tache ou un affaissement localisé."
+      ],
+      [
+        "Travail et social : la table qui accepte un ordinateur",
+        "La zone travail-social du lobby accueille des usages mélangés : un client qui répond à des messages, deux collègues qui préparent une réunion, un voyageur qui attend son taxi. Une table haute de bar ne convient pas au travail assis ; une table de 740–750 mm de hauteur, 600 mm de profondeur utile par personne et 700 mm de largeur d’assise reste la base. Pour une table partagée, compter 600 mm de largeur par place et 1 200 mm entre deux rangées dos à dos si des chaises sont reculées. Une banquette fixe gagne de la place mais impose de calculer la profondeur d’assise (450–480 mm) et le dégagement de la table (250–300 mm).\n\nLes prises décident de l’usage réel. Deux prises par table, dont une USB-C, avec passe-câbles usiné et non percé sur site, évitent les rallonges apparentes. Le plateau doit rester mat sous l’éclairage : un stratifié brillant renvoie l’écran et fatigue. Côté acoustique, un lobby en pierre et verre renvoie les conversations vers la réception ; des panneaux absorbants en sous-face de table ou en assise, et des textiles épais, réduisent le niveau sonore sans cloisonner.\n\nEn zone sociale, ce sont les bords de plateau, les accoudoirs et les dossiers qui s’usent d’abord. Un chant de 2 mm, un plateau remplaçable indépendamment du piètement et des accoudoirs en pièce détachée changent la facture d’entretien sur la durée. Éviter les plateaux monoblocs collés au piètement : la moindre rayure profonde impose de sortir l’ensemble."
+      ],
+      [
+        "Bar et axe de circulation : ce qui casse en premier",
+        "Autour du bar, les cotes se calculent à partir du comptoir. Pour un comptoir à 1 050–1 100 mm, un tabouret se règle à 750–780 mm d’assise, avec un repose-pieds à environ 450 mm. Prévoir 250–300 mm entre deux tabourets, un débord de comptoir de 300–350 mm pour les genoux, et 1 200 mm libres derrière les tabourets occupés — davantage si le tabouret recule. Sans ce débord, les genoux touchent le parement, le client s’assoit de biais et use le bord de l’assise.\n\nL’axe principal se tient à 1 200 mm, élargi à 1 500 mm aux croisements, devant l’ascenseur et à l’entrée du restaurant. Les meubles bas — consoles, bacs à plantes, présentoirs — se placent hors de cet axe, à 300 mm au moins des battants de porte. Les changements de revêtement de sol méritent un profil plat : une barre de seuil mal posée fait trébucher et arrache les patins des tabourets.\n\nLe tabouret de bar est le meuble le plus remplacé d’un lobby : bord d’assise, coutures, patins, repose-pieds. Un vinyle technique de 100 000 frottements Martindale, une assise moulée sans couture sur le devant et un piètement métallique avec patins vissés tiennent mieux qu’un tissu d’ameublement. Il faut enfin séparer, dans le dossier de consultation, les quantités par zone et les pièces d’usure : assises, housses, plateaux, patins. C’est cette séparation qui permet de remplacer un lot de tabourets sans toucher aux fauteuils d’attente, et de garder un lobby homogène après plusieurs années d’exploitation."
+      ]
+    ],
+    "caseNote": "À titre de référence d’espaces, un projet hôtelier à Zanzibar (Tanzanie) documente un lobby, une chambre, un restaurant et une piscine. Ces images servent à discuter des compositions, des proportions et des fixations, et non à illustrer une prestation précise ; elles n’annoncent pas une livraison en France ou au Maroc. La finition visible sur une photo ne renseigne ni sur la structure des assises ni sur les pièces d’usure.",
+    "checklist": [
+      "Largeur libre de l’axe principal et des croisements",
+      "Hauteurs du plan d’accueil et du poste accessible",
+      "Entraxe des assises et dégagement derrière les fauteuils",
+      "Frottements Martindale par zone et housses démontables",
+      "Densité de mousse et remplaçabilité des coussins",
+      "Prises, passe-câbles et protections de pieds"
+    ],
+    "products": [
+      "banque-accueil",
+      "salon-residentiel",
+      "tabouret-bar"
+    ],
+    "links": [
+      "professionnels/hotels",
+      "ressources/liste-mobilier-hotel",
+      "services/materiaux",
+      "services/echantillons"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "amenagement-lobby-hotel-zones-circulation.csv",
+    "faqs": [
+      {
+        "q": "Combien de largeur faut-il laisser pour circuler dans un lobby d’hôtel ?",
+        "a": "Comptez 1,20 m libre sur l’axe principal entre l’entrée, la réception et les ascenseurs, et 1,50 m aux croisements, devant la file d’attente et à l’entrée du restaurant. Ces largeurs se mesurent entre les meubles, pas entre les murs, et se vérifient avec les fauteuils reculés."
+      },
+      {
+        "q": "Comment choisir un fauteuil pour une zone d’attente de lobby ?",
+        "a": "Partez des cotes : assise à 420–450 mm, profondeur de 480–520 mm, 600–700 mm par place, 800–900 mm entre deux fauteuils face à face. Vérifiez ensuite la mousse (35–40 kg/m³ en assise), la housse démontable et un tissu de 40 000 à 50 000 frottements Martindale."
+      },
+      {
+        "q": "Quel tissu résiste le mieux dans un lobby très fréquenté ?",
+        "a": "Un vinyle technique ou un tissu enduit de 100 000 frottements Martindale pour les tabourets de bar, un tissu de 40 000 à 50 000 pour les assises d’attente. Évitez les teintes claires aux points de contact et demandez le rapport d’essai du fournisseur, pas seulement l’étiquette."
+      },
+      {
+        "q": "Comment organiser la circulation entre la réception et le bar ?",
+        "a": "Gardez un axe direct de 1,20 m entre l’entrée, le comptoir et les ascenseurs, élargi à 1,50 m aux croisements. Placez les meubles bas hors de cet axe, à 300 mm au moins des battants de porte, et reculez la file d’attente à 1,50 m du comptoir."
+      },
+      {
+        "q": "Quelles pièces faut-il prévoir en rechange pour un lobby ?",
+        "a": "Housses et coussins d’assise, patins et glisseurs, plateaux de table, plinthes de comptoir et repose-pieds. Demandez qu’ils figurent comme lignes séparées dans le dossier de consultation : c’est ce qui permet de remplacer une pièce d’usure sans immobiliser tout un groupe."
+      }
+    ]
+  },
+  "en": {
+    "slug": "resources/hotel-lobby-furniture-zones-circulation",
+    "title": "Hotel Lobby Furniture: Zones, Circulation and Selection",
+    "short": "Lobby furniture planning",
+    "description": "Five zones, measured clear widths and fabrics chosen by use: how to furnish a hotel lobby without over-specifying the quiet corners or under-specifying the bar.",
+    "image": "/images/case-library/hos-018-lobby.webp",
+    "imageAlt": "Hotel lobby with reception desk, seating and circulation — hotel project in Zanzibar, Tanzania",
+    "imageCaption": "Image from the group library, taken from a hotel project in Zanzibar (Tanzania). A space reference for composition and fixing details, not an announcement of a delivery in France or Morocco.",
+    "intro": "A lobby is not a room furnished in one gesture. It is a sequence of moments a guest crosses in seconds, suitcase in hand. Reception, waiting, work, bar and the circulation spine share neither the same clear widths, nor the same fabrics, nor the same service life. The markers below are ranges seen in hotel work and are to be confirmed on plan and against supplier documentation. They are there to frame the right questions before comparing proposals, not to rank a supplier.",
+    "sections": [
+      [
+        "Read the lobby as five zones, not one room",
+        "A lobby is read on foot, not from a plan. From the entrance to the desk, then from the desk to the lifts, a guest passes through at least four atmospheres in a few seconds: he puts down a case, looks for a reference point, waits, sometimes sits, orders a coffee, leaves. Each moment calls for different furniture and, above all, a different clear width. Splitting the lobby into five zones — arrival, waiting, work and social, bar, circulation spine — stops the room being treated as one batch of seating.\n\nThe method needs three surveys. First the spine: the most direct line between entrance, reception and lifts, kept at 1.20 m clear minimum, widening to 1.50 m at crossings and in front of the queue. Then the contact points: hands on armrests, cases against benches, trays set on low tables. Finally the dimensions of each group, taken between furniture rather than between walls, because a chair pushed back 20 cm eats a passage.\n\nThat split has a direct consequence for the tender pack. A lobby specified with one fabric and one foam density will be over-specified in the quiet corners and under-specified around the bar. Separating the zones lets each carry its own rub count, its own cover type and its own replacement logic, without paying twice for the same performance."
+      ],
+      [
+        "Arrival and reception: the first three metres",
+        "The arrival zone carries the hardest-working furniture in the lobby: reception desk, counter return, low console, luggage bench, high stools for standing waits, umbrella stand. The worktop usually sits between 1,050 and 1,150 mm, with an accessible position at 750–800 mm, 700 mm clear knee width and 450 mm knee depth. In front of the desk, allow 1,200 mm clear for a guest with a case and a companion; behind it, 900 mm for the chair and staff movement. A luggage bench sits at 450–500 mm seat height, 400–450 mm deep, with a top protected by an applied edge.\n\nThe desk front takes trolleys, cases and belt buckles. A high-pressure laminate face or a veneer with 2 mm ABS edging can be repaired locally; a lacquer far less so. Treat the plinth as a wear part: removable kick plate, through-bolted fixings, a colour close to the floor to hide scuffs. High stools in the waiting position need vinyl at 50,000 Martindale minimum, a seat with no seam across the front, and replaceable glides.\n\nOne detail is often missed: the queue. Without a floor line or a drop-off bench, guests stop at the desk and block the spine. A waiting seat 1,500 mm from the desk, or a 400 mm deep console for bags, often clears it. Add a socket near the bench and lighting that makes the desk readable without glare in the eyes of someone seated."
+      ],
+      [
+        "Waiting: set the spacing before choosing the chair",
+        "In the waiting zone, comfort comes down to simple dimensions. A lobby armchair sits at 420–450 mm, is 480–520 mm deep and allows 600–700 mm width per place. Between two chairs, a 400–450 mm diameter side table needs 400–450 mm clear on each side. Two chairs facing each other sit 800–900 mm apart so knees do not touch; behind the backs, allow 1,200 mm where the circulation spine runs. Check these on a 1:20 plan, not on a mood image.\n\nWaiting upholstery works through prolonged contact rather than hard abrasion: 40,000 to 50,000 Martindale for a lobby seat, 25,000 to 30,000 for a back. Seat foam at 35–40 kg/m³ holds its shape; below that the seat compacts and the front edge collapses. A removable cover with a concealed closure and the pile running the right way lets a cushion be turned or replaced without taking the group out of service. A pale velvet soils at the back and armrests: choose a mid-tone or a tight weave.\n\nThe real cost of lobby seating is not read at order stage but at the first replacement. Three decisions reduce it: cushions independent of the back, covers available separately, a demountable frame. In use, cushions turn, covers wash, a frame is repaired without scrapping the seat. A fully upholstered and glued seat, by contrast, forces the whole chair out for one stain or one local collapse."
+      ],
+      [
+        "Work and social: a table that takes a laptop",
+        "The work-and-social zone now hosts mixed uses: a guest answering messages, two colleagues preparing a meeting, a traveller waiting for a taxi. A bar-height table does not work for seated laptop use; 740–750 mm height, 600 mm usable depth per person and 700 mm seat width remain the baseline. For a shared table, allow 600 mm width per place and 1,200 mm between back-to-back rows once chairs are pushed back. A fixed banquette saves space but requires the seat depth (450–480 mm) and the table clearance (250–300 mm) to be calculated.\n\nPower points decide the real use. Two sockets per table, one of them USB-C, with a cable route cut at machining stage rather than drilled on site, remove visible extension leads. The top should stay matt under lighting: a glossy laminate throws the screen back. On acoustics, a stone-and-glass lobby sends conversation towards reception; absorbent panels under table tops or inside seats, plus heavy textiles, lower the level without dividing the room.\n\nIn the social zone, table edges, armrests and backs wear first. A 2 mm edge, a top replaceable independently of the base and armrests supplied as separate parts change the maintenance bill over time. Avoid tops bonded permanently to the base: one deep scratch then means removing the whole table."
+      ],
+      [
+        "Bar and circulation spine: what fails first",
+        "Around the bar, dimensions start from the counter. For a counter at 1,050–1,100 mm, a stool sets at 750–780 mm seat height, with a footrest around 450 mm. Allow 250–300 mm between stools, a 300–350 mm counter overhang for the knees, and 1,200 mm clear behind occupied stools — more where a stool pulls back. Without that overhang, knees meet the face of the counter, the guest sits at an angle and the seat edge wears.\n\nThe main spine stays at 1,200 mm, widening to 1,500 mm at crossings, in front of the lifts and at the restaurant entrance. Low furniture — consoles, planters, display stands — belongs outside that spine, at least 300 mm from door leaves. Floor changes need a flat profile: a poorly set threshold bar trips guests and tears the glides off stools.\n\nThe bar stool is the most-replaced item in a lobby: seat edge, seams, glides, footrest. Technical vinyl at 100,000 Martindale, a moulded seat with no seam across the front and a metal frame with screwed glides last better than furnishing fabric. Finally, separate quantities by zone and wear parts in the tender pack: seats, covers, tops, glides. That separation is what allows one batch of stools to be replaced without touching the waiting chairs, and keeps a lobby coherent after several years of trading."
+      ]
+    ],
+    "caseNote": "As a space reference, a hotel project in Zanzibar (Tanzania) documents a lobby, a guestroom, a restaurant and a pool. These images support a discussion of composition, proportion and fixing details rather than illustrating a specific scope; they do not announce a delivery in France or Morocco. The finish visible in a photograph says nothing about seat construction or wear parts.",
+    "checklist": [
+      "Clear width of the main spine and crossings",
+      "Reception worktop and accessible counter heights",
+      "Seat spacing and clearance behind armchairs",
+      "Martindale rub count by zone and removable covers",
+      "Foam density and cushion replaceability",
+      "Sockets, cable routes and foot protection"
+    ],
+    "products": [
+      "banque-accueil",
+      "salon-residentiel",
+      "tabouret-bar"
+    ],
+    "links": [
+      "professionals/hotels",
+      "resources/hotel-furniture-schedule",
+      "services/materials",
+      "services/samples"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "hotel-lobby-furniture-zones-circulation.csv",
+    "faqs": [
+      {
+        "q": "How much clear width does a hotel lobby need for circulation?",
+        "a": "Allow 1.20 m clear on the main spine between entrance, reception and lifts, and 1.50 m at crossings, in front of the queue and at the restaurant entrance. Measure between furniture rather than between walls, and check it with the chairs pushed back."
+      },
+      {
+        "q": "How do you choose an armchair for a hotel lobby waiting area?",
+        "a": "Start with dimensions: 420–450 mm seat height, 480–520 mm depth, 600–700 mm per place, and 800–900 mm between chairs facing each other. Then confirm foam at 35–40 kg/m³ in the seat, a removable cover and a fabric of 40,000 to 50,000 Martindale."
+      },
+      {
+        "q": "Which fabric holds up best in a busy hotel lobby?",
+        "a": "Technical vinyl or coated fabric at 100,000 Martindale for bar stools, and 40,000 to 50,000 for waiting seats. Avoid pale shades at contact points, and ask for the supplier test report rather than relying on the label."
+      },
+      {
+        "q": "How should circulation be organised between reception and the bar?",
+        "a": "Keep a direct 1.20 m spine from entrance to desk to lifts, widening to 1.50 m at crossings. Keep low furniture out of that spine and at least 300 mm from door leaves, and set the queue 1.50 m back from the desk."
+      },
+      {
+        "q": "Which spare parts should be planned for a hotel lobby?",
+        "a": "Seat covers and cushions, glides and feet, table tops, desk kick plates and footrests. Ask for them as separate lines in the tender pack: that is what allows one wear part to be replaced without taking a whole seating group out of service."
+      }
+    ]
+  }
+}

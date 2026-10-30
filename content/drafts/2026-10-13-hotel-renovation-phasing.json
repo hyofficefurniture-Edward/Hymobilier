@@ -1,0 +1,209 @@
+{
+  "batch": "2026-10-13",
+  "topic": "Phased hotel renovation procurement by space (guestrooms, reception, dining)",
+  "audience": "Hotel owners, project managers and FF&E purchasers preparing a renovation",
+  "searchIntent": "How to sequence a hotel furniture renovation by space and how to allocate responsibilities between production, transport, receiving and installation",
+  "duplicateCheck": "Distinct from ressources/liste-mobilier-hotel (item-by-item schedule) and ressources/comparer-devis (comparing quotations): this guide covers sequencing and phasing of a live renovation, not list building or quotation comparison.",
+  "factsPolicy": "No lead times, cost-reduction rates, certifications, room counts or occupancy figures beyond the public project record. Standards and responsibilities are described as points to confirm, not as universal claims.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可具名引用；按实际国家（坦桑尼亚）呈现，不改写为法国/摩洛哥交付"
+    }
+  },
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "publishedAt": null,
+  "updatedAt": null,
+  "reviewedAt": "2026-10-13",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/phaser-renovation-hotel/",
+    "en": "https://hymobilier.com/en/resources/hotel-renovation-phasing/"
+  },
+  "sources": [
+    {
+      "url": "https://hymobilier.com/projets/hos-018/",
+      "facts": "Documented project used as a space reference: guestroom, lobby, restaurant and pool areas with images. Used only as a space discussion support; no delivery claim in France or Morocco."
+    },
+    {
+      "url": "https://hymobilier.com/professionnels/hotels/",
+      "facts": "Existing site guidance on scoping hotel furniture by space; internal link target."
+    }
+  ],
+  "routeMapping": {
+    "ressources/phaser-renovation-hotel": "resources/hotel-renovation-phasing"
+  },
+  "cta": {
+    "fr": "/contact/",
+    "en": "/en/contact/"
+  },
+  "fr": {
+    "slug": "ressources/phaser-renovation-hotel",
+    "title": "Phaser une rénovation d’hôtel : chambres, réception et restaurant",
+    "short": "Phaser une rénovation hôtelière",
+    "description": "Une méthode pour découper une rénovation d’hôtel par espace : chambres, réception et restaurant, avec les étapes et les responsabilités à préciser.",
+    "image": "/images/case-library/hos-018-guestroom.webp",
+    "imageAlt": "Chambre d’hôtel avec lit à baldaquin, bureau et rangement — projet TOA Hotel & Spa Zanzibar, Tanzanie",
+    "imageCaption": "Image du dossier du projet TOA Hotel & Spa Zanzibar (Tanzanie). Référence d’espaces, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Une rénovation d’hôtel se conduit rarement en une seule phase. Découper le chantier par espace — chambres, réception, restaurant — permet de garder l’établissement en exploitation et de comparer les propositions sur un périmètre identique.",
+    "sections": [
+      [
+        "Pourquoi découper la rénovation par espace",
+        "Le découpage suit l’exploitation, pas le catalogue. Une aile de chambres peut fermer pendant que la réception reste en service ; l’inverse est rarement possible. Pour chaque espace, notez les dates d’indisponibilité, les contraintes de stockage sur site et l’accès de montage avant de comparer des propositions."
+      ],
+      [
+        "Commencer par les chambres",
+        "Les chambres représentent le volume le plus important et le plus répétitif. Regroupez-les par type, puis indiquez pour chaque type le nombre de lits, de têtes de lit, de bureaux et de rangements. Un type validé sert de référence aux suivants ; les écarts de surface se traitent ensuite, plutôt qu’au moment de la commande."
+      ],
+      [
+        "Traiter la réception et les espaces publics",
+        "La réception combine une zone d’accueil, un poste de travail et une circulation. Les dimensions du comptoir, les passages de câbles et les contraintes d’accessibilité s’examinent avec le plan : une configuration visuellement proche peut répondre à des usages différents."
+      ],
+      [
+        "Caler le restaurant et les espaces de restauration",
+        "Le nombre de couverts, le mode de service et le rangement déterminent la sélection. Tables, sièges et buffets se vérifient ensemble : une table choisie pour la salle ne convient pas nécessairement à la terrasse ni au service du petit-déjeuner."
+      ],
+      [
+        "Répartir les responsabilités et les étapes",
+        "Fabrication, transport, réception, montage et reprise des emballages correspondent à des étapes distinctes. Elles apparaissent séparément dans le dossier, avec la responsabilité de chacune. Cette précision évite les écarts d’interprétation entre deux propositions."
+      ]
+    ],
+    "caseNote": "À titre de référence d’espaces, le projet TOA Hotel & Spa Zanzibar (Tanzanie) documente une chambre, un lobby, un restaurant et une piscine ; ces images servent à discuter des compositions et n’annoncent pas une livraison en France ou au Maroc.",
+    "checklist": [
+      "Espaces et dates d’indisponibilité",
+      "Nombre de chambres par type",
+      "Circulations et accès de montage",
+      "Contraintes de stockage sur site",
+      "Responsabilités transport et montage",
+      "Références de matériaux et de finitions"
+    ],
+    "products": [
+      "ensemble-chambre-hotel",
+      "banque-accueil",
+      "table-restaurant"
+    ],
+    "links": [
+      "professionnels/hotels",
+      "ressources/comparer-devis",
+      "references/chambre-hotel",
+      "services/echantillons"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "phaser-renovation-hotel.csv",
+    "faqs": [
+      {
+        "q": "Par quel espace commencer une rénovation d’hôtel ?",
+        "a": "Commencez par les chambres : c’est le volume le plus important et le plus répétitif. Un type validé sert ensuite de référence aux autres, ce qui limite les reprises au moment de la commande."
+      },
+      {
+        "q": "Peut-on maintenir l’hôtel ouvert pendant les travaux ?",
+        "a": "Oui, si le découpage suit l’exploitation. Une aile de chambres peut fermer pendant que la réception reste en service. Notez toutefois les dates d’indisponibilité, le stockage et l’accès de montage avant de comparer les propositions."
+      },
+      {
+        "q": "Faut-il aménager une chambre témoin avant de commander ?",
+        "a": "C’est recommandé lorsque plusieurs types de chambres sont concernés. La chambre témoin valide les dimensions, les finitions et les compositions ; elle devient la référence pour les types suivants et pour les écarts de surface."
+      },
+      {
+        "q": "À quel moment le mobilier doit-il arriver sur le chantier ?",
+        "a": "Le mobilier arrive lorsque la chambre est prête à le recevoir, pas avant. Production, transport, réception et montage sont des étapes distinctes : fixez la livraison avec le planning des travaux, pas isolément."
+      },
+      {
+        "q": "Le phasage augmente-t-il le coût d’une rénovation ?",
+        "a": "Il peut ajouter des postes : stockage sur site, livraisons fractionnées, protection des zones en service et reprises de manutention. Ces éléments varient selon le nombre de phases et l’accès ; ils se chiffrent dans le dossier, pas dans une estimation générale."
+      }
+    ]
+  },
+  "en": {
+    "slug": "resources/hotel-renovation-phasing",
+    "title": "Phasing a hotel renovation: guestrooms, reception and dining",
+    "short": "Phasing a hotel renovation",
+    "description": "A method for splitting a hotel renovation by space — guestrooms, reception and dining — and for setting out the stages and responsibilities to confirm.",
+    "image": "/images/case-library/hos-018-guestroom.webp",
+    "imageAlt": "Hotel guestroom with a canopy bed, desk and wardrobe — TOA Hotel & Spa Zanzibar project, Tanzania",
+    "imageCaption": "Image from the TOA Hotel & Spa Zanzibar (Tanzania) project file. A space reference, not an announcement of a delivery in France or Morocco.",
+    "intro": "Hotel renovations are rarely delivered in one phase. Splitting the work by space — guestrooms, reception, dining — keeps the property trading and lets you compare proposals on the same scope.",
+    "sections": [
+      [
+        "Why split the renovation by space",
+        "The split follows how the property operates, not how a catalogue is arranged. A guestroom wing can close while reception stays in service; the reverse is rarely possible. For each space, record downtime windows, on-site storage constraints and assembly access before you compare proposals."
+      ],
+      [
+        "Start with the guestrooms",
+        "Guestrooms carry the largest and most repetitive volume. Group them by room type and list beds, headboards, desks and storage for each type. One approved type becomes the reference for the rest; surface differences are handled afterwards, not at the point of order."
+      ],
+      [
+        "Plan the reception and public areas",
+        "Reception brings together a welcome zone, a working position and a circulation route. Counter dimensions, cable routes and accessibility requirements are reviewed against the plan, because a visually similar layout can serve a different use."
+      ],
+      [
+        "Set the restaurant and dining areas",
+        "Covers, service style and storage drive the selection. Tables, seating and buffet units are reviewed together: a table selected for the dining room will not necessarily suit the terrace or breakfast service."
+      ],
+      [
+        "Allocate responsibilities and stages",
+        "Production, transport, receiving, installation and packing removal are separate stages. Each appears in the brief with its own responsibility. That level of detail prevents two quotations from being read as the same scope."
+      ]
+    ],
+    "caseNote": "As a space reference, the TOA Hotel & Spa Zanzibar (Tanzania) project documents a guestroom, lobby, restaurant and pool. These images support the composition discussion and do not announce a delivery in France or Morocco.",
+    "checklist": [
+      "Spaces and downtime windows",
+      "Room counts by type",
+      "Circulations and assembly access",
+      "On-site storage constraints",
+      "Transport and installation responsibilities",
+      "Material and finish references"
+    ],
+    "products": [
+      "ensemble-chambre-hotel",
+      "banque-accueil",
+      "table-restaurant"
+    ],
+    "links": [
+      "professionals/hotels",
+      "resources/compare-quotations",
+      "references/hotel-room",
+      "services/samples"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "phaser-renovation-hotel.csv",
+    "faqs": [
+      {
+        "q": "Which space should a hotel renovation start with?",
+        "a": "Start with the guestrooms, because they carry the largest and most repetitive volume. One approved room type becomes the reference for the rest, which reduces adjustments later at the point of order."
+      },
+      {
+        "q": "Can the hotel stay open during the renovation?",
+        "a": "Yes, provided the split follows how the property operates. A guestroom wing can close while reception stays in service. Record downtime windows, storage constraints and assembly access before comparing proposals."
+      },
+      {
+        "q": "Should you build a sample room before ordering?",
+        "a": "It is advisable when several room types are involved. A sample room confirms dimensions, finishes and composition, then serves as the reference for the remaining types and for surface differences."
+      },
+      {
+        "q": "When should the furniture arrive on site?",
+        "a": "Furniture should arrive when each room is ready to receive it, not earlier. Production, transport, receiving and installation are separate stages, so agree the delivery date against the works programme rather than in isolation."
+      },
+      {
+        "q": "Does phasing make a renovation more expensive?",
+        "a": "It can add cost lines: on-site storage, split deliveries, protection of occupied areas and extra handling. These depend on the number of phases and site access, and belong in the itemised brief rather than a general estimate."
+      }
+    ]
+  }
+}

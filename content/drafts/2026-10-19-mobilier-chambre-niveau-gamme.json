@@ -1,0 +1,209 @@
+{
+  "batch": "2026-10-19",
+  "topic": "Mobilier de chambre d'hôtel : ce qui change vraiment selon le niveau de gamme / What actually changes in hotel guestroom furniture across service tiers",
+  "audience": "Hôteliers, bureaux d'études et acheteurs FF&E qui doivent fixer un niveau de spécification par type de chambre / Hotel owners, project managers and FF&E purchasers setting a specification level per room type",
+  "searchIntent": "Comprendre les différences réelles entre 3 étoiles, 4 étoiles, boutique et 5 étoiles sur le mobilier de chambre, puis traduire ces écarts en paramètres vérifiables pour cadrer la commande / Understand what actually differs between 3-star, 4-star, boutique and 5-star guestroom furniture, then turn those differences into measurable specifications to control scope and budget",
+  "duplicateCheck": "Distinct de ressources/liste-mobilier-hotel (liste poste par poste) et de ressources/phaser-renovation-hotel (séquencement d'un chantier) : ce texte compare les niveaux de gamme composant par composant (caisson, chant, coulisses, tissu, mousse, lit, quincaillerie, rangement) et montre comment les écrire en paramètres contractuels.",
+  "factsPolicy": "Aucune donnée tarifaire, remise ou pourcentage. Aucun calendrier, agrément détenu, volume de production, nombre de projets ni quantité minimale de commande. Les plages techniques (frottements, densités, épaisseurs, charges) sont données comme ordres de grandeur à vérifier sur dossier fournisseur, pas comme engagements. Aucune marque hôtelière tierce. Le cas HOS-018 est présenté comme référence d’espaces uniquement.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可具名引用；按实际国家（坦桑尼亚）呈现，不改写为法国/摩洛哥交付"
+    }
+  },
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "publishedAt": null,
+  "updatedAt": null,
+  "reviewedAt": "2026-10-19",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/mobilier-chambre-hotel-niveau-gamme/",
+    "en": "https://hymobilier.com/en/resources/hotel-room-furniture-tier/"
+  },
+  "sources": [
+    {
+      "url": "https://hymobilier.com/projets/hos-018/",
+      "facts": "Dossier de projet documenté, utilisé comme référence d'espaces (chambre, lobby, restaurant, piscine) avec images. Aucune allégation de livraison en France ou au Maroc."
+    },
+    {
+      "url": "https://hymobilier.com/professionnels/hotels/",
+      "facts": "Cadrage existant du site sur la sélection de mobilier hôtelier par espace ; cible de lien interne."
+    }
+  ],
+  "routeMapping": {
+    "ressources/mobilier-chambre-hotel-niveau-gamme": "resources/hotel-room-furniture-tier"
+  },
+  "cta": {
+    "fr": "/contact/",
+    "en": "/en/contact/"
+  },
+  "fr": {
+    "slug": "ressources/mobilier-chambre-hotel-niveau-gamme",
+    "title": "Mobilier de chambre d’hôtel : ce qui change selon le niveau de gamme",
+    "short": "Niveau de gamme en chambre",
+    "description": "Caisson, chants, coulisses, tissus, mousse, lit, quincaillerie : comment lire le niveau de gamme d’une chambre d’hôtel et l’écrire en paramètres vérifiables.",
+    "image": "/images/case-library/hos-018-guestroom.webp",
+    "imageAlt": "Chambre d’hôtel avec lit, tête de lit, bureau et rangement — projet TOA Hotel & Spa Zanzibar, Tanzanie",
+    "imageCaption": "Image du dossier du projet TOA Hotel & Spa Zanzibar (Tanzanie). Référence d’espaces, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Trois étoiles, quatre étoiles, boutique ou cinq étoiles : l’écart ne se joue pas d’abord sur le style, mais sur ce qui tient dans le temps. Deux meubles d’apparence proche peuvent recevoir un chant de 0,4 mm ou de 2 mm, un tiroir sur galets ou sur coulisses à sortie totale. Les repères ci-dessous décrivent des ordres de grandeur observés en hôtellerie, à confirmer sur dossier fournisseur. Voici les points qui changent réellement, et comment les traduire en paramètres vérifiables avant de comparer des propositions. Ces repères servent à poser les bonnes questions, pas à classer un fournisseur.",
+    "sections": [
+      [
+        "Le niveau se lit d’abord dans le caisson",
+        "Un meuble d’entrée de gamme assemble souvent un panneau de particules de 16 mm avec un chant appliqué de 0,4 à 0,8 mm. Un meuble de gamme supérieure passe à 18 ou 19 mm, avec un chant ABS de 1,5 à 2 mm, posé à plat ou affleuré. L’épaisseur du chant compte autant que la colle : un chant mince se décolle au premier choc de valise, et la reprise est visible. Derrière la façade, la coulisse décide de la sensation : galets, billes, puis sortie totale avec frein. Demandez la charge déclarée par paire, la course et le nombre de cycles testés. Le fond, souvent un panneau mince agrafé, mérite la même attention que la façade, surtout s’il porte des tiroirs. La visserie compte aussi : vis à bois dans un panneau tendre, excentriques ou inserts dans un panneau dense."
+      ],
+      [
+        "Tissus, mousse et démontabilité",
+        "La résistance à l’abrasion se lit en frottements Martindale. Une chambre peu sollicitée tient souvent entre 20 000 et 25 000 frottements ; une chambre d’hôtel standard se situe plutôt entre 30 000 et 40 000 ; les assises très exposées montent au-delà de 50 000. Ces valeurs se vérifient sur le rapport du fournisseur, pas sur l’étiquette. Le traitement ignifuge et son classement se confirment selon la réglementation du pays de destination. La housse démontable change la maintenance et la mise en œuvre : type de fermeture, sens du tissu, tenue au lavage, stabilité dimensionnelle. Pour la mousse, une masse volumique de 30 à 40 kg/m³ convient à un dossier ; une assise demande une densité plus ferme et une épaisseur travaillée. Une housse de rechange par type de chambre évite d’immobiliser la chambre pour une tache. Le sens du velours et la teinte se contrôlent sur une housse montée, pas sur un échantillon posé à plat."
+      ],
+      [
+        "Le lit : cadre, tête de lit et support",
+        "Le lit concentre les écarts les plus coûteux à corriger. Un cadre basique aboutit des panneaux ; un cadre de gamme supérieure utilise un piètement en bois massif ou en contreplaqué, des équerres, une traverse centrale et des pieds réglables. Les lattes, en hêtre ou en bouleau, reposent sur des supports qui limitent le grincement : leur nombre et leur section comptent plus que leur finition. La tête de lit se fixe de trois façons — rail mural, intégration au cadre, suspension — et le rail mural, qui limite les vibrations, dépend de la nature du mur. Le support de matelas, lattes, sommier ou plateau, doit être décrit : il conditionne le confort et la reprise en cas de remplacement. La hauteur de la tête de lit se règle sur l’assise du matelas, pas sur le seul dessin d’ambiance. Un sommier à lattes serrées et un sommier à ressorts ne se remplacent pas de la même façon en cours d’exploitation."
+      ],
+      [
+        "Quincaillerie, éclairage et points électriques",
+        "La quincaillerie décide de la sensation d’usage. Une charnière à fermeture amortie et réglable sur trois axes se reprend après tassement ; une charnière simple se contente d’ouvrir. Les poignées tiennent par vissage traversant ou par inserts : un collage seul cède à l’usage. Le miroir s’intègre avec un éclairage latéral ou périphérique dont la température de couleur et l’indice de rendu se précisent, et l’indice de protection compte dans la salle d’eau. Côté électrique, la chambre demande des prises près du chevet, des ports USB-A et USB-C, et un point libre pour le chargeur. Ces détails pèsent peu à la conception et beaucoup à ajouter après coup, une fois les murs fermés. Un passe-câbles prévu dès l’usinage évite les percements sur site et les reprises de finition. Les butées de porte et les patins de tiroir limitent le bruit, un critère utile en couloir."
+      ],
+      [
+        "Rangement, maintenance et cahier des charges",
+        "Le rangement se dessine à l’usage : hauteur de tringle, nombre d’étagères réglables, tiroirs internes, éclairage du placard, place pour la valise et pour le coffre. Un porte-valise se choisit pour sa hauteur et sa charge, pas pour son style. Le minibar demande une niche ventilée et une prise dédiée. La maintenance se prépare dès la commande : façades démontables, panneaux remplaçables, housses de tête de lit interchangeables, pièces de rechange identifiées. La tenue sur cinq ans se juge sur ces possibilités, pas sur une promesse. Enfin, le cahier des charges traduit le niveau en paramètres : épaisseur de panneau et de chant, charge et course des coulisses, frottements, densité de mousse, mode de fixation. Ce sont ces valeurs qui se réceptionnent. Le dossier de rechange, avec références et quantités, se transmet à la réception. Les cotes de la niche du coffre et la profondeur utile du placard se relèvent sur place, pas sur le plan d’architecte."
+      ]
+    ],
+    "caseNote": "À titre de référence d’espaces, le projet TOA Hotel & Spa Zanzibar (Tanzanie) documente une chambre, un lobby, un restaurant et une piscine. Ces images servent à discuter des compositions, des proportions et des fixations, et non à illustrer un niveau de gamme précis ; elles n’annoncent pas une livraison en France ou au Maroc. Le niveau de finition visible sur une photo ne renseigne ni sur le caisson ni sur les ferrures.",
+    "checklist": [
+      "Épaisseur de panneau et de chant",
+      "Charge et course des coulisses",
+      "Frottements Martindale et traitement ignifuge",
+      "Densité de mousse et démontabilité des housses",
+      "Mode de fixation des têtes de lit",
+      "Placard, coffre, minibar et points électriques"
+    ],
+    "products": [
+      "ensemble-chambre-hotel",
+      "buffet-rangement",
+      "table-restaurant"
+    ],
+    "links": [
+      "professionnels/hotels",
+      "ressources/liste-mobilier-hotel",
+      "services/echantillons",
+      "references/chambre-hotel"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "mobilier-chambre-niveau-gamme.csv",
+    "faqs": [
+      {
+        "q": "Comment reconnaître le niveau de gamme d’un meuble de chambre d’hôtel ?",
+        "a": "Le niveau se lit sur le caisson : épaisseur du panneau, du chant et type de coulisse. Un panneau de 18 ou 19 mm avec chant ABS de 1,5 à 2 mm et coulisses à sortie totale se distingue d’une construction de 16 mm."
+      },
+      {
+        "q": "Comment décrire le niveau de gamme dans un cahier des charges ?",
+        "a": "Traduisez chaque exigence en valeur contrôlable : épaisseur de panneau et de chant, charge et course des coulisses, frottements Martindale, densité de mousse, mode de fixation des têtes de lit. Ces paramètres se réceptionnent, contrairement à une appellation commerciale."
+      },
+      {
+        "q": "Quelles parties du mobilier de chambre s’usent en premier ?",
+        "a": "Les chants de façade et le bord des tiroirs, les coulisses, les poignées et les charnières, puis les housses d’assise aux points de contact. Le cadre de lit et les lattes suivent, surtout si le piètement manque de réglage."
+      },
+      {
+        "q": "Peut-on améliorer un mobilier d’entrée de gamme après l’ouverture ?",
+        "a": "Certains éléments se remplacent — housses, coussins, coulisses, poignées — mais le caisson, l’épaisseur du panneau et le chant ne se reprennent pas sans refaire le meuble. Mieux vaut cadrer ces trois points dès la commande."
+      },
+      {
+        "q": "Que faut-il fournir pour demander une proposition de mobilier de chambre d’hôtel ?",
+        "a": "Envoyez les plans cotés des chambres, l’usage prévu par catégorie, les paramètres du cahier des charges, les finitions et tissus envisagés, ainsi que les contraintes de fixation et de passage de câbles. Des photos de l’existant aident à vérifier les cotes."
+      }
+    ]
+  },
+  "en": {
+    "slug": "resources/hotel-room-furniture-tier",
+    "title": "Hotel guestroom furniture: what actually changes across service tiers",
+    "short": "Guestroom furniture tiers",
+    "description": "Carcass, edge banding, runners, fabrics, foam, beds and hardware: how to read a hotel guestroom's tier and write it into measurable specifications.",
+    "image": "/images/case-library/hos-018-guestroom.webp",
+    "imageAlt": "Hotel guestroom with bed, headboard, desk and storage — TOA Hotel & Spa Zanzibar project, Tanzania",
+    "imageCaption": "Image from the TOA Hotel & Spa Zanzibar (Tanzania) project file. A space reference for composition and fixing details, not an announcement of a delivery in France or Morocco.",
+    "intro": "Three-star, four-star, boutique or five-star: the gap is not mainly a matter of style, but of what survives use. Two units that look alike may carry 0.4 mm or 2 mm edging, a roller runner or a full-extension runner with soft close. The markers below describe ranges seen in hotel work and are to be confirmed against supplier documentation. Here are the points that genuinely change, and how to turn them into parameters you can inspect before comparing proposals. These markers are there to frame the right questions, not to rank a supplier.",
+    "sections": [
+      [
+        "Tier shows first in the carcass",
+        "An entry-level unit often uses 16 mm particleboard with 0.4 to 0.8 mm applied edging. A higher tier moves to 18 or 19 mm board with 1.5 to 2 mm ABS edging, laid flat or flush. Band thickness matters as much as the adhesive: thin edging lifts at the first suitcase knock, and the repair shows. Behind the front, the runner decides the feel — roller, ball-bearing, then full extension with soft close. Ask for the rated load per pair, the travel and the cycle count tested. The back panel, often a thin stapled sheet, deserves the same scrutiny as the face, particularly when it carries drawers. Adjustable shelves on pins, rather than fixed battens, let a cabinet be reconfigured without tools, and that flexibility belongs in the brief. Fixings count too: wood screws in a soft board, cam fittings or inserts in a dense one. Specifying by brand name alone leaves the tier open to interpretation, so describe the assembly instead."
+      ],
+      [
+        "Fabrics, foam and removability",
+        "Abrasion resistance is read in Martindale rubs. A lightly used guestroom often holds between 20,000 and 25,000 rubs; a standard hotel room sits nearer 30,000 to 40,000; heavily used seating goes beyond 50,000. These figures are checked on the supplier's report, not on the label. Fire treatment and its classification are confirmed against the regulations of the destination country. A removable cover changes maintenance: closure type, fabric direction, washing behaviour and dimensional stability. For foam, 30 to 40 kg/m³ suits a back panel; a seat calls for a firmer density and a worked thickness, and the two should be specified separately. One spare cover per room type avoids taking a room out of service for a single stain, so state the washing regime you expect. Pile direction and shade are checked on a fitted cover, not on a sample lying flat. State whether covers are washed in-house or contracted out, because that changes the closure and the seam allowance."
+      ],
+      [
+        "The bed: frame, headboard and support",
+        "The bed concentrates the most expensive things to correct. A basic frame butts panels together; a higher tier uses solid wood or plywood legs, corner brackets, a central rail and adjustable feet. Beech or birch slats sit in holders that limit squeaking: their number and section matter more than their finish. Headboards fix in three ways — wall rail, integrated into the frame, or suspended — and a wall rail, which limits vibration, depends on the wall build-up. The mattress support, whether slats, a base or a platform, has to be described: it drives comfort and the replacement route later on. Headboard height follows the mattress top rather than the mood board: give it as a dimension from finished floor and check it against the bedside table. A close-slatted base and a sprung base are replaced differently once the floor is trading. Ask how the headboard is accessed for reupholstery without removing the bed."
+      ],
+      [
+        "Hardware, lighting and power points",
+        "Hardware decides how the room feels in use. A damped hinge with three-axis adjustment can be reset after settlement; a plain hinge only opens. Handles hold through bolted fixings or inserts: adhesive alone gives way. Mirrors integrate side or perimeter lighting, with colour temperature and colour rendering stated, and the ingress protection rating matters in the bathroom. On the electrical side, a guestroom needs sockets at the bedside, USB-A and USB-C ports, and a free point for a charger. These details weigh little at design stage and a great deal to add later, once the walls are closed. A cable route cut at machining stage avoids drilling on site and the making good that follows, so show it on the furniture drawing. Door buffers and drawer bumpers cut noise, which matters along a corridor at night. Bedside controls should be reachable from the pillow without stretching."
+      ],
+      [
+        "Storage, maintenance and the specification",
+        "Storage is drawn from use: rail height, number of adjustable shelves, internal drawers, wardrobe lighting, space for a suitcase and for a safe. A luggage rack is chosen for its height and load, not its look. A minibar needs a ventilated niche and a dedicated socket. Maintenance is prepared at order stage: removable fronts, replaceable panels, interchangeable headboard covers, identified spare parts. Five-year serviceability is judged on those possibilities, not on a promise. Finally, the specification translates tier into parameters: board and edging thickness, runner load and travel, rub count, foam density, fixing method. Those are the values that get inspected on delivery. A spares schedule with references and quantities is handed over with the room file, and that document is what keeps a floor running in year four. Safe niche dimensions and usable wardrobe depth are measured on site, not taken from the architect’s plan. Photograph the inside of a finished wardrobe; it is the part guests judge daily."
+      ]
+    ],
+    "caseNote": "As a space reference, the TOA Hotel & Spa Zanzibar (Tanzania) project documents a guestroom, lobby, restaurant and pool. These images support a discussion of composition, proportion and fixing details rather than illustrating a particular tier; they do not announce a delivery in France or Morocco. The finish visible in a photograph says nothing about the carcass or the hardware.",
+    "checklist": [
+      "Board and edging thickness in millimetres",
+      "Runner load rating, travel and cycle count",
+      "Martindale rub count and fire treatment class",
+      "Foam density and removable cover specification",
+      "Headboard fixing method and wall build-up",
+      "Wardrobe, safe, minibar and power point positions"
+    ],
+    "links": [
+      "professionals/hotels",
+      "resources/hotel-furniture-schedule",
+      "services/samples",
+      "references/hotel-room"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "hotel-room-furniture-tier.csv",
+    "products": [
+      "ensemble-chambre-hotel",
+      "buffet-rangement",
+      "table-restaurant"
+    ],
+    "faqs": [
+      {
+        "q": "How do you tell which tier a hotel guestroom furniture piece belongs to?",
+        "a": "Look at the carcass before the finish: board thickness, edge band thickness and bond, runner type. An 18 or 19 mm board with 1.5 to 2 mm ABS edging and full-extension runners sits above a 16 mm construction with thin tape."
+      },
+      {
+        "q": "How should the furniture tier be written into a specification?",
+        "a": "Turn each requirement into a value that can be inspected: board and edging thickness, runner load and travel, Martindale rub count, foam density, headboard fixing. Those figures can be checked at delivery, whereas a trade label cannot."
+      },
+      {
+        "q": "Which parts of guestroom furniture wear out first?",
+        "a": "Drawer fronts and their edges, runners, handles and hinges go first, followed by seat covers at contact points. Bed frames and slats come next, particularly where adjustable feet were left out."
+      },
+      {
+        "q": "Can entry-level guestroom furniture be upgraded to a higher tier later?",
+        "a": "Some parts can be renewed, such as covers, cushions, runners and handles, but the carcass, board thickness and edging cannot be upgraded without rebuilding the unit. Settle those three points at order stage."
+      },
+      {
+        "q": "What should you send when requesting a hotel guestroom furniture proposal?",
+        "a": "Send dimensioned room plans, the intended use of each room type, your specification parameters, proposed finishes and fabrics, plus fixing and cable-route constraints. Photographs of the existing room help confirm dimensions before anything is drawn."
+      }
+    ]
+  }
+}
