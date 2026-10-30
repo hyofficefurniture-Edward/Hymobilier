@@ -416,35 +416,43 @@
     {
       "id": "collections/table-reunion",
       "source": "https://hymobilier.com/collections/table-reunion/",
-      "title": "Table de conférence pour dix personnes",
-      "summary": "Table de conférence pour dix personnes : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Table de réunion WISDOM",
+      "summary": "WISDOM : comparer implantation, sièges, interfaces techniques et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Table de conférence pour dix personnes fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Implanter une composition WISDOM",
+          "Le fabricant identifie WISDOM sous YZ-C0142 et présente une configuration à dix places. Reportez la table et les chaises sur votre plan coté pour vérifier recul, accès aux extrémités et ouverture des portes. La capacité finale dépend de la configuration retenue."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Définir les raccordements au centre",
+          "La zone centrale du plateau aide à poser le besoin de raccordement. Listez appareils, passages de câbles et accès de maintenance, puis faites confirmer modules et alimentation sur le dessin de la commande."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Combien de places retenir ?",
+          "a": "Le nombre dépend des chaises, des appuis et du dégagement disponible. Validez une implantation avec vos plans avant de confirmer les sièges."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-05",
-      "originalSource": "https://www.hyofficefurniture.com/wisdom-conference-table.html"
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-conference-table.html",
+      "manufacturerModel": "WISDOM",
+      "manufacturerCodes": "YZ-C0142",
+      "sourceEvidence": "https://www.hyofficefurniture.com/wisdom-conference-table.html"
     },
     {
       "id": "collections/banque-accueil",
@@ -2361,101 +2369,125 @@
     {
       "id": "collections/office-ca-06",
       "source": "https://hymobilier.com/collections/office-ca-06/",
-      "title": "Table de réunion pour douze personnes",
-      "summary": "Table de réunion pour douze personnes : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Table de réunion MUSTER",
+      "summary": "MUSTER : comparer implantation, sièges, interfaces techniques et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Table de réunion pour douze personnes fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Vérifier les places autour des appuis",
+          "Le catalogue identifie MUSTER sous MT-C0148 dans une présentation à douze places. Superposez les chaises et les appuis sur le plan de la salle : les positions en bout de table et le recul des sièges doivent être validés ensemble."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Coordonner la base et les interfaces",
+          "La base et le panneau sous plateau orientent la revue du passage des jambes et des câbles. Précisez le cheminement et les raccords au sol ; ne déduisez pas une dimension de dégagement ou une résistance à la charge de la seule image."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Combien de places retenir ?",
+          "a": "Le nombre dépend des chaises, des appuis et du dégagement disponible. Validez une implantation avec vos plans avant de confirmer les sièges."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-06",
-      "originalSource": "https://www.hyofficefurniture.com/muster-conference-table.html"
+      "originalSource": "https://www.hyofficefurniture.com/muster-conference-table.html",
+      "manufacturerModel": "MUSTER",
+      "manufacturerCodes": "MT-C0148",
+      "sourceEvidence": "https://www.hyofficefurniture.com/muster-conference-table.html"
     },
     {
       "id": "collections/office-ca-07",
       "source": "https://hymobilier.com/collections/office-ca-07/",
-      "title": "Table de réunion série JUEDU BUGATTI",
-      "summary": "Table de réunion série JUEDU BUGATTI : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Table de réunion BUGATTI",
+      "summary": "BUGATTI : comparer implantation, sièges, interfaces techniques et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Table de réunion série JUEDU BUGATTI fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Choisir une longueur dans la famille BUGATTI",
+          "La source regroupe BD-C0142 et BD-C0136 avec deux références : 4200 × 1600 × 750 mm et 3600 × 1600 × 750 mm. Ce sont des options de la même famille, pas deux nouveaux produits. Associez le code choisi au dessin confirmé."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Placer les sièges autour du piétement",
+          "Les appuis géométriques doivent être confrontés aux positions de siège et aux passages. Vérifiez jambes, câblage et manutention avec la configuration sélectionnée ; la longueur seule ne détermine pas la capacité de réunion."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Combien de places retenir ?",
+          "a": "Le nombre dépend des chaises, des appuis et du dégagement disponible. Validez une implantation avec vos plans avant de confirmer les sièges."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-07",
-      "originalSource": "https://www.hyofficefurniture.com/JUEDU-BUGATTI-Series-Meeting-Table-W4200-D1600-H750-mm-W3600-D1600-H750-mm-pd46938461.html"
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-BUGATTI-Series-Meeting-Table-W4200-D1600-H750-mm-W3600-D1600-H750-mm-pd46938461.html",
+      "manufacturerModel": "BUGATTI",
+      "manufacturerCodes": "BD-C0142 / BD-C0136",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JUEDU-BUGATTI-Series-Meeting-Table-W4200-D1600-H750-mm-W3600-D1600-H750-mm-pd46938461.html"
     },
     {
       "id": "collections/office-ca-08",
       "source": "https://hymobilier.com/collections/office-ca-08/",
-      "title": "Table de conférence série JUEDU CONFERENCE",
-      "summary": "Table de conférence série JUEDU CONFERENCE : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Table de réunion CONFERENCE",
+      "summary": "CONFERENCE : comparer implantation, sièges, interfaces techniques et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Table de conférence série JUEDU CONFERENCE fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Vérifier le format de la série CONFERENCE",
+          "Le fabricant identifie TM-C0738 et publie 3800 × 1400 × 760 mm. Tracez ce format sur le plan coté, puis ajoutez sièges en usage, circulation et mobilier voisin. Confirmez les dimensions finales dans la proposition."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Séparer la table et les équipements",
+          "Précisez appareils, passages de câbles, sièges et meubles annexes demandés. Une composition de salle ne constitue pas une liste de fourniture : chaque accessoire et chaque raccordement doivent être confirmés."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Combien de places retenir ?",
+          "a": "Le nombre dépend des chaises, des appuis et du dégagement disponible. Validez une implantation avec vos plans avant de confirmer les sièges."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-08",
-      "originalSource": "https://www.hyofficefurniture.com/JUEDU-CONFERENCE-Series-Conference-Tables-W3800-D1400-H760-mm-s-pd42828461.html"
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-CONFERENCE-Series-Conference-Tables-W3800-D1400-H760-mm-s-pd42828461.html",
+      "manufacturerModel": "CONFERENCE",
+      "manufacturerCodes": "TM-C0738",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JUEDU-CONFERENCE-Series-Conference-Tables-W3800-D1400-H760-mm-s-pd42828461.html"
     },
     {
       "id": "collections/office-ca-10",
