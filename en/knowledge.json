@@ -251,21 +251,48 @@
     {
       "id": "collections/hotel-guestroom-set",
       "source": "https://hymobilier.com/en/collections/hotel-guestroom-set/",
-      "title": "Hotel guestroom furniture set",
-      "summary": "Coordinate beds, headboards, desks and storage with the room type.",
-      "sections": [],
+      "title": "Hotel guestroom furniture composition",
+      "summary": "Hotel guestroom composition: define room-type schedules, technical interfaces and samples to confirm before ordering.",
+      "sections": [
+        [
+          "Build a schedule for each room type",
+          "The source presents a bedroom composition with a bed, headboard and companion furniture. Create a room-type matrix, then separate fixed pieces, movable furniture and accessories. A complete room view does not mean every visible element is included in the quotation."
+        ],
+        [
+          "Resolve interfaces before drawing approval",
+          "Mark doors, sockets, lighting and technical access points on measured plans. Review the headboard, bedside units, desk and circulation around the bed. Hidden dimensions and connections cannot be established from the visual."
+        ],
+        [
+          "Define samples for the room mock-up",
+          "Link each sample to an item, drawing and revision. Confirm surfaces, edges, textiles and accessories for the selected composition. General lifetime or resistance claims do not replace evidence for the chosen product."
+        ],
+        [
+          "Organise the supply by zone",
+          "Provide room counts and item quantities, keeping furniture separate from equipment and building finishes. Agree packing, room identification and assembly responsibilities for your own order."
+        ]
+      ],
       "checklist": [],
       "questions": [
-        "Room count and set composition",
-        "Bed, desk and storage dimensions",
-        "Finishes and equipment interfaces"
+        {
+          "q": "Is every visible room element included?",
+          "a": "No. Identify furniture, accessories and equipment separately in the quotation."
+        },
+        {
+          "q": "Can the photograph alone define fabrication?",
+          "a": "No. The order needs measured plans, quantities, materials and approved drawings for the selected pieces."
+        }
       ],
       "scope": "hotel",
       "brand": "Hongye Furniture Group",
       "productReference": "hotel-ca-03",
       "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "updated": "2026-11-01",
+      "visibility": "public",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/en/projets/hos-003/"
     },
     {
       "id": "collections/buffet-storage",
@@ -1798,101 +1825,131 @@
     {
       "id": "collections/hotel-ca-01",
       "source": "https://hymobilier.com/en/collections/hotel-ca-01/",
-      "title": "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels",
-      "summary": "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Outdoor dining set: hospitality selection",
+      "summary": "Hotel outdoor dining: review layout, exposure, components and care requirements for your terrace selection.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Selection connected with your space",
-          "6-8 Seater Round Teak Outdoor Dining Set for Luxury Hotels is part of the group selection for hotels and hospitality, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Start with the terrace plan",
+          "The group source presents outdoor dining sets in several compositions. Draw the table, chairs in use and service routes on your plan. Seating capacity depends on the selected furniture and clearances, not on counting places in a presentation image."
         ],
         [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Describe exposure conditions",
+          "State whether the terrace is sheltered, when it is used and the expected rain, sunlight and storage conditions. Request evidence for the selected finish and components; this visual reference does not establish weather or salt-air resistance."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Confirm materials and care against samples",
+          "Specify the top, base, seating and cushions separately. Confirm selected materials and care instructions; the page’s commercial name does not replace an item-specific order specification."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare delivery and storage",
+          "List quantities by zone, included accessories and storage needs. Confirm packaging, receiving access and assembly responsibilities in the new quotation."
         ]
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "How many seats can be specified?",
+          "a": "Approve the table, chairs and pull-back space on the plan. An illustrated composition does not guarantee a seat count for every project."
+        },
+        {
+          "q": "Does the visual prove suitability for a coastal location?",
+          "a": "No. Request evidence and care instructions for the selected components and actual site conditions."
+        }
       ],
       "productReference": "hotel-ca-01",
-      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/"
+      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/en/projets/hos-018/"
     },
     {
       "id": "collections/hotel-ca-02",
       "source": "https://hymobilier.com/en/collections/hotel-ca-02/",
-      "title": "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom",
-      "summary": "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Chairs for hotel banquet rooms",
+      "summary": "Banquet chairs: prepare room layouts, storage, component selection and item-specific evidence for the venue.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Selection connected with your space",
-          "Banquet Chairs Stackable Commercial Hotel Seating for Wedding & Ballroom is part of the group selection for hotels and hospitality, offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Separate the room layouts",
+          "The catalogue presentation shows chairs in rows and around tables. Prepare a plan for each banquet use, including seats in use and staff access. Validate circulation and venue requirements; the image does not establish the room’s permitted occupancy."
         ],
         [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Plan storage and handling",
+          "If stacking is required, request the selected chair reference, instructions and applicable limit. Define storage space and required trolleys without inferring a stack quantity from a photograph."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve the chair components",
+          "Compare upholstery, frame, glides and finish against an approved sample. Request documents for the venue requirements and selected chair rather than treating a general certification claim as evidence for the entire range."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Separate seating from room equipment",
+          "List chairs, tables, trolleys and accessories separately. State room-change frequency, delivery access and storage space to prepare a comparable proposal."
         ]
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "What stacking height is guaranteed?",
+          "a": "The visual establishes no stacking height. Confirm the limit and method for the selected chair."
+        },
+        {
+          "q": "Is a general fire-compliance statement enough?",
+          "a": "Request documents matching the upholstery, selected construction and venue requirements."
+        }
       ],
       "productReference": "hotel-ca-02",
-      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/"
+      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/en/projets/hos-007/"
     },
     {
       "id": "collections/hotel-ca-04",
       "source": "https://hymobilier.com/en/collections/hotel-ca-04/",
-      "title": "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel",
-      "summary": "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "High tables for hospitality spaces",
+      "summary": "Hospitality high tables: confirm heights, seating, layout, components and the project’s supply scope.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Selection connected with your space",
-          "Commercial Bar Height Tables Wood & Metal High-Top Tables for Hotel is part of the group selection for hotels and hospitality, offices and workplaces, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Pair the table with the selected seating",
+          "This reference shows high-table and seating compositions for hospitality spaces. Confirm tabletop and seat heights and usable legroom. Room perspective cannot establish these dimensions."
         ],
         [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Test the arrangement in the venue",
+          "Draw tables, seating and service routes on the bar or dining-area plan. Review supports and floor conditions for the selected pieces. A catalogue setting does not prove stability or a load rating."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Confirm components and cleaning",
+          "Specify the top, base and finishes, then request a sample and care instructions. Catalogue words such as wood or metal do not by themselves define the ordered components or their performance."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Clarify accessories and installation",
+          "Separate tables, seating, lighting and bar equipment. State access conditions, handling constraints and assembly responsibilities. Confirm these points for the new project."
         ]
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "Does the photograph establish an exact height?",
+          "a": "No. Confirm table height, seat height and clearance for the selected configuration."
+        },
+        {
+          "q": "Is seating automatically included?",
+          "a": "Only when the supply schedule explicitly lists the seats, quantities and configuration."
+        }
       ],
       "productReference": "hotel-ca-04",
-      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/en/projets/hos-003/"
     },
     {
       "id": "collections/hotel-ca-05",

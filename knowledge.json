@@ -251,35 +251,45 @@
     {
       "id": "collections/ensemble-chambre-hotel",
       "source": "https://hymobilier.com/collections/ensemble-chambre-hotel/",
-      "title": "Mobilier de chambre d’hôtel",
-      "summary": "Mobilier de chambre d’hôtel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Composition de chambre d’hôtel sur projet",
+      "summary": "Composition de chambre d’hôtel : établir la liste par type de chambre, les interfaces techniques et les échantillons à confirmer.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Mobilier de chambre d’hôtel fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Construire une liste par type de chambre",
+          "La source présente une composition de chambre avec lit, tête de lit et mobilier d’accompagnement. Établissez une matrice par type de chambre, puis séparez les pièces fixes, les meubles mobiles et les accessoires. Une vue complète ne signifie pas que chaque élément entre dans la proposition."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Résoudre les interfaces avant les dessins",
+          "Positionnez portes, prises, éclairage et points d’accès technique sur un relevé coté. Vérifiez tête de lit, tables de chevet, bureau et circulation autour du lit. Les dimensions cachées et les raccordements ne se déduisent pas du visuel."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Définir les échantillons de la chambre témoin",
+          "Reliez chaque échantillon à une pièce, un dessin et une révision. Confirmez surfaces, chants, textiles et accessoires pour la composition retenue. Les affirmations générales de durée de vie ou de résistance ne remplacent pas les documents du produit sélectionné."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Organiser la fourniture par zone",
+          "Indiquez nombres de chambres et quantités de pièces, en distinguant le mobilier des équipements et finitions du bâtiment. Convenez de l’emballage, du repérage par chambre et des responsabilités de montage pour votre commande."
         ]
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Tous les éléments de la chambre sont-ils inclus ?",
+          "a": "Non. Faites identifier meubles, accessoires et équipements séparément dans la proposition."
+        },
+        {
+          "q": "Peut-on fabriquer à partir de la photo seule ?",
+          "a": "Non. Une commande demande plans cotés, quantités, matériaux et dessins approuvés pour les pièces retenues."
+        }
       ],
       "productReference": "hotel-ca-03",
-      "originalSource": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/"
+      "originalSource": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/bespoke-hotel-furniture-luxury-bedroom-furniture/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/projets/hos-003/"
     },
     {
       "id": "collections/buffet-rangement",
@@ -1297,101 +1307,131 @@
     {
       "id": "collections/hotel-ca-01",
       "source": "https://hymobilier.com/collections/hotel-ca-01/",
-      "title": "Ensemble de repas extérieur pour hôtel",
-      "summary": "Ensemble de repas extérieur pour hôtel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Ensemble de repas extérieur : sélection hôtelière",
+      "summary": "Repas extérieur hôtelier : comparer implantation, exposition, composants et entretien pour la sélection de votre terrasse.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Ensemble de repas extérieur pour hôtel fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Partir du plan de la terrasse",
+          "La source du groupe présente des ensembles de repas extérieurs dans plusieurs compositions. Reportez table, chaises en usage et parcours du service sur votre plan. Le nombre de places dépend du mobilier sélectionné et des dégagements, pas d’un comptage dans une image d’ambiance."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Décrire les conditions d’exposition",
+          "Indiquez si la terrasse est couverte, ses périodes d’utilisation et les conditions prévues de pluie, soleil et stockage. Demandez les justificatifs de la finition et des composants retenus ; cette référence visuelle ne démontre pas une résistance aux intempéries ou à l’air salin."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Confirmer matière et entretien sur échantillon",
+          "Précisez plateau, piétement, assise et coussins séparément. Faites confirmer la matière et les consignes d’entretien de la sélection ; le nom commercial de la page ne remplace pas une fiche produit applicable à la commande."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la livraison et le rangement",
+          "Listez quantités par zone, accessoires compris et volumes de stockage. Confirmez emballage, accès de réception et responsabilité de montage dans la nouvelle proposition."
         ]
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Combien de places peut-on retenir ?",
+          "a": "Validez la table, les chaises et leur recul sur le plan. Une composition illustrée ne garantit pas un nombre de places pour tous les projets."
+        },
+        {
+          "q": "Le visuel prouve-t-il une tenue en bord de mer ?",
+          "a": "Non. Demandez les documents et consignes adaptés aux composants choisis et aux conditions réelles du site."
+        }
       ],
       "productReference": "hotel-ca-01",
-      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/"
+      "originalSource": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/6-8-seater-round-teak-outdoor-dining-set-for-luxury-hotels/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/projets/hos-018/"
     },
     {
       "id": "collections/hotel-ca-02",
       "source": "https://hymobilier.com/collections/hotel-ca-02/",
-      "title": "Chaises de banquet empilables",
-      "summary": "Chaises de banquet empilables : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Chaises pour salles de banquet",
+      "summary": "Chaises de banquet : préparer les implantations, le stockage, les composants et les documents propres à la sélection.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Chaises de banquet empilables fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Distinguer les implantations de salle",
+          "La présentation de catalogue montre des chaises en rangées et autour de tables. Préparez un plan pour chaque usage du banquet, avec sièges en mouvement et accès du personnel. Faites valider les circulations et les exigences du lieu ; l’image ne définit pas la capacité autorisée de la salle."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Préparer stockage et manutention",
+          "Si l’empilage fait partie du besoin, demandez la référence de chaise, les instructions et la limite applicables à cette sélection. Définissez le local de stockage et les chariots nécessaires sans déduire une quantité empilable d’une photographie."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les composants de la chaise",
+          "Comparez revêtement, structure, patins et finition sur un échantillon approuvé. Demandez les documents applicables aux exigences du lieu et à la chaise retenue, sans reprendre une certification générale comme preuve de toute la collection."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Séparer sièges et équipements de salle",
+          "Distinguez chaises, tables, chariots et accessoires dans la liste de fourniture. Indiquez fréquence des changements de salle, accès de livraison et espace de stockage pour préparer une proposition comparable."
         ]
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Quelle hauteur d’empilage est garantie ?",
+          "a": "Aucune hauteur n’est établie par ce visuel. Faites confirmer la limite et la méthode pour la chaise sélectionnée."
+        },
+        {
+          "q": "Une conformité feu générale suffit-elle ?",
+          "a": "Demandez les documents correspondant au revêtement, à la composition retenue et aux exigences du lieu."
+        }
       ],
       "productReference": "hotel-ca-02",
-      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/"
+      "originalSource": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/banquet-chairs-stackable-commercial-hotel-seating-for-wedding-ballroom/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/projets/hos-007/"
     },
     {
       "id": "collections/hotel-ca-04",
       "source": "https://hymobilier.com/collections/hotel-ca-04/",
-      "title": "Tables hautes pour bar hôtelier",
-      "summary": "Tables hautes pour bar hôtelier : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Tables hautes pour espaces hôteliers",
+      "summary": "Tables hautes hôtelières : confirmer hauteur, sièges, implantation, composants et périmètre de fourniture du projet.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Tables hautes pour bar hôtelier fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Associer la table au siège retenu",
+          "Cette référence montre des compositions de tables hautes et de sièges pour espaces hôteliers. Faites confirmer les hauteurs du plateau et de l’assise ainsi que le dégagement des jambes. La perspective d’une salle ne permet pas de calculer ces dimensions."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Tester l’implantation dans le lieu",
+          "Placez tables, sièges et parcours du service sur le plan du bar ou de l’espace de restauration. Vérifiez les appuis et les conditions du sol avec les pièces sélectionnées. Une ambiance de catalogue ne prouve ni stabilité ni charge admissible."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Confirmer les composants et le nettoyage",
+          "Précisez plateau, base et finitions dans la sélection, puis demandez un échantillon et les consignes d’entretien. Les termes bois ou métal d’un catalogue ne définissent pas à eux seuls les composants ni les performances de la commande."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Clarifier accessoires et installation",
+          "Séparez tables, sièges, éclairage et équipements du bar. Indiquez les accès, les contraintes de manutention et les responsabilités d’assemblage. Ces points sont à confirmer pour le nouveau projet."
         ]
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "La hauteur exacte est-elle établie par la photo ?",
+          "a": "Non. Confirmez hauteur de table, hauteur d’assise et dégagement avec la configuration sélectionnée."
+        },
+        {
+          "q": "Les sièges sont-ils automatiquement compris ?",
+          "a": "Ils ne sont compris que si la liste de fourniture les mentionne avec leur quantité et leur configuration."
+        }
       ],
       "productReference": "hotel-ca-04",
-      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/",
+      "manufacturerModel": null,
+      "manufacturerCodes": null,
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-bar-height-tables-wood-metal-high-top-tables-for-hotel/",
+      "referenceType": "project-selection-catalogue-visual",
+      "relatedCase": "https://hymobilier.com/projets/hos-003/"
     },
     {
       "id": "collections/hotel-ca-05",
