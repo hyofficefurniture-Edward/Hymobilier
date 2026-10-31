@@ -383,35 +383,43 @@
     {
       "id": "collections/poste-travail",
       "source": "https://hymobilier.com/collections/poste-travail/",
-      "title": "Postes de travail série JIANGNAN Bambo",
-      "summary": "Postes de travail série JIANGNAN Bambo : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Postes de travail JIANGNAN BAMBO",
+      "summary": "Famille JIANGNAN BAMBO : comparer les deux formats documentés, les zones de travail, le rangement et les interfaces techniques.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Postes de travail série JIANGNAN Bambo fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Comparer les formats de la famille BAMBO",
+          "Le fabricant regroupe ZH-D0828 et ZH-D0824 dans la famille JIANGNAN Bambo et publie 2800 × 2400 × 1050 mm et 2400 × 2400 × 1050 mm. Ce sont des options de composition, pas deux nouveaux produits. Associez le format choisi au dessin confirmé."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Préparer chaque position de travail",
+          "Tracez les sièges en usage, les zones de passage et les rangements sous bureau. Listez écrans, supports et alimentation demandés ; la cloison visible ne prouve ni isolation acoustique ni équipement électrique inclus."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez surfaces, corps du meuble et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Les deux formats constituent-ils deux nouveaux produits ?",
+          "a": "Non. Il s’agit d’options de la même famille ; le code et le dessin retenus doivent préciser la commande."
+        },
+        {
+          "q": "Les écrans et prises sont-ils fournis ?",
+          "a": "Ne les considérez comme inclus que si la liste de pièces et les raccordements convenus les mentionnent."
+        }
       ],
       "productReference": "office-ca-11",
-      "originalSource": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html"
+      "originalSource": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html",
+      "manufacturerModel": "Bambo",
+      "manufacturerCodes": "ZH-D0828 / ZH-D0824",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html"
     },
     {
       "id": "collections/table-reunion",
@@ -457,35 +465,44 @@
     {
       "id": "collections/banque-accueil",
       "source": "https://hymobilier.com/collections/banque-accueil/",
-      "title": "Comptoir d’accueil pour hall de bureau",
-      "summary": "Comptoir d’accueil pour hall de bureau : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Comptoir d’accueil : sélection pour hall",
+      "summary": "Comptoirs d’accueil pour halls de bureaux : définir postes, niveaux, circulation et périmètre de fourniture à partir du plan.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Comptoir d’accueil pour hall de bureau fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Définir le comptoir à partir du hall",
+          "Cette référence de catalogue présente des comptoirs pour hall de bureaux, sans identifier un modèle unique pour toutes les compositions. Précisez le nombre de postes, les accès du personnel et les parcours des visiteurs sur votre plan ; une ambiance illustrée ne vaut pas liste de fourniture."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Distinguer accueil et poste de travail",
+          "Indiquez où le visiteur dépose ses documents et où le personnel utilise écran, téléphone et rangement. Faites confirmer les hauteurs, les dégagements et les exigences d’accessibilité applicables au projet plutôt que de mesurer une photographie."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez surfaces, corps du meuble et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "La référence impose-t-elle une hauteur unique ?",
+          "a": "Non. Faites confirmer les niveaux d’accueil et de travail ainsi que les exigences d’accessibilité du projet sur le dessin de commande."
+        },
+        {
+          "q": "Le décor du hall est-il compris ?",
+          "a": "Seuls les éléments mentionnés dans la liste de fourniture sont compris. Distinguez comptoir, sièges, luminaires et finitions du bâtiment."
+        }
       ],
       "productReference": "office-ca-09",
-      "originalSource": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html"
+      "originalSource": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html",
+      "manufacturerModel": null,
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html",
+      "referenceType": "generic-reception-catalogue-selection"
     },
     {
       "id": "collections/salon-residentiel",
@@ -2524,68 +2541,84 @@
     {
       "id": "collections/office-ca-10",
       "source": "https://hymobilier.com/collections/office-ca-10/",
-      "title": "Bureau de réception professionnel",
-      "summary": "Bureau de réception professionnel : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Comptoir de réception JIANGNAN",
+      "summary": "Comptoir JIANGNAN QT-03C24 : confirmer dimensions personnalisées, niveaux de travail, rangement et accès avant la commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bureau de réception professionnel fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Identifier la configuration JIANGNAN",
+          "La page fabricant identifie le code QT-03C24 dans la série JIANGNAN et indique des dimensions à personnaliser. Utilisez ce code pour demander le dessin correspondant ; ne transposez pas les dimensions d’un autre comptoir montré dans la famille."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Préciser les niveaux et le rangement",
+          "La vue principale montre une façade et un niveau supérieur distinct. Définissez surface de travail, échange de documents et ouverture des rangements sur le dessin retenu. Les équipements, le nombre de postes et les passages de câbles doivent être listés séparément."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez surfaces, corps du meuble et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Quel code utiliser dans la demande ?",
+          "a": "La source identifie QT-03C24. Ajoutez le plan, le côté d’accès et les dimensions souhaitées pour faire confirmer la configuration."
+        },
+        {
+          "q": "Peut-on reprendre les dimensions d’un autre visuel ?",
+          "a": "Non. Le fabricant indique une taille à personnaliser ; confirmez les dimensions de la composition retenue dans la proposition."
+        }
       ],
       "productReference": "office-ca-10",
-      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html",
+      "manufacturerModel": "JIANGNAN",
+      "manufacturerCodes": "QT-03C24",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
     },
     {
       "id": "collections/office-ca-12",
       "source": "https://hymobilier.com/collections/office-ca-12/",
-      "title": "Bibliothèque et rangement série JUEDU MAGELL",
-      "summary": "Bibliothèque et rangement série JUEDU MAGELL : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Rangement JUEDU MAGELL",
+      "summary": "Rangement MAGELL MG-S0412 : format documenté de 1200 × 400 × 1200 mm ; confirmer contenu, charge des étagères et fixation.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bibliothèque et rangement série JUEDU MAGELL fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Vérifier le format MAGELL sélectionné",
+          "La source fabricant identifie MG-S0412 dans la série JUEDU MAGELL et publie 1200 × 400 × 1200 mm. Reportez ce format sur le plan et confirmez les dimensions de la variante commandée. Les autres compositions de famille ne doivent pas être confondues avec ce modèle."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Définir le contenu avant les étagères",
+          "Précisez classeurs, objets à exposer et zones fermées souhaitées. Confirmez les dimensions utiles, la charge admissible des étagères et les fixations nécessaires par des documents propres à la sélection ; ces performances ne se déduisent pas de la photo."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez surfaces, corps du meuble et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Quelle dimension la source publie-t-elle ?",
+          "a": "Pour MG-S0412, la source indique 1200 × 400 × 1200 mm. La variante commandée reste à confirmer sur le dessin."
+        },
+        {
+          "q": "La photo suffit-elle à établir la charge des étagères ?",
+          "a": "Non. Demandez la capacité et les instructions de fixation applicables au meuble sélectionné."
+        }
       ],
       "productReference": "office-ca-12",
-      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html",
+      "manufacturerModel": "MAGELL",
+      "manufacturerCodes": "MG-S0412",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
     },
     {
       "id": "collections/edu-ca-01",

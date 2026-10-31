@@ -327,21 +327,46 @@
     {
       "id": "collections/workstation",
       "source": "https://hymobilier.com/en/collections/workstation/",
-      "title": "Workstation and modular layout",
-      "summary": "Review workstations against your workplace layout.",
-      "sections": [],
+      "title": "JIANGNAN BAMBO workstations",
+      "summary": "JIANGNAN BAMBO family: compare two documented formats, working positions, storage and technical interfaces.",
+      "sections": [
+        [
+          "Compare BAMBO family formats",
+          "The manufacturer groups ZH-D0828 and ZH-D0824 within JIANGNAN Bambo and publishes 2800 × 2400 × 1050 mm and 2400 × 2400 × 1050 mm. These are composition options, not two new products. Match the chosen footprint to the confirmed drawing."
+        ],
+        [
+          "Prepare each working position",
+          "Draw chairs in use, circulation and under-desk storage zones. List required monitors, mounts and power connections; the visible divider does not establish acoustic isolation or included electrical equipment."
+        ],
+        [
+          "Approve samples and the item schedule",
+          "Compare surfaces, furniture body and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
+        ],
+        [
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
+        ]
+      ],
       "checklist": [],
       "questions": [
-        "Workstation count and dimensions",
-        "Cable routes and separation",
-        "Storage and future configuration"
+        {
+          "q": "Are the two formats two new products?",
+          "a": "No. They are options within one family; the selected code and drawing must define the order."
+        },
+        {
+          "q": "Are monitors and power outlets included?",
+          "a": "Treat them as included only if the agreed item schedule and connection scope explicitly list them."
+        }
       ],
       "scope": "office",
       "brand": "Hongye Furniture Group",
       "productReference": "office-ca-11",
       "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "updated": "2026-11-01",
+      "visibility": "public",
+      "manufacturerModel": "Bambo",
+      "manufacturerCodes": "ZH-D0828 / ZH-D0824",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JIANGNAN-Bambo-Series-Four-bits-W2800-D2400-H1050-mm-W2400-D2400-H1050-mm-pd43246951.html"
     },
     {
       "id": "collections/meeting-table",
@@ -390,21 +415,47 @@
     {
       "id": "collections/reception-desk",
       "source": "https://hymobilier.com/en/collections/reception-desk/",
-      "title": "Reception desk",
-      "summary": "Review reception furniture around staff tasks and visitor movement.",
-      "sections": [],
+      "title": "Reception counter selection for office lobbies",
+      "summary": "Office-lobby reception counters: define staff positions, counter levels, circulation and supplied items from the project plan.",
+      "sections": [
+        [
+          "Define the counter from the lobby plan",
+          "This catalogue reference presents office-lobby counters without establishing one model for every composition. Mark staff positions, staff access and visitor circulation on the plan; an illustrated setting is not a supply schedule."
+        ],
+        [
+          "Separate visitor reception from the working position",
+          "Identify where visitors exchange documents and where staff use a monitor, phone and storage. Confirm heights, clearances and applicable accessibility requirements for the project rather than measuring a photograph."
+        ],
+        [
+          "Approve samples and the item schedule",
+          "Compare surfaces, furniture body and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
+        ],
+        [
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
+        ]
+      ],
       "checklist": [],
       "questions": [
-        "Staff zone and equipment",
-        "Dimensions and layout",
-        "Access and project accessibility requirements"
+        {
+          "q": "Does the reference establish one counter height?",
+          "a": "No. Confirm visitor and working levels and the project’s accessibility requirements on the order drawing."
+        },
+        {
+          "q": "Is the lobby decoration included?",
+          "a": "Only items named in the supply schedule are included. Separate the counter, seating, lighting and building finishes."
+        }
       ],
       "scope": "office",
       "brand": "Hongye Furniture Group",
       "productReference": "office-ca-09",
       "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "updated": "2026-11-01",
+      "visibility": "public",
+      "manufacturerModel": null,
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/office-reception-desk-counter-for-corporate-lobby-areas.html",
+      "referenceType": "generic-reception-catalogue-selection"
     },
     {
       "id": "collections/living-room-furniture",
@@ -2991,68 +3042,84 @@
     {
       "id": "collections/office-ca-10",
       "source": "https://hymobilier.com/en/collections/office-ca-10/",
-      "title": "Luxury Office Furniture Front Desk Reception Desk for Business",
-      "summary": "Luxury Office Furniture Front Desk Reception Desk for Business: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "JIANGNAN reception desk",
+      "summary": "JIANGNAN QT-03C24 reception desk: confirm custom dimensions, working levels, storage and staff access before ordering.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Selection connected with your space",
-          "Luxury Office Furniture Front Desk Reception Desk for Business is part of the group selection for hotels and hospitality, offices and workplaces, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Identify the JIANGNAN configuration",
+          "The manufacturer identifies QT-03C24 in the JIANGNAN series and lists the size as customisable. Use that code to request the corresponding drawing; do not transfer dimensions from another counter shown within the family."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Specify working levels and storage",
+          "The main view shows a front panel and a separate raised level. Define the working surface, document exchange and storage opening zones on the selected drawing. List equipment, staff positions and cable routes separately."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare surfaces, furniture body and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "Which code should the enquiry use?",
+          "a": "The source identifies QT-03C24. Add the plan, access side and requested dimensions to confirm the configuration."
+        },
+        {
+          "q": "Can dimensions be taken from another family image?",
+          "a": "No. The manufacturer lists the size as customisable; confirm the selected composition in the quotation."
+        }
       ],
       "productReference": "office-ca-10",
-      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html",
+      "manufacturerModel": "JIANGNAN",
+      "manufacturerCodes": "QT-03C24",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Luxury-Office-Furniture-Front-Desk-Reception-Desk-for-Business-pd45506392.html"
     },
     {
       "id": "collections/office-ca-12",
       "source": "https://hymobilier.com/en/collections/office-ca-12/",
-      "title": "JUEDU MAGELL Filing Cabinet Bookshelf",
-      "summary": "JUEDU MAGELL Filing Cabinet Bookshelf: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "JUEDU MAGELL storage cabinet",
+      "summary": "MAGELL MG-S0412 storage: documented 1200 × 400 × 1200 mm format; confirm contents, shelf load capacity and fixing requirements.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-01",
       "sections": [
         [
-          "Selection connected with your space",
-          "JUEDU MAGELL Filing Cabinet Bookshelf is part of the group selection for hotels and hospitality, offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Check the selected MAGELL format",
+          "The manufacturer identifies MG-S0412 in JUEDU MAGELL and publishes 1200 × 400 × 1200 mm. Position that format on the plan and confirm the ordered variant’s dimensions. Do not treat other family compositions as this particular model."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Define the contents before the shelves",
+          "Identify files, display objects and required closed-storage areas. Confirm usable dimensions, shelf load ratings and necessary fixings with documents for the selection; these properties cannot be inferred from the photograph."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare surfaces, furniture body and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "What dimensions does the source publish?",
+          "a": "For MG-S0412, it lists 1200 × 400 × 1200 mm. Confirm the ordered variant on its drawing."
+        },
+        {
+          "q": "Does the photograph establish shelf load capacity?",
+          "a": "No. Request load capacity and fixing instructions applicable to the selected cabinet."
+        }
       ],
       "productReference": "office-ca-12",
-      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
+      "originalSource": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html",
+      "manufacturerModel": "MAGELL",
+      "manufacturerCodes": "MG-S0412",
+      "sourceEvidence": "https://www.hyofficefurniture.com/JUEDU-MAGELL-Filing-Cabinet-Bookshelf-pd40670592.html"
     },
     {
       "id": "collections/edu-ca-01",
