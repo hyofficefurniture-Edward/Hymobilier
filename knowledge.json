@@ -2237,134 +2237,166 @@
     {
       "id": "collections/office-ca-01",
       "source": "https://hymobilier.com/collections/office-ca-01/",
-      "title": "Bureau de direction en L",
-      "summary": "Bureau de direction en L : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Bureau de direction MOSCA",
+      "summary": "MOSCA : comparer implantation, retour, rangement et interfaces et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bureau de direction en L fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Comparer les deux formats MOSCA",
+          "Le fabricant présente la famille MOSCA avec MK-D0326 et MK-D0424 et des formats de référence de 2600 × 2000 × 760 mm et 2400 × 2000 × 760 mm. Ce sont des options de famille : associez le code retenu au dessin confirmé avant commande."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Orienter le retour dans la pièce",
+          "Dessinez le bureau et son retour avec les portes, les rangements et le siège en usage. Confirmez le côté du retour et le passage vers le poste de travail ; une image ne suffit pas à valider le dégagement."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Comment confirmer le retour du bureau ?",
+          "a": "Validez le côté du retour, le siège en usage et les ouvertures de rangement sur un plan coté, puis faites confirmer le dessin de la configuration commandée."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-01",
-      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html",
+      "manufacturerModel": "MOSCA",
+      "manufacturerCodes": "MK-D0326 / MK-D0424",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
     },
     {
       "id": "collections/office-ca-02",
       "source": "https://hymobilier.com/collections/office-ca-02/",
-      "title": "Bureau de direction avec rangement",
-      "summary": "Bureau de direction avec rangement : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Bureau de direction WISDOM",
+      "summary": "WISDOM : comparer implantation, retour, rangement et interfaces et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bureau de direction avec rangement fait partie de la sélection du groupe pour bureaux et espaces de travail, écoles, universités et bibliothèques, établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Définir une composition WISDOM",
+          "La page fabricant présente WISDOM comme une famille de bureaux avec rangement. Choisissez la configuration et faites confirmer son code et ses dimensions sur la proposition ; la composition illustrée ne constitue pas une liste complète des pièces fournies."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Vérifier les accès au rangement",
+          "Reportez le bureau, le siège et les ouvertures des rangements sur le plan. Précisez les documents, appareils et raccordements prévus, puis demandez un dessin correspondant au retour et aux éléments réellement sélectionnés."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Comment confirmer le retour du bureau ?",
+          "a": "Validez le côté du retour, le siège en usage et les ouvertures de rangement sur un plan coté, puis faites confirmer le dessin de la configuration commandée."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-02",
-      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html",
+      "manufacturerModel": "WISDOM",
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
     },
     {
       "id": "collections/office-ca-03",
       "source": "https://hymobilier.com/collections/office-ca-03/",
-      "title": "Bureau de direction avec surface gainée",
-      "summary": "Bureau de direction avec surface gainée : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Bureau de direction PAGANI",
+      "summary": "PAGANI : comparer implantation, retour, rangement et interfaces et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bureau de direction avec surface gainée fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Identifier PAGANI avant les finitions",
+          "Le fabricant identifie PAGANI sous PN-D0125. Utilisez ce code pour demander le dessin et la configuration proposés. Les vues de la famille peuvent montrer des orientations différentes : confirmez le côté du retour et le rangement dans votre dossier."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Définir la surface de travail",
+          "Indiquez les zones prévues pour écran, écriture et accueil. Faites confirmer le revêtement, les échantillons et les raccords retenus ; ne déduisez ni matière définitive ni performance de la seule apparence du plateau."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Comment confirmer le retour du bureau ?",
+          "a": "Validez le côté du retour, le siège en usage et les ouvertures de rangement sur un plan coté, puis faites confirmer le dessin de la configuration commandée."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-03",
-      "originalSource": "https://www.hyofficefurniture.com/pagani.html"
+      "originalSource": "https://www.hyofficefurniture.com/pagani.html",
+      "manufacturerModel": "PAGANI",
+      "manufacturerCodes": "PN-D0125",
+      "sourceEvidence": "https://www.hyofficefurniture.com/pagani.html"
     },
     {
       "id": "collections/office-ca-04",
       "source": "https://hymobilier.com/collections/office-ca-04/",
-      "title": "Bureau de direction avec insert de surface",
-      "summary": "Bureau de direction avec insert de surface : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Bureau de direction BUGATTI",
+      "summary": "BUGATTI : comparer implantation, retour, rangement et interfaces et échantillons avant de confirmer votre commande.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Bureau de direction avec insert de surface fait partie de la sélection du groupe pour bureaux et espaces de travail, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Choisir une configuration BUGATTI",
+          "La source fabricant présente BUGATTI comme une famille de bureaux de direction. Faites confirmer le code applicable à la composition retenue ainsi que les dimensions sur le dessin ; les visuels de famille ne suffisent pas à identifier chaque variante."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Effectif, implantation et configuration. Rangement et interfaces de câblage. Dimensions, finitions et accès de maintenance. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Séparer le bureau de son environnement",
+          "Le retour, les rangements et le siège doivent être identifiés dans la liste de pièces. Vérifiez les ouvertures, le passage des jambes et les interfaces de câblage sans attribuer une capacité, une matière ou une résistance à partir de la photographie."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Valider les échantillons et la liste de pièces",
+          "Comparez finition du plateau, base et raccords sur échantillons et dessins approuvés. Listez séparément chaises, modules et meubles annexes dans la proposition."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Préparer la réception",
+          "Indiquez destination, accès, passages et étage de réception. Confirmez emballage, manutention et responsabilités de montage pour la commande."
         ]
       ],
       "questions": [
-        "Effectif, implantation et configuration",
-        "Rangement et interfaces de câblage",
-        "Dimensions, finitions et accès de maintenance"
+        {
+          "q": "Comment confirmer le retour du bureau ?",
+          "a": "Validez le côté du retour, le siège en usage et les ouvertures de rangement sur un plan coté, puis faites confirmer le dessin de la configuration commandée."
+        },
+        {
+          "q": "Les sièges et équipements sont-ils inclus ?",
+          "a": "Uniquement si la liste de fourniture les mentionne. Identifiez séparément sièges, accessoires, modules et services."
+        }
       ],
       "productReference": "office-ca-04",
-      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
+      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html",
+      "manufacturerModel": "BUGATTI",
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
     },
     {
       "id": "collections/office-ca-06",

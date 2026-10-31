@@ -2704,134 +2704,166 @@
     {
       "id": "collections/office-ca-01",
       "source": "https://hymobilier.com/en/collections/office-ca-01/",
-      "title": "Luxury Modern Office L Shape Executive Desk",
-      "summary": "Luxury Modern Office L Shape Executive Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Executive desk MOSCA",
+      "summary": "MOSCA: review room layout, return, storage and interfaces and samples before confirming the furniture order.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Selection connected with your space",
-          "Luxury Modern Office L Shape Executive Desk is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Compare the two MOSCA formats",
+          "The manufacturer presents the MOSCA family with MK-D0326 and MK-D0424 and reference formats of 2600 × 2000 × 760 mm and 2400 × 2000 × 760 mm. These are family options: match the selected code to an approved drawing before ordering."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Orient the return within the room",
+          "Draw the desk and return alongside doors, storage and the chair in use. Confirm the return side and access to the working position; an image alone does not establish usable clearance."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare tabletop finish, base and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "How should the desk return be confirmed?",
+          "a": "Approve the return side, chair in use and storage opening zones on a measured plan, then confirm the drawing for the ordered configuration."
+        },
+        {
+          "q": "Are chairs and equipment included?",
+          "a": "Only if they are listed in the agreed supply schedule. Identify chairs, accessories, modules and services separately."
+        }
       ],
       "productReference": "office-ca-01",
-      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
+      "originalSource": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html",
+      "manufacturerModel": "MOSCA",
+      "manufacturerCodes": "MK-D0326 / MK-D0424",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Luxury-Modern-Office-L-Shape-Executive-Desk-pd45582281.html"
     },
     {
       "id": "collections/office-ca-02",
       "source": "https://hymobilier.com/en/collections/office-ca-02/",
-      "title": "Luxury Modern Wooden Office Executive Desk with Storage",
-      "summary": "Luxury Modern Wooden Office Executive Desk with Storage: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Executive desk WISDOM",
+      "summary": "WISDOM: review room layout, return, storage and interfaces and samples before confirming the furniture order.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Selection connected with your space",
-          "Luxury Modern Wooden Office Executive Desk with Storage is part of the group selection for offices and workplaces, schools, universities and libraries, healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Define a WISDOM composition",
+          "The manufacturer presents WISDOM as an executive-desk family with storage. Select the configuration and confirm its code and dimensions in the quotation; the illustrated composition is not a complete supply schedule."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Check access to the storage",
+          "Place the desk, chair and storage opening zones on the plan. Identify documents, devices and required connections, then request a drawing matching the selected return and companion elements."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare tabletop finish, base and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "How should the desk return be confirmed?",
+          "a": "Approve the return side, chair in use and storage opening zones on a measured plan, then confirm the drawing for the ordered configuration."
+        },
+        {
+          "q": "Are chairs and equipment included?",
+          "a": "Only if they are listed in the agreed supply schedule. Identify chairs, accessories, modules and services separately."
+        }
       ],
       "productReference": "office-ca-02",
-      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
+      "originalSource": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html",
+      "manufacturerModel": "WISDOM",
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/wisdom-series-executive-desk.html"
     },
     {
       "id": "collections/office-ca-03",
       "source": "https://hymobilier.com/en/collections/office-ca-03/",
-      "title": "Luxury Modern Leather Top Executive Office Desk",
-      "summary": "Luxury Modern Leather Top Executive Office Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Executive desk PAGANI",
+      "summary": "PAGANI: review room layout, return, storage and interfaces and samples before confirming the furniture order.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Selection connected with your space",
-          "Luxury Modern Leather Top Executive Office Desk is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Identify PAGANI before selecting finishes",
+          "The manufacturer identifies PAGANI as PN-D0125. Use the code to request the proposed drawing and configuration. Family views may show different orientations: confirm the return side and storage in the order documents."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Define the working surface",
+          "Mark areas for the monitor, writing and visitors. Confirm the selected covering, samples and junctions; appearance alone does not establish the final material or its performance."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare tabletop finish, base and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "How should the desk return be confirmed?",
+          "a": "Approve the return side, chair in use and storage opening zones on a measured plan, then confirm the drawing for the ordered configuration."
+        },
+        {
+          "q": "Are chairs and equipment included?",
+          "a": "Only if they are listed in the agreed supply schedule. Identify chairs, accessories, modules and services separately."
+        }
       ],
       "productReference": "office-ca-03",
-      "originalSource": "https://www.hyofficefurniture.com/pagani.html"
+      "originalSource": "https://www.hyofficefurniture.com/pagani.html",
+      "manufacturerModel": "PAGANI",
+      "manufacturerCodes": "PN-D0125",
+      "sourceEvidence": "https://www.hyofficefurniture.com/pagani.html"
     },
     {
       "id": "collections/office-ca-04",
       "source": "https://hymobilier.com/en/collections/office-ca-04/",
-      "title": "Executive Desk with Leather Inlay",
-      "summary": "Executive Desk with Leather Inlay: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Executive desk BUGATTI",
+      "summary": "BUGATTI: review room layout, return, storage and interfaces and samples before confirming the furniture order.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-10-31",
       "sections": [
         [
-          "Selection connected with your space",
-          "Executive Desk with Leather Inlay is part of the group selection for offices and workplaces, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Select a BUGATTI configuration",
+          "The manufacturer presents BUGATTI as an executive-desk family. Confirm the code applicable to the selected composition and the dimensions on the drawing; family visuals do not uniquely identify every variant."
         ],
         [
-          "Review points for this reference",
-          "Headcount, layout and configuration. Storage and cable interfaces. Sizes, finishes and maintenance access. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Separate the desk from its setting",
+          "Identify the return, storage and chair in the item schedule. Check openings, legroom and cable interfaces without inferring a capacity, material or load rating from the photograph."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve samples and the item schedule",
+          "Compare tabletop finish, base and junctions against approved samples and drawings. List chairs, modules and companion furniture separately in the quotation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Prepare receiving",
+          "Share destination, access routes, opening dimensions and receiving floor. Agree packing, handling and assembly responsibility for the order."
         ]
       ],
       "questions": [
-        "Headcount, layout and configuration",
-        "Storage and cable interfaces",
-        "Sizes, finishes and maintenance access"
+        {
+          "q": "How should the desk return be confirmed?",
+          "a": "Approve the return side, chair in use and storage opening zones on a measured plan, then confirm the drawing for the ordered configuration."
+        },
+        {
+          "q": "Are chairs and equipment included?",
+          "a": "Only if they are listed in the agreed supply schedule. Identify chairs, accessories, modules and services separately."
+        }
       ],
       "productReference": "office-ca-04",
-      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
+      "originalSource": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html",
+      "manufacturerModel": "BUGATTI",
+      "manufacturerCodes": "",
+      "sourceEvidence": "https://www.hyofficefurniture.com/Executive-Desk-with-Leather-Inlay-pd48975092.html"
     },
     {
       "id": "collections/office-ca-06",
