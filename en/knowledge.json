@@ -297,20 +297,42 @@
     {
       "id": "collections/buffet-storage",
       "source": "https://hymobilier.com/en/collections/buffet-storage/",
-      "title": "Buffet and storage furniture",
-      "summary": "A storage selection for dining and service areas.",
-      "sections": [],
+      "title": "Sideboards and consoles: organise service",
+      "summary": "Separate enclosed storage, service support and display surfaces in the brief. An illustrated cabinet does not confirm the equipment or service functions required.",
+      "sections": [
+        {
+          "heading": "Define the furniture role",
+          "text": "Separate enclosed storage, service support and display surfaces in the brief. An illustrated cabinet does not confirm the equipment or service functions required."
+        },
+        {
+          "heading": "Check access",
+          "text": "Measure staff passages, door opening and replenishment space. Compare alternative arrangements on the dining-room plan."
+        },
+        {
+          "heading": "Specify technical interfaces",
+          "text": "Provide a separate equipment sheet if heating, cooling or electrical appliances are planned. Have the responsible parties confirm ventilation, connections and surface protection."
+        },
+        {
+          "heading": "Approve the details",
+          "text": "Request selected dimensions, openings, samples and supply boundaries. Visible appliances and accessories are not included without written confirmation."
+        }
+      ],
       "checklist": [],
       "questions": [
-        "Useful storage capacity",
-        "Dimensions and associated equipment",
-        "Surface maintenance and access"
+        {
+          "q": "Does the sideboard include appliances?",
+          "a": "Not by default: identify each item in the quotation."
+        },
+        {
+          "q": "Does the visual confirm heat resistance?",
+          "a": "No. Verify the intended conditions of use for the selected item."
+        }
       ],
       "scope": "hotel",
       "brand": "Hongye Furniture Group",
       "productReference": "hotel-ca-09",
       "relatedSources": [],
-      "updated": "2026-10-09",
+      "updated": "2026-11-02",
       "visibility": "public"
     },
     {
@@ -2078,32 +2100,37 @@
     {
       "id": "collections/hotel-ca-10",
       "source": "https://hymobilier.com/en/collections/hotel-ca-10/",
-      "title": "Comprehensive FF&E Solutions",
-      "summary": "Comprehensive FF&E Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "FF&E selection: structure hospitality packages",
+      "summary": "Separate guestrooms, reception and shared spaces, then distinguish fixed furniture, loose furniture and equipment supplied by others. This reference describes a selection approach, not a standard set with one manufacturer SKU.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Comprehensive FF&E Solutions is part of the group selection for hotels and hospitality. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Classify spaces and responsibilities",
+          "text": "Separate guestrooms, reception and shared spaces, then distinguish fixed furniture, loose furniture and equipment supplied by others. This reference describes a selection approach, not a standard set with one manufacturer SKU."
+        },
+        {
+          "heading": "Build the item schedule",
+          "text": "Give each item a reference and connect it to a drawing, quantity and finish. The visuals are not a complete contractual inventory."
+        },
+        {
+          "heading": "Organise approvals",
+          "text": "Plan drawing, sample and, where needed, mock-up room approvals. Define the checks without assuming these services are already included."
+        },
+        {
+          "heading": "Prepare delivery stages",
+          "text": "Discuss packages, carton identification, access and installation responsibilities. Agree timing and conditions for each new order."
+        }
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "Is this one product with a manufacturer code?",
+          "a": "No. It is an FF&E selection and coordination reference."
+        },
+        {
+          "q": "Do the images prove a local completed project?",
+          "a": "No. They illustrate spaces and do not establish delivery in your country."
+        }
       ],
       "productReference": "hotel-ca-10",
       "originalSource": "https://hysdfurniture.com/product/comprehensive-ffe-solutions-hospitality-commercial-projects/"
@@ -3239,32 +3266,37 @@
     {
       "id": "collections/edu-ca-01",
       "source": "https://hymobilier.com/en/collections/edu-ca-01/",
-      "title": "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture",
-      "summary": "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Lecture-hall desks and seating: prepare the room plan",
+      "summary": "Start with room geometry, levels and sightlines. Identify desks, seats and aisles on dimensioned drawings before setting quantities.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Selection connected with your space",
-          "University Student Desks And Chairs Modern Wood-Finish Tiered Lecture Hall Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Layout and sightlines",
+          "text": "Start with room geometry, levels and sightlines. Identify desks, seats and aisles on dimensioned drawings before setting quantities."
+        },
+        {
+          "heading": "Building interfaces",
+          "text": "Confirm fixing substrates, slopes and clearances with the building designer. The visual does not establish room capacity or compliance of a layout."
+        },
+        {
+          "heading": "Power and equipment",
+          "text": "Specify any cable route, socket or equipment support separately and confirm it for the selected items. Electrical equipment is not included by inference from a photograph."
+        },
+        {
+          "heading": "Approval before manufacture",
+          "text": "Request an approved layout and a representative sample. Define finishes, any seat numbering and the delivery sequence by zone."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Is room capacity confirmed?",
+          "a": "No. Capacity depends on the drawings, access and the rules applicable to the project."
+        },
+        {
+          "q": "Are sockets and equipment included?",
+          "a": "Only when explicitly identified in a written proposal."
+        }
       ],
       "productReference": "edu-ca-01",
       "originalSource": "https://hyeducationfurniture.com/University-Student-Desks-And-Chairs-Modern-Wood-Finish-Tiered-Lecture-Hall-Furniture-pd121400338.html"
@@ -3338,32 +3370,37 @@
     {
       "id": "collections/edu-ca-04",
       "source": "https://hymobilier.com/en/collections/edu-ca-04/",
-      "title": "Bunk Bed Dormitory Educational School Furniture",
-      "summary": "Bunk Bed Dormitory Educational School Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Bunk-bed selection: define the residence brief",
+      "summary": "Record ceiling height, openings and access before positioning beds. Coordinate storage and desks without inferring occupancy from a room visual.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Bunk Bed Dormitory Educational School Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Survey the room",
+          "text": "Record ceiling height, openings and access before positioning beds. Coordinate storage and desks without inferring occupancy from a room visual."
+        },
+        {
+          "heading": "Document safety requirements",
+          "text": "Confirm guardrails, access to the sleeping platform, compatible mattress and usage limits for the selected model. This page verifies no test or load rating."
+        },
+        {
+          "heading": "Separate the supply packages",
+          "text": "State whether mattresses, storage, desks and installation belong in the quotation. An illustrated composition does not prove that these items are supplied together."
+        },
+        {
+          "heading": "Delivery and assembly",
+          "text": "Describe access, floors, temporary storage and assembly responsibilities. Request instructions and receiving checks for the ordered configuration."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Is a maximum load verified?",
+          "a": "No. Require documentation specific to the selected model."
+        },
+        {
+          "q": "Is a mattress included?",
+          "a": "The item schedule and quotation must explicitly state this."
+        }
       ],
       "productReference": "edu-ca-04",
       "originalSource": "https://hyeducationfurniture.com/Bunk-Bed-Dormitory-Educational-School-Furniture-pd535326838.html"

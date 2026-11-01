@@ -294,32 +294,37 @@
     {
       "id": "collections/buffet-rangement",
       "source": "https://hymobilier.com/collections/buffet-rangement/",
-      "title": "Buffet et console de service",
-      "summary": "Buffet et console de service : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Buffet et console : organiser le service",
+      "summary": "Distinguez rangement fermé, desserte et surface de présentation dans votre programme. Le meuble illustré ne suffit pas à confirmer les équipements ou les fonctions de service nécessaires.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Buffet et console de service fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Définir le rôle du meuble",
+          "text": "Distinguez rangement fermé, desserte et surface de présentation dans votre programme. Le meuble illustré ne suffit pas à confirmer les équipements ou les fonctions de service nécessaires."
+        },
+        {
+          "heading": "Vérifier les accès",
+          "text": "Mesurez le passage du personnel, l’ouverture des portes et l’espace de réapprovisionnement. Comparez plusieurs implantations sur le plan de la salle."
+        },
+        {
+          "heading": "Préciser les interfaces techniques",
+          "text": "Si un équipement chaud, froid ou électrique est prévu, transmettez sa fiche séparément. Faites confirmer ventilation, raccordements et protection des surfaces par les intervenants concernés."
+        },
+        {
+          "heading": "Valider les détails",
+          "text": "Demandez les dimensions retenues, les ouvertures, les échantillons et les limites de fourniture. Les appareils et accessoires visibles ne sont pas inclus sans confirmation écrite."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Le buffet inclut-il des appareils ?",
+          "a": "Pas par défaut : faites identifier chaque équipement au devis."
+        },
+        {
+          "q": "Le visuel confirme-t-il une résistance à la chaleur ?",
+          "a": "Non. Les conditions d’usage doivent être vérifiées pour la pièce retenue."
+        }
       ],
       "productReference": "hotel-ca-09",
       "originalSource": "https://hysdfurniture.com/product/commercial-sideboards-display-tops-hotel-buffet-bar-console/"
@@ -1526,32 +1531,37 @@
     {
       "id": "collections/hotel-ca-10",
       "source": "https://hymobilier.com/collections/hotel-ca-10/",
-      "title": "Sélection FF&E pour espaces hôteliers",
-      "summary": "Sélection FF&E pour espaces hôteliers : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Sélection FF&E : structurer les lots hôteliers",
+      "summary": "Séparez chambres, accueil et espaces communs, puis distinguez mobilier fixe, mobilier mobile et équipements fournis par d’autres intervenants. Cette référence décrit une démarche de sélection, pas un ensemble standard avec un SKU unique.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Sélection FF&E pour espaces hôteliers fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Classer par espace et responsabilité",
+          "text": "Séparez chambres, accueil et espaces communs, puis distinguez mobilier fixe, mobilier mobile et équipements fournis par d’autres intervenants. Cette référence décrit une démarche de sélection, pas un ensemble standard avec un SKU unique."
+        },
+        {
+          "heading": "Construire la nomenclature",
+          "text": "Attribuez un repère aux pièces et liez chaque ligne à un plan, une quantité et une finition. Les visuels ne constituent pas un inventaire contractuel complet."
+        },
+        {
+          "heading": "Organiser les validations",
+          "text": "Prévoyez la validation des plans, des échantillons et, si nécessaire, d’une chambre témoin. Définissez les points à contrôler sans supposer que toutes ces prestations sont déjà incluses."
+        },
+        {
+          "heading": "Préparer les étapes de livraison",
+          "text": "Discutez les lots, le repérage des colis, les accès et les responsabilités d’installation. Le calendrier et les conditions de chaque nouvelle commande restent à convenir."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "S’agit-il d’un produit unique avec un code fabricant ?",
+          "a": "Non. Il s’agit d’une référence de sélection et de coordination FF&E."
+        },
+        {
+          "q": "Les images prouvent-elles un projet livré localement ?",
+          "a": "Non. Elles illustrent des espaces et ne démontrent pas une livraison dans votre pays."
+        }
       ],
       "productReference": "hotel-ca-10",
       "originalSource": "https://hysdfurniture.com/product/comprehensive-ffe-solutions-hospitality-commercial-projects/"
@@ -2687,32 +2697,37 @@
     {
       "id": "collections/edu-ca-01",
       "source": "https://hymobilier.com/collections/edu-ca-01/",
-      "title": "Tables et assises pour amphithéâtre",
-      "summary": "Tables et assises pour amphithéâtre : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Tables et sièges pour amphithéâtre : préparer le plan",
+      "summary": "Partez de la géométrie de la salle, des niveaux et des lignes de vue. Faites distinguer tables, sièges et passages sur un plan coté avant de fixer les quantités.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Tables et assises pour amphithéâtre fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Implantation et visibilité",
+          "text": "Partez de la géométrie de la salle, des niveaux et des lignes de vue. Faites distinguer tables, sièges et passages sur un plan coté avant de fixer les quantités."
+        },
+        {
+          "heading": "Interfaces avec le bâtiment",
+          "text": "Vérifiez les supports de fixation, les pentes et les dégagements avec le concepteur du bâtiment. Le visuel ne confirme ni capacité de salle ni conformité d’une implantation."
+        },
+        {
+          "heading": "Électricité et équipements",
+          "text": "Tout passage de câble, prise ou support d’équipement doit être décrit séparément et confirmé pour les pièces choisies. Aucun équipement électrique n’est inclus par déduction de la photographie."
+        },
+        {
+          "heading": "Validation avant fabrication",
+          "text": "Demandez un plan d’implantation validé et un échantillon représentatif. Précisez les finitions, la numérotation éventuelle et l’ordre de livraison par zone."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "La capacité de la salle est-elle confirmée ?",
+          "a": "Non. Elle dépend du plan, des accès et des règles applicables au projet."
+        },
+        {
+          "q": "Les prises et équipements sont-ils compris ?",
+          "a": "Uniquement si une proposition écrite les identifie explicitement."
+        }
       ],
       "productReference": "edu-ca-01",
       "originalSource": "https://hyeducationfurniture.com/University-Student-Desks-And-Chairs-Modern-Wood-Finish-Tiered-Lecture-Hall-Furniture-pd121400338.html"
@@ -2786,32 +2801,37 @@
     {
       "id": "collections/edu-ca-04",
       "source": "https://hymobilier.com/collections/edu-ca-04/",
-      "title": "Lit superposé pour résidence scolaire",
-      "summary": "Lit superposé pour résidence scolaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Lit superposé : définir le dossier de résidence",
+      "summary": "Relevez hauteur sous plafond, ouvertures et accès avant de positionner les lits. Coordonnez les espaces de rangement et les bureaux sans déduire un nombre d’occupants du visuel.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Lit superposé pour résidence scolaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Relever la chambre",
+          "text": "Relevez hauteur sous plafond, ouvertures et accès avant de positionner les lits. Coordonnez les espaces de rangement et les bureaux sans déduire un nombre d’occupants du visuel."
+        },
+        {
+          "heading": "Sécurité à documenter",
+          "text": "Faites confirmer garde-corps, accès au couchage, matelas compatible et limites d’utilisation pour le modèle retenu. Aucun essai ni charge admissible n’est confirmé par cette page."
+        },
+        {
+          "heading": "Séparer les lots",
+          "text": "Indiquez si matelas, rangement, bureau et installation font partie du devis. Une composition illustrée ne prouve pas que ces éléments sont vendus ensemble."
+        },
+        {
+          "heading": "Livraison et montage",
+          "text": "Décrivez les accès, les étages, le stockage provisoire et les responsabilités de montage. Demandez la notice et les contrôles de réception propres à la configuration commandée."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "Une charge maximale est-elle vérifiée ?",
+          "a": "Non. Exigez une documentation propre au modèle sélectionné."
+        },
+        {
+          "q": "Le matelas fait-il partie de la fourniture ?",
+          "a": "Cela doit être précisé dans la liste des articles et le devis."
+        }
       ],
       "productReference": "edu-ca-04",
       "originalSource": "https://hyeducationfurniture.com/Bunk-Bed-Dormitory-Educational-School-Furniture-pd535326838.html"
