@@ -327,68 +327,80 @@
     {
       "id": "collections/table-restaurant",
       "source": "https://hymobilier.com/collections/table-restaurant/",
-      "title": "Tables de restaurant",
-      "summary": "Tables de restaurant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Table de restaurant : forme et implantation",
+      "summary": "Comparez les formes de plateau sur votre plan, en tenant compte du piétement et de l’approche des sièges.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Tables de restaurant fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Table de restaurant : forme et implantation",
+          "text": "Comparez les formes de plateau sur votre plan, en tenant compte du piétement et de l’approche des sièges."
+        },
+        {
+          "heading": "Définir les pièces retenues",
+          "text": "La page publique présente une sélection de mobilier. Elle ne suffit pas à attribuer un code fabricant, une dimension ou une matière à chaque élément visible."
+        },
+        {
+          "heading": "Documenter les finitions et les essais",
+          "text": "Demandez un échantillon et une fiche propre à la pièce retenue. Toute exigence de résistance, de réaction au feu ou de maintenance doit être confirmée pour la configuration commandée."
+        },
+        {
+          "heading": "Organiser le devis et la réception",
+          "text": "Joignez le plan coté, les quantités et la destination. Faites préciser les limites de fourniture, le conditionnement, les accès de livraison et les responsabilités de montage."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Le visuel prouve-t-il une livraison dans mon pays ?",
+          "a": "Non. Il s’agit d’une référence de catalogue et non d’une preuve de livraison locale."
+        },
+        {
+          "q": "Les dimensions et les performances sont-elles déjà confirmées ?",
+          "a": "Non. Elles doivent être vérifiées sur la fiche et l’échantillon des pièces choisies."
+        }
       ],
       "productReference": "hotel-ca-08",
-      "originalSource": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/"
     },
     {
       "id": "collections/tabouret-bar",
       "source": "https://hymobilier.com/collections/tabouret-bar/",
-      "title": "Tabourets hauts pour lounge",
-      "summary": "Tabourets hauts pour lounge : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Tabouret haut : coordonner assise et comptoir",
+      "summary": "Faites confirmer la hauteur d’assise par rapport au comptoir choisi et l’espace nécessaire aux jambes.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Tabourets hauts pour lounge fait partie de la sélection du groupe pour hôtels et restauration, bureaux et espaces de travail, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Tabouret haut : coordonner assise et comptoir",
+          "text": "Faites confirmer la hauteur d’assise par rapport au comptoir choisi et l’espace nécessaire aux jambes."
+        },
+        {
+          "heading": "Définir les pièces retenues",
+          "text": "La page publique présente une sélection de mobilier. Elle ne suffit pas à attribuer un code fabricant, une dimension ou une matière à chaque élément visible."
+        },
+        {
+          "heading": "Documenter les finitions et les essais",
+          "text": "Demandez un échantillon et une fiche propre à la pièce retenue. Toute exigence de résistance, de réaction au feu ou de maintenance doit être confirmée pour la configuration commandée."
+        },
+        {
+          "heading": "Organiser le devis et la réception",
+          "text": "Joignez le plan coté, les quantités et la destination. Faites préciser les limites de fourniture, le conditionnement, les accès de livraison et les responsabilités de montage."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Le visuel prouve-t-il une livraison dans mon pays ?",
+          "a": "Non. Il s’agit d’une référence de catalogue et non d’une preuve de livraison locale."
+        },
+        {
+          "q": "Les dimensions et les performances sont-elles déjà confirmées ?",
+          "a": "Non. Elles doivent être vérifiées sur la fiche et l’échantillon des pièces choisies."
+        }
       ],
       "productReference": "hotel-ca-07",
-      "originalSource": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/"
     },
     {
       "id": "collections/poste-travail",
@@ -1436,68 +1448,80 @@
     {
       "id": "collections/hotel-ca-05",
       "source": "https://hymobilier.com/collections/hotel-ca-05/",
-      "title": "Banquette haute pour restaurant",
-      "summary": "Banquette haute pour restaurant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Banquette haute : implantation par travée",
+      "summary": "Relevez les retours de mur et la profondeur disponible avant de choisir la disposition.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Banquette haute pour restaurant fait partie de la sélection du groupe pour hôtels et restauration, villas et intérieurs privés. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Banquette haute : implantation par travée",
+          "text": "Relevez les retours de mur et la profondeur disponible avant de choisir la disposition."
+        },
+        {
+          "heading": "Définir les pièces retenues",
+          "text": "La page publique présente une sélection de mobilier. Elle ne suffit pas à attribuer un code fabricant, une dimension ou une matière à chaque élément visible."
+        },
+        {
+          "heading": "Documenter les finitions et les essais",
+          "text": "Demandez un échantillon et une fiche propre à la pièce retenue. Toute exigence de résistance, de réaction au feu ou de maintenance doit être confirmée pour la configuration commandée."
+        },
+        {
+          "heading": "Organiser le devis et la réception",
+          "text": "Joignez le plan coté, les quantités et la destination. Faites préciser les limites de fourniture, le conditionnement, les accès de livraison et les responsabilités de montage."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Le visuel prouve-t-il une livraison dans mon pays ?",
+          "a": "Non. Il s’agit d’une référence de catalogue et non d’une preuve de livraison locale."
+        },
+        {
+          "q": "Les dimensions et les performances sont-elles déjà confirmées ?",
+          "a": "Non. Elles doivent être vérifiées sur la fiche et l’échantillon des pièces choisies."
+        }
       ],
       "productReference": "hotel-ca-05",
-      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
     },
     {
       "id": "collections/hotel-ca-06",
       "source": "https://hymobilier.com/collections/hotel-ca-06/",
-      "title": "Banquette pour espace de restauration",
-      "summary": "Banquette pour espace de restauration : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Banquette de restauration : circulation et accès",
+      "summary": "Distinguez les passages de service de l’accès des clients et des besoins de nettoyage.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Banquette pour espace de restauration fait partie de la sélection du groupe pour hôtels et restauration. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Type de chambre ou zone publique. Circulation, dimensions et accès. Entretien, finitions et équipements. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Banquette de restauration : circulation et accès",
+          "text": "Distinguez les passages de service de l’accès des clients et des besoins de nettoyage."
+        },
+        {
+          "heading": "Définir les pièces retenues",
+          "text": "La page publique présente une sélection de mobilier. Elle ne suffit pas à attribuer un code fabricant, une dimension ou une matière à chaque élément visible."
+        },
+        {
+          "heading": "Documenter les finitions et les essais",
+          "text": "Demandez un échantillon et une fiche propre à la pièce retenue. Toute exigence de résistance, de réaction au feu ou de maintenance doit être confirmée pour la configuration commandée."
+        },
+        {
+          "heading": "Organiser le devis et la réception",
+          "text": "Joignez le plan coté, les quantités et la destination. Faites préciser les limites de fourniture, le conditionnement, les accès de livraison et les responsabilités de montage."
+        }
       ],
       "questions": [
-        "Type de chambre ou zone publique",
-        "Circulation, dimensions et accès",
-        "Entretien, finitions et équipements"
+        {
+          "q": "Le visuel prouve-t-il une livraison dans mon pays ?",
+          "a": "Non. Il s’agit d’une référence de catalogue et non d’une preuve de livraison locale."
+        },
+        {
+          "q": "Les dimensions et les performances sont-elles déjà confirmées ?",
+          "a": "Non. Elles doivent être vérifiées sur la fiche et l’échantillon des pièces choisies."
+        }
       ],
       "productReference": "hotel-ca-06",
-      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
     },
     {
       "id": "collections/hotel-ca-10",

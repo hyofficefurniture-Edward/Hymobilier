@@ -316,40 +316,86 @@
     {
       "id": "collections/restaurant-table",
       "source": "https://hymobilier.com/en/collections/restaurant-table/",
-      "title": "Restaurant and dining table",
-      "summary": "Select table formats in relation to capacity and circulation.",
-      "sections": [],
+      "title": "Restaurant table: shape and layout",
+      "summary": "Compare tabletop shapes on your plan, allowing for the base and chair approach.",
+      "sections": [
+        {
+          "heading": "Restaurant table: shape and layout",
+          "text": "Compare tabletop shapes on your plan, allowing for the base and chair approach."
+        },
+        {
+          "heading": "Identify the selected furniture",
+          "text": "The public page presents a furniture selection. It does not establish a manufacturer code, dimension or material for every visible item."
+        },
+        {
+          "heading": "Document finishes and test requirements",
+          "text": "Request a sample and a specification for the selected item. Resistance, fire and maintenance requirements must be confirmed for the configuration being ordered."
+        },
+        {
+          "heading": "Prepare the quotation and receiving plan",
+          "text": "Provide dimensioned drawings, quantities and destination. Agree the supply boundaries, packing, delivery access and installation responsibilities."
+        }
+      ],
       "checklist": [],
       "questions": [
-        "Seat count and tabletop shape",
-        "Desired dimensions and height",
-        "Tabletop finish and seating compatibility"
+        {
+          "q": "Does the visual prove delivery in my country?",
+          "a": "No. It is a catalogue reference, not evidence of local delivery."
+        },
+        {
+          "q": "Are dimensions and performance already verified?",
+          "a": "No. Verify them against the specification and sample for the selected items."
+        }
       ],
       "scope": "restaurant",
       "brand": "Hongye Furniture Group",
       "productReference": "hotel-ca-08",
       "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "updated": "2026-11-02",
+      "visibility": "public",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-restaurant-dining-tables-wood-round-square-hospitality-tables/"
     },
     {
       "id": "collections/bar-seating",
       "source": "https://hymobilier.com/en/collections/bar-seating/",
-      "title": "Bar and high seating",
-      "summary": "Review seat height against the actual counter and intended use.",
-      "sections": [],
+      "title": "Bar stool: coordinate seat and counter",
+      "summary": "Confirm the seat height against the selected counter and the required leg clearance.",
+      "sections": [
+        {
+          "heading": "Bar stool: coordinate seat and counter",
+          "text": "Confirm the seat height against the selected counter and the required leg clearance."
+        },
+        {
+          "heading": "Identify the selected furniture",
+          "text": "The public page presents a furniture selection. It does not establish a manufacturer code, dimension or material for every visible item."
+        },
+        {
+          "heading": "Document finishes and test requirements",
+          "text": "Request a sample and a specification for the selected item. Resistance, fire and maintenance requirements must be confirmed for the configuration being ordered."
+        },
+        {
+          "heading": "Prepare the quotation and receiving plan",
+          "text": "Provide dimensioned drawings, quantities and destination. Agree the supply boundaries, packing, delivery access and installation responsibilities."
+        }
+      ],
       "checklist": [],
       "questions": [
-        "Counter and seat height",
-        "Footrest and circulation",
-        "Upholstery and maintenance"
+        {
+          "q": "Does the visual prove delivery in my country?",
+          "a": "No. It is a catalogue reference, not evidence of local delivery."
+        },
+        {
+          "q": "Are dimensions and performance already verified?",
+          "a": "No. Verify them against the specification and sample for the selected items."
+        }
       ],
       "scope": "restaurant",
       "brand": "Hongye Furniture Group",
       "productReference": "hotel-ca-07",
       "relatedSources": [],
-      "updated": "2026-10-09",
-      "visibility": "public"
+      "updated": "2026-11-02",
+      "visibility": "public",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-high-back-barstools-for-upscale-hotel-lounges-bars/"
     },
     {
       "id": "collections/workstation",
@@ -1954,68 +2000,80 @@
     {
       "id": "collections/hotel-ca-05",
       "source": "https://hymobilier.com/en/collections/hotel-ca-05/",
-      "title": "Commercial Booth Seating High-Back Restaurant & Hotel Dining",
-      "summary": "Commercial Booth Seating High-Back Restaurant & Hotel Dining: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "High-back booth: planning each bay",
+      "summary": "Record wall returns and available depth before choosing the layout.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Commercial Booth Seating High-Back Restaurant & Hotel Dining is part of the group selection for hotels and hospitality, villas and private interiors. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "High-back booth: planning each bay",
+          "text": "Record wall returns and available depth before choosing the layout."
+        },
+        {
+          "heading": "Identify the selected furniture",
+          "text": "The public page presents a furniture selection. It does not establish a manufacturer code, dimension or material for every visible item."
+        },
+        {
+          "heading": "Document finishes and test requirements",
+          "text": "Request a sample and a specification for the selected item. Resistance, fire and maintenance requirements must be confirmed for the configuration being ordered."
+        },
+        {
+          "heading": "Prepare the quotation and receiving plan",
+          "text": "Provide dimensioned drawings, quantities and destination. Agree the supply boundaries, packing, delivery access and installation responsibilities."
+        }
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "Does the visual prove delivery in my country?",
+          "a": "No. It is a catalogue reference, not evidence of local delivery."
+        },
+        {
+          "q": "Are dimensions and performance already verified?",
+          "a": "No. Verify them against the specification and sample for the selected items."
+        }
       ],
       "productReference": "hotel-ca-05",
-      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-booth-seating-high-back-restaurant-hotel-dining/"
     },
     {
       "id": "collections/hotel-ca-06",
       "source": "https://hymobilier.com/en/collections/hotel-ca-06/",
-      "title": "Commercial Dining Booth Seating Hospitality Space Solutions",
-      "summary": "Commercial Dining Booth Seating Hospitality Space Solutions: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Dining booth: circulation and access",
+      "summary": "Separate service circulation from guest access and cleaning requirements.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-02",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Commercial Dining Booth Seating Hospitality Space Solutions is part of the group selection for hotels and hospitality. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "Room type or public area. Circulation, dimensions and access. Maintenance, finishes and equipment. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Dining booth: circulation and access",
+          "text": "Separate service circulation from guest access and cleaning requirements."
+        },
+        {
+          "heading": "Identify the selected furniture",
+          "text": "The public page presents a furniture selection. It does not establish a manufacturer code, dimension or material for every visible item."
+        },
+        {
+          "heading": "Document finishes and test requirements",
+          "text": "Request a sample and a specification for the selected item. Resistance, fire and maintenance requirements must be confirmed for the configuration being ordered."
+        },
+        {
+          "heading": "Prepare the quotation and receiving plan",
+          "text": "Provide dimensioned drawings, quantities and destination. Agree the supply boundaries, packing, delivery access and installation responsibilities."
+        }
       ],
       "questions": [
-        "Room type or public area",
-        "Circulation, dimensions and access",
-        "Maintenance, finishes and equipment"
+        {
+          "q": "Does the visual prove delivery in my country?",
+          "a": "No. It is a catalogue reference, not evidence of local delivery."
+        },
+        {
+          "q": "Are dimensions and performance already verified?",
+          "a": "No. Verify them against the specification and sample for the selected items."
+        }
       ],
       "productReference": "hotel-ca-06",
-      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
+      "originalSource": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/",
+      "sourceEvidence": "https://hysdfurniture.com/product/commercial-dining-booth-seating-hospitality-space-solutions/"
     },
     {
       "id": "collections/hotel-ca-10",
