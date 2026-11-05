@@ -3441,35 +3441,41 @@
     {
       "id": "collections/edu-ca-06",
       "source": "https://hymobilier.com/en/collections/edu-ca-06/",
-      "title": "Lecture Hall Desk Educational Student University College Classroom Desk",
-      "summary": "Lecture Hall Desk Educational Student University College Classroom Desk: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Lecture desks: organise the rows",
+      "summary": "Survey levels, access and sightlines to the board before setting seat counts. A photograph does not verify the permitted capacity of a room.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Lecture Hall Desk Educational Student University College Classroom Desk is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Lecture desks: organise the rows",
+          "text": "Survey levels, access and sightlines to the board before setting seat counts. A photograph does not verify the permitted capacity of a room."
+        },
+        {
+          "heading": "Fixings and cable routing",
+          "text": "Confirm fixing substrates and cable routes on the drawings. Sockets and equipment are included only when explicitly identified in the written proposal."
+        },
+        {
+          "heading": "Sample and finish",
+          "text": "Review samples and request item-specific specifications. Record the drawing revision and approved finishes before manufacture."
+        },
+        {
+          "heading": "Prepare receiving",
+          "text": "Define access, unloading, storage and assembly responsibilities in the new quotation. These recommendations do not describe an existing local delivery."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Does the visual confirm a manufacturer model?",
+          "a": "No. Verify the model and dimensions against documentation for the selected items."
+        },
+        {
+          "q": "Are performance and equipment included?",
+          "a": "They must be explicitly documented and agreed for the order; a photograph is insufficient."
+        }
       ],
       "productReference": "edu-ca-06",
-      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
+      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
     },
     {
       "id": "collections/edu-ca-07",
@@ -3507,101 +3513,119 @@
     {
       "id": "collections/edu-ca-08",
       "source": "https://hymobilier.com/en/collections/edu-ca-08/",
-      "title": "Dormitory Bunk Bed Student School Furniture",
-      "summary": "Dormitory Bunk Bed Student School Furniture: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Bunk-bed selection: check the room",
+      "summary": "Measure available height, openings and clearance around sleeping spaces. Specify storage and desks separately rather than assuming a complete room is included.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Dormitory Bunk Bed Student School Furniture is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Bunk-bed selection: check the room",
+          "text": "Measure available height, openings and clearance around sleeping spaces. Specify storage and desks separately rather than assuming a complete room is included."
+        },
+        {
+          "heading": "Document usage limits",
+          "text": "Request model-specific evidence for guardrails, access, compatible mattresses and load rating. The visual proves neither testing nor compliance."
+        },
+        {
+          "heading": "Sample and finish",
+          "text": "Review samples and request item-specific specifications. Record the drawing revision and approved finishes before manufacture."
+        },
+        {
+          "heading": "Prepare receiving",
+          "text": "Define access, unloading, storage and assembly responsibilities in the new quotation. These recommendations do not describe an existing local delivery."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Does the visual confirm a manufacturer model?",
+          "a": "No. Verify the model and dimensions against documentation for the selected items."
+        },
+        {
+          "q": "Are performance and equipment included?",
+          "a": "They must be explicitly documented and agreed for the order; a photograph is insufficient."
+        }
       ],
       "productReference": "edu-ca-08",
-      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
+      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
     },
     {
       "id": "collections/edu-ca-09",
       "source": "https://hymobilier.com/en/collections/edu-ca-09/",
-      "title": "Science Lab Workstation for K-12 Schools",
-      "summary": "Science Lab Workstation for K-12 Schools: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Laboratory workstation: describe the activity",
+      "summary": "Separate demonstrations, observation and practical work. Describe substances handled and intended operations before selecting a worktop.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Science Lab Workstation for K-12 Schools is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Laboratory workstation: describe the activity",
+          "text": "Separate demonstrations, observation and practical work. Describe substances handled and intended operations before selecting a worktop."
+        },
+        {
+          "heading": "Confirm technical interfaces",
+          "text": "Coordinate water, drainage, power and ventilation with the responsible specialists. A catalogue composition guarantees no chemical resistance or technical installation."
+        },
+        {
+          "heading": "Sample and finish",
+          "text": "Review samples and request item-specific specifications. Record the drawing revision and approved finishes before manufacture."
+        },
+        {
+          "heading": "Prepare receiving",
+          "text": "Define access, unloading, storage and assembly responsibilities in the new quotation. These recommendations do not describe an existing local delivery."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Does the visual confirm a manufacturer model?",
+          "a": "No. Verify the model and dimensions against documentation for the selected items."
+        },
+        {
+          "q": "Are performance and equipment included?",
+          "a": "They must be explicitly documented and agreed for the order; a photograph is insufficient."
+        }
       ],
       "productReference": "edu-ca-09",
-      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
+      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
     },
     {
       "id": "collections/edu-ca-10",
       "source": "https://hymobilier.com/en/collections/edu-ca-10/",
-      "title": "Central Science Lab Island for Education",
-      "summary": "Central Science Lab Island for Education: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Teaching island: coordinate the working sides",
+      "summary": "Define user groups, views towards the instructor and circulation around the island. A photograph cannot establish a safe workstation count.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Selection connected with your space",
-          "Central Science Lab Island for Education is part of the group selection for schools, universities and libraries. Connect this reference with a specific room or area, then identify quantities and layout constraints."
-        ],
-        [
-          "Review points for this reference",
-          "User age and learning activity. Layout, access and group capacity. Dimensions and project document requirements. Share desired dimensions, quantities and a drawing version to review the configuration."
-        ],
-        [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
-        ],
-        [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
-        ]
+        {
+          "heading": "Teaching island: coordinate the working sides",
+          "text": "Define user groups, views towards the instructor and circulation around the island. A photograph cannot establish a safe workstation count."
+        },
+        {
+          "heading": "Separate furniture from equipment",
+          "text": "List furniture, services, taps, sockets and apparatus separately. Confirm each supplier’s scope rather than inferring a complete technical package from the visual."
+        },
+        {
+          "heading": "Sample and finish",
+          "text": "Review samples and request item-specific specifications. Record the drawing revision and approved finishes before manufacture."
+        },
+        {
+          "heading": "Prepare receiving",
+          "text": "Define access, unloading, storage and assembly responsibilities in the new quotation. These recommendations do not describe an existing local delivery."
+        }
       ],
       "questions": [
-        "User age and learning activity",
-        "Layout, access and group capacity",
-        "Dimensions and project document requirements"
+        {
+          "q": "Does the visual confirm a manufacturer model?",
+          "a": "No. Verify the model and dimensions against documentation for the selected items."
+        },
+        {
+          "q": "Are performance and equipment included?",
+          "a": "They must be explicitly documented and agreed for the order; a photograph is insufficient."
+        }
       ],
       "productReference": "edu-ca-10",
-      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
+      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
     },
     {
       "id": "collections/edu-ca-11",

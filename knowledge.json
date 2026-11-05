@@ -2872,35 +2872,41 @@
     {
       "id": "collections/edu-ca-06",
       "source": "https://hymobilier.com/collections/edu-ca-06/",
-      "title": "Tables pour salle de cours universitaire",
-      "summary": "Tables pour salle de cours universitaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Tables de cours : organiser les rangées",
+      "summary": "Relevez les niveaux, les accès et la visibilité du tableau avant de fixer le nombre de places. Une photographie ne confirme pas la capacité autorisée de la salle.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Tables pour salle de cours universitaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Tables de cours : organiser les rangées",
+          "text": "Relevez les niveaux, les accès et la visibilité du tableau avant de fixer le nombre de places. Une photographie ne confirme pas la capacité autorisée de la salle."
+        },
+        {
+          "heading": "Fixations et câblage",
+          "text": "Faites confirmer les supports de fixation et les cheminements de câble sur les plans. Les prises et équipements ne sont inclus que si la proposition écrite les identifie."
+        },
+        {
+          "heading": "Échantillon et finition",
+          "text": "Examinez les échantillons et demandez les caractéristiques propres aux pièces retenues. Consignez la révision du plan et les finitions approuvées avant fabrication."
+        },
+        {
+          "heading": "Préparer la réception",
+          "text": "Précisez accès, déchargement, stockage et responsabilités de montage dans le nouveau devis. Ces recommandations ne décrivent pas une livraison locale déjà réalisée."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "Le visuel confirme-t-il un modèle fabricant ?",
+          "a": "Non. Le modèle et les dimensions doivent être vérifiés sur la documentation des pièces choisies."
+        },
+        {
+          "q": "Les performances et équipements sont-ils inclus ?",
+          "a": "Ils doivent être explicitement documentés et convenus pour la commande ; la photographie ne suffit pas."
+        }
       ],
       "productReference": "edu-ca-06",
-      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
+      "originalSource": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Lecture-Hall-Desk-Educational-Student-University-College-Classroom-Desk-pd516711838.html"
     },
     {
       "id": "collections/edu-ca-07",
@@ -2938,101 +2944,119 @@
     {
       "id": "collections/edu-ca-08",
       "source": "https://hymobilier.com/collections/edu-ca-08/",
-      "title": "Lit superposé pour dortoir étudiant",
-      "summary": "Lit superposé pour dortoir étudiant : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Lit superposé : vérifier la chambre",
+      "summary": "Mesurez la hauteur disponible, les ouvertures et les dégagements autour des couchages. Définissez séparément le rangement et le bureau au lieu de supposer une chambre complète incluse.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Lit superposé pour dortoir étudiant fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Lit superposé : vérifier la chambre",
+          "text": "Mesurez la hauteur disponible, les ouvertures et les dégagements autour des couchages. Définissez séparément le rangement et le bureau au lieu de supposer une chambre complète incluse."
+        },
+        {
+          "heading": "Documenter les limites d’utilisation",
+          "text": "Demandez la documentation du modèle choisi concernant garde-corps, accès, matelas compatible et charge admissible. Le visuel ne prouve ni essai ni conformité."
+        },
+        {
+          "heading": "Échantillon et finition",
+          "text": "Examinez les échantillons et demandez les caractéristiques propres aux pièces retenues. Consignez la révision du plan et les finitions approuvées avant fabrication."
+        },
+        {
+          "heading": "Préparer la réception",
+          "text": "Précisez accès, déchargement, stockage et responsabilités de montage dans le nouveau devis. Ces recommandations ne décrivent pas une livraison locale déjà réalisée."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "Le visuel confirme-t-il un modèle fabricant ?",
+          "a": "Non. Le modèle et les dimensions doivent être vérifiés sur la documentation des pièces choisies."
+        },
+        {
+          "q": "Les performances et équipements sont-ils inclus ?",
+          "a": "Ils doivent être explicitement documentés et convenus pour la commande ; la photographie ne suffit pas."
+        }
       ],
       "productReference": "edu-ca-08",
-      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
+      "originalSource": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Dormitory-Bunk-Bed-Student-School-Furniture-pd581251838.html"
     },
     {
       "id": "collections/edu-ca-09",
       "source": "https://hymobilier.com/collections/edu-ca-09/",
-      "title": "Poste de laboratoire scolaire",
-      "summary": "Poste de laboratoire scolaire : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Poste de laboratoire : décrire l’activité",
+      "summary": "Distinguez démonstration, observation et travaux pratiques. Décrivez les produits manipulés et les opérations prévues avant de sélectionner un plan de travail.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Poste de laboratoire scolaire fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Poste de laboratoire : décrire l’activité",
+          "text": "Distinguez démonstration, observation et travaux pratiques. Décrivez les produits manipulés et les opérations prévues avant de sélectionner un plan de travail."
+        },
+        {
+          "heading": "Interfaces techniques à confirmer",
+          "text": "Repérez eau, évacuation, électricité et ventilation avec les intervenants compétents. Une composition de catalogue ne garantit aucune résistance chimique ou installation technique."
+        },
+        {
+          "heading": "Échantillon et finition",
+          "text": "Examinez les échantillons et demandez les caractéristiques propres aux pièces retenues. Consignez la révision du plan et les finitions approuvées avant fabrication."
+        },
+        {
+          "heading": "Préparer la réception",
+          "text": "Précisez accès, déchargement, stockage et responsabilités de montage dans le nouveau devis. Ces recommandations ne décrivent pas une livraison locale déjà réalisée."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "Le visuel confirme-t-il un modèle fabricant ?",
+          "a": "Non. Le modèle et les dimensions doivent être vérifiés sur la documentation des pièces choisies."
+        },
+        {
+          "q": "Les performances et équipements sont-ils inclus ?",
+          "a": "Ils doivent être explicitement documentés et convenus pour la commande ; la photographie ne suffit pas."
+        }
       ],
       "productReference": "edu-ca-09",
-      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
+      "originalSource": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Science-Lab-Workstation-for-K-12-Schools-pd159685438.html"
     },
     {
       "id": "collections/edu-ca-10",
       "source": "https://hymobilier.com/collections/edu-ca-10/",
-      "title": "Îlot central pour laboratoire pédagogique",
-      "summary": "Îlot central pour laboratoire pédagogique : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Îlot pédagogique : coordonner les côtés de travail",
+      "summary": "Précisez les groupes d’utilisateurs, les vues vers l’enseignant et la circulation autour de l’îlot. La photographie ne permet pas de définir un nombre de postes sûr.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-04",
       "sections": [
-        [
-          "Une sélection reliée à votre espace",
-          "Îlot central pour laboratoire pédagogique fait partie de la sélection du groupe pour écoles, universités et bibliothèques. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
-        ],
-        [
-          "Les points à préciser pour cette référence",
-          "Âge des utilisateurs et activité pédagogique. Implantation, accès et capacité du groupe. Dimensions et documents requis par le projet. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
-        ],
-        [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
-        ],
-        [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
-        ]
+        {
+          "heading": "Îlot pédagogique : coordonner les côtés de travail",
+          "text": "Précisez les groupes d’utilisateurs, les vues vers l’enseignant et la circulation autour de l’îlot. La photographie ne permet pas de définir un nombre de postes sûr."
+        },
+        {
+          "heading": "Séparer mobilier et équipements",
+          "text": "Listez séparément meuble, réseaux, robinets, prises et appareils. Faites confirmer le périmètre de chaque fournisseur sans déduire un lot technique complet du visuel."
+        },
+        {
+          "heading": "Échantillon et finition",
+          "text": "Examinez les échantillons et demandez les caractéristiques propres aux pièces retenues. Consignez la révision du plan et les finitions approuvées avant fabrication."
+        },
+        {
+          "heading": "Préparer la réception",
+          "text": "Précisez accès, déchargement, stockage et responsabilités de montage dans le nouveau devis. Ces recommandations ne décrivent pas une livraison locale déjà réalisée."
+        }
       ],
       "questions": [
-        "Âge des utilisateurs et activité pédagogique",
-        "Implantation, accès et capacité du groupe",
-        "Dimensions et documents requis par le projet"
+        {
+          "q": "Le visuel confirme-t-il un modèle fabricant ?",
+          "a": "Non. Le modèle et les dimensions doivent être vérifiés sur la documentation des pièces choisies."
+        },
+        {
+          "q": "Les performances et équipements sont-ils inclus ?",
+          "a": "Ils doivent être explicitement documentés et convenus pour la commande ; la photographie ne suffit pas."
+        }
       ],
       "productReference": "edu-ca-10",
-      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
+      "originalSource": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html",
+      "sourceEvidence": "https://hyeducationfurniture.com/Central-Science-Lab-Island-for-Education-pd153865438.html"
     },
     {
       "id": "collections/edu-ca-11",
