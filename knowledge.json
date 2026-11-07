@@ -1932,68 +1932,86 @@
     {
       "id": "collections/med-ca-01",
       "source": "https://hymobilier.com/collections/med-ca-01/",
-      "title": "Table de chevet pour chambre de soins",
-      "summary": "Table de chevet pour chambre de soins : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Chevet de chambre de soins : organiser le rangement",
+      "summary": "Indiquez le côté du lit, les passages et le sens d’ouverture souhaité.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Table de chevet pour chambre de soins fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Position et accès",
+          "Indiquez le côté du lit, les passages et le sens d’ouverture souhaité. Reportez sur le plan les obstacles et les accès nécessaires au personnel ; les dimensions restent à confirmer pour la référence retenue."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Contenu à ranger",
+          "Distinguez les objets personnels, les consommables et les éléments devant être verrouillés. Un tiroir visible ou une mention commerciale ne prouve ni le type de serrure ni la liste des accessoires fournis."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Validation de la pièce",
+          "Demandez la fiche de la pièce retenue, un échantillon de finition et les instructions d’entretien du fabricant. Ne déduisez pas une compatibilité avec un désinfectant, une propriété antibactérienne ou une conformité médicale de la photographie."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Commande et réception",
+          "Séparez meuble, serrure, roulettes éventuelles et montage dans le devis. À réception, rapprochez les quantités, dimensions convenues et options de la commande écrite."
         ]
       ],
       "questions": [
-        "Fonction de la pièce et rôle des utilisateurs",
-        "Nettoyage, accès et rangement",
-        "Documents et exigences applicables au modèle retenu"
+        "Cette référence prouve-t-elle une certification médicale ?",
+        "Quels éléments joindre à la demande ?"
       ],
       "productReference": "med-ca-01",
-      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html",
+      "faq": [
+        {
+          "q": "Cette référence prouve-t-elle une certification médicale ?",
+          "a": "Non. Demandez les documents applicables à la pièce retenue ; une présence au catalogue ne prouve ni un statut de dispositif médical, ni une propriété antibactérienne, ni une aptitude à un procédé clinique."
+        },
+        {
+          "q": "Quels éléments joindre à la demande ?",
+          "a": "Transmettez le plan, la configuration, les quantités et la répartition des raccordements, du montage et de la réception. Les dimensions et options sont à confirmer sur le dessin de la pièce retenue."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-02",
       "source": "https://hymobilier.com/collections/med-ca-02/",
-      "title": "Paillasse de laboratoire avec évier",
-      "summary": "Paillasse de laboratoire avec évier : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Paillasse avec évier : définir les interfaces du projet",
+      "summary": "Décrivez les activités et les objets à poser avant de choisir l’implantation.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Paillasse de laboratoire avec évier fait partie de la sélection du groupe pour établissements de santé et espaces de soins. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Usages à décrire",
+          "Décrivez les activités et les objets à poser avant de choisir l’implantation. La référence publique présente une paillasse avec évier et tiroirs ; elle ne justifie pas une résistance chimique ou une fonction clinique."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Interfaces du bâtiment",
+          "Faites reporter les arrivées, évacuations et accès de maintenance par les intervenants du projet. Les raccordements, robinetteries et travaux du bâtiment doivent être explicitement attribués dans le périmètre de commande."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Plan et matériaux",
+          "Validez un plan coté ainsi que les matériaux du plateau, des façades et de la zone humide pour la pièce retenue. Les performances et les produits d’entretien autorisés exigent une documentation propre à cette sélection."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Réception des interfaces",
+          "Prévoyez une vérification des dimensions et des accès avant fabrication, puis une réception coordonnée des lots concernés. Les essais des installations relèvent des intervenants compétents, pas d’une déduction tirée de la photo."
         ]
       ],
       "questions": [
-        "Fonction de la pièce et rôle des utilisateurs",
-        "Nettoyage, accès et rangement",
-        "Documents et exigences applicables au modèle retenu"
+        "Cette référence prouve-t-elle une certification médicale ?",
+        "Quels éléments joindre à la demande ?"
       ],
       "productReference": "med-ca-02",
-      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html",
+      "faq": [
+        {
+          "q": "Cette référence prouve-t-elle une certification médicale ?",
+          "a": "Non. Demandez les documents applicables à la pièce retenue ; une présence au catalogue ne prouve ni un statut de dispositif médical, ni une propriété antibactérienne, ni une aptitude à un procédé clinique."
+        },
+        {
+          "q": "Quels éléments joindre à la demande ?",
+          "a": "Transmettez le plan, la configuration, les quantités et la répartition des raccordements, du montage et de la réception. Les dimensions et options sont à confirmer sur le dessin de la pièce retenue."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-03",
@@ -2130,35 +2148,44 @@
     {
       "id": "collections/med-ca-07",
       "source": "https://hymobilier.com/collections/med-ca-07/",
-      "title": "Banc trois places pour salle d’attente",
-      "summary": "Banc trois places pour salle d’attente : préparez votre sélection avec les dimensions, les usages et les finitions de votre projet.",
+      "title": "Banquette d’attente : organiser les places et la circulation",
+      "summary": "Reportez les portes, les passages et les zones d’attente sur le plan.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Une sélection reliée à votre espace",
-          "Banc trois places pour salle d’attente fait partie de la sélection du groupe pour établissements de santé et espaces de soins, institutions, administrations et espaces publics. Reliez cette référence à une pièce ou une zone précise, puis indiquez la quantité souhaitée et les contraintes du plan."
+          "Implantation",
+          "Reportez les portes, les passages et les zones d’attente sur le plan. Le titre public décrit une version trois places ; ne généralisez pas cette configuration ni ses dimensions à toutes les variantes."
         ],
         [
-          "Les points à préciser pour cette référence",
-          "Fonction de la pièce et rôle des utilisateurs. Nettoyage, accès et rangement. Documents et exigences applicables au modèle retenu. Communiquez les dimensions souhaitées, les quantités et une version du plan pour examiner la configuration."
+          "Composition commandée",
+          "Précisez le nombre d’unités, les positions et les options souhaitées. Les accoudoirs, les assises, les pieds et une fixation éventuelle doivent correspondre au dessin approuvé."
         ],
         [
-          "Matériaux, documents et validation",
-          "Les photographies permettent de comparer les compositions. Les matériaux, finitions, performances, documents et conditions de garantie doivent être confirmés pour le modèle choisi ; les données d’une autre référence ne constituent pas une spécification."
+          "Usage et documents",
+          "Demandez les caractéristiques et instructions d’entretien de la pièce sélectionnée. La photo ne démontre ni charge admissible, ni réaction au feu, ni propriété antibactérienne."
         ],
         [
-          "Préparer la demande et la réception",
-          "Séparez les articles, les accessoires et les prestations demandées. La fabrication, l’emballage, le transport, l’importation et le montage sont à confirmer dans le périmètre de votre proposition."
+          "Livraison et montage",
+          "Clarifiez le conditionnement, les accès et le montage. Contrôlez à réception les pièces et options commandées avant installation selon les instructions applicables."
         ]
       ],
       "questions": [
-        "Fonction de la pièce et rôle des utilisateurs",
-        "Nettoyage, accès et rangement",
-        "Documents et exigences applicables au modèle retenu"
+        "Cette référence prouve-t-elle une certification médicale ?",
+        "Quels éléments joindre à la demande ?"
       ],
       "productReference": "med-ca-07",
-      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html",
+      "faq": [
+        {
+          "q": "Cette référence prouve-t-elle une certification médicale ?",
+          "a": "Non. Demandez les documents applicables à la pièce retenue ; une présence au catalogue ne prouve ni un statut de dispositif médical, ni une propriété antibactérienne, ni une aptitude à un procédé clinique."
+        },
+        {
+          "q": "Quels éléments joindre à la demande ?",
+          "a": "Transmettez le plan, la configuration, les quantités et la répartition des raccordements, du montage et de la réception. Les dimensions et options sont à confirmer sur le dessin de la pièce retenue."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-08",

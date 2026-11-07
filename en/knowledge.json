@@ -2501,68 +2501,86 @@
     {
       "id": "collections/med-ca-01",
       "source": "https://hymobilier.com/en/collections/med-ca-01/",
-      "title": "Hospital Plastic ABS Bedside Cabinet with Drawers",
-      "summary": "Hospital Plastic ABS Bedside Cabinet with Drawers: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Care-room bedside storage: define the contents",
+      "summary": "Mark the bed side, circulation route and required opening direction on the room plan.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Selection connected with your space",
-          "Hospital Plastic ABS Bedside Cabinet with Drawers is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Locate the cabinet",
+          "Mark the bed side, circulation route and required opening direction on the room plan. Confirm dimensions for the selected item rather than copying a measurement from another cabinet."
         ],
         [
-          "Review points for this reference",
-          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Separate storage needs",
+          "List personal belongings, consumables and anything requiring controlled access. A visible drawer does not establish lock type, accessory inclusion or suitability for storing medicines."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Request item documents",
+          "Ask for the selected-item data sheet, finish sample and manufacturer cleaning instructions. Do not infer disinfectant compatibility, antibacterial performance or medical compliance from a catalogue photograph."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Define acceptance",
+          "List cabinet, locking options, any castors and assembly separately. Check delivered quantities, agreed dimensions and ordered options against the written order."
         ]
       ],
       "questions": [
-        "Room function and user roles",
-        "Cleaning, access and storage",
-        "Documents and requirements for the selected model"
+        "Does this reference establish medical certification?",
+        "What should accompany the procurement request?"
       ],
       "productReference": "med-ca-01",
-      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/hospital-plastic-abs-bedside-cabinet-with-drawers.html",
+      "faq": [
+        {
+          "q": "Does this reference establish medical certification?",
+          "a": "No. Request applicable selected-item documentation; catalogue identity does not establish medical-device status, antibacterial performance or suitability for a clinical process."
+        },
+        {
+          "q": "What should accompany the procurement request?",
+          "a": "Provide a room plan, the required configuration, quantities and the responsibilities for connections, assembly and acceptance. Confirm dimensions and options against the selected-item drawing."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-02",
       "source": "https://hymobilier.com/en/collections/med-ca-02/",
-      "title": "Lab Bench with Sink And Drawers for Hospital Lab",
-      "summary": "Lab Bench with Sink And Drawers for Hospital Lab: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Sink bench selection: coordinate project interfaces",
+      "summary": "List the activities and objects to be accommodated before choosing a layout.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Selection connected with your space",
-          "Lab Bench with Sink And Drawers for Hospital Lab is part of the group selection for healthcare and care facilities. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Describe the activity",
+          "List the activities and objects to be accommodated before choosing a layout. The public reference describes a sink bench with drawers; it does not establish chemical resistance or a clinical function."
         ],
         [
-          "Review points for this reference",
-          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Allocate building connections",
+          "Have the project team mark supplies, drainage and maintenance access. Assign responsibility for taps, connections and building works explicitly; a sink in a picture does not define the equipment package."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Approve the selected construction",
+          "Request a dimensioned drawing and selected-item information for the worktop, fronts and wet area. Performance and permitted cleaning products need specific documentation."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Coordinate acceptance",
+          "Check site dimensions and access before manufacture and agree the handover interfaces between trades. Testing building services belongs to competent project parties rather than catalogue interpretation."
         ]
       ],
       "questions": [
-        "Room function and user roles",
-        "Cleaning, access and storage",
-        "Documents and requirements for the selected model"
+        "Does this reference establish medical certification?",
+        "What should accompany the procurement request?"
       ],
       "productReference": "med-ca-02",
-      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/lab-bench-withsink-and-drawers.html",
+      "faq": [
+        {
+          "q": "Does this reference establish medical certification?",
+          "a": "No. Request applicable selected-item documentation; catalogue identity does not establish medical-device status, antibacterial performance or suitability for a clinical process."
+        },
+        {
+          "q": "What should accompany the procurement request?",
+          "a": "Provide a room plan, the required configuration, quantities and the responsibilities for connections, assembly and acceptance. Confirm dimensions and options against the selected-item drawing."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-03",
@@ -2699,35 +2717,44 @@
     {
       "id": "collections/med-ca-07",
       "source": "https://hymobilier.com/en/collections/med-ca-07/",
-      "title": "3 Seater Waiting Room Benches Seating For Sale",
-      "summary": "3 Seater Waiting Room Benches Seating For Sale: prepare your project selection with dimensions, intended use and finish references.",
+      "title": "Waiting benches: plan positions and circulation",
+      "summary": "Mark doors, circulation and waiting zones on the plan.",
       "visibility": "public",
-      "updated": "2026-10-10",
+      "updated": "2026-11-06",
       "sections": [
         [
-          "Selection connected with your space",
-          "3 Seater Waiting Room Benches Seating For Sale is part of the group selection for healthcare and care facilities, government, institutions and public spaces. Connect this reference with a specific room or area, then identify quantities and layout constraints."
+          "Plan the waiting area",
+          "Mark doors, circulation and waiting zones on the plan. The public title describes a three-place version; do not extend that configuration or its dimensions to every variant."
         ],
         [
-          "Review points for this reference",
-          "Room function and user roles. Cleaning, access and storage. Documents and requirements for the selected model. Share desired dimensions, quantities and a drawing version to review the configuration."
+          "Define the ordered assembly",
+          "Specify unit quantities, positions and required options. Armrests, seats, legs and any fixing arrangement must match the approved drawing."
         ],
         [
-          "Materials, documents and approval",
-          "Photographs support composition comparisons. Materials, finishes, performance, documentation and warranties require confirmation for the selected model; data from another item is not a specification."
+          "Request selected-item evidence",
+          "Obtain specifications and care instructions for the selected assembly. A photograph does not establish load rating, fire performance or antibacterial properties."
         ],
         [
-          "Preparing the request and receiving",
-          "Separate items, accessories and requested services. Manufacturing, packing, transport, importation and installation must be confirmed in your proposal scope."
+          "Arrange delivery and assembly",
+          "Clarify packaging, access and assembly responsibility. Match received components and ordered options before installation under the applicable instructions."
         ]
       ],
       "questions": [
-        "Room function and user roles",
-        "Cleaning, access and storage",
-        "Documents and requirements for the selected model"
+        "Does this reference establish medical certification?",
+        "What should accompany the procurement request?"
       ],
       "productReference": "med-ca-07",
-      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html"
+      "originalSource": "https://www.hyhealthcarefurniture.com/3-seater-waiting-room-benches.html",
+      "faq": [
+        {
+          "q": "Does this reference establish medical certification?",
+          "a": "No. Request applicable selected-item documentation; catalogue identity does not establish medical-device status, antibacterial performance or suitability for a clinical process."
+        },
+        {
+          "q": "What should accompany the procurement request?",
+          "a": "Provide a room plan, the required configuration, quantities and the responsibilities for connections, assembly and acceptance. Confirm dimensions and options against the selected-item drawing."
+        }
+      ]
     },
     {
       "id": "collections/med-ca-08",
