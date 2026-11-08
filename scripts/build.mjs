@@ -8,7 +8,10 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'), out=
 const projectRefs=JSON.parse(fs.readFileSync(path.join(root,'src/project-library.json'),'utf8'));
 const assetMap=JSON.parse(fs.readFileSync(path.join(root,'src/asset-map.json'),'utf8'));
 for(const p of products)p.image=assetMap[p.source];
-fs.mkdirSync(out,{recursive:true}); fs.cpSync(path.join(root,'public'),out,{recursive:true});
+fs.mkdirSync(out,{recursive:true});
+// Robust recursive copy: fs.cpSync crashes (0xC0000409) on some Windows dirs; per-file copy is stable.
+const copyTree=(src,dst)=>{fs.mkdirSync(dst,{recursive:true});for(const e of fs.readdirSync(src,{withFileTypes:true})){const s2=path.join(src,e.name),d2=path.join(dst,e.name);if(e.isDirectory())copyTree(s2,d2);else fs.copyFileSync(s2,d2);}};
+copyTree(path.join(root,'public'),out);
 const SITE='https://hymobilier.com', esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const url=s=>s?`/${s}/`:'/', find=s=>all.find(p=>p.slug===s), date=contentUpdated;
 const nav=[['professionnels','Professionnels'],['maison','Maison'],['collections','Collections'],['projets','Projets'],['ressources','Guides']];

@@ -1,0 +1,214 @@
+{
+  "batch": "2026-11-08",
+  "topic": "Le mobilier du hall d’hôtel : ce qui fait varier le devis / Hotel lobby furniture: what moves the quote",
+  "audience": "Hôteliers, architectes d’intérieur et acheteurs FF&E qui reçoivent des devis de mobilier de hall et doivent comprendre pourquoi les montants divergent avant de comparer.",
+  "searchIntent": "Comprendre quels composants et quelles décisions de spécification font varier le prix d’un devis de mobilier de hall, comment ramener deux propositions à une base commune et quels coûts apparaissent après la signature.",
+  "duplicateCheck": "Distinct de ressources/amenagement-lobby-hotel-zones-circulation (découpage en zones et circulation) et de ressources/comparer-devis (méthode générale de comparaison) : ici, l’angle est la décomposition des facteurs de prix spécifiques au mobilier de hall.",
+  "factsPolicy": "Aucune donnée tarifaire, remise ou pourcentage. Aucun délai de livraison, agrément détenu, volume de production, nombre de projets ni quantité minimale de commande. Les facteurs de variation sont décrits qualitativement ; chaque vérification renvoie au dossier fournisseur, au plan ou à l’échantillon. Aucune marque hôtelière, mobilière ou de matériau tierce.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可引用空间图像；正文只写城市+国家（Zanzibar, Tanzanie），不写客户名，不改写为法国/摩洛哥交付"
+    }
+  },
+  "author": "Hongye Furniture Group Editorial Team",
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "reviewedAt": "2026-11-08",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/mobilier-hall-hotel-variations-devis/",
+    "en": "https://hymobilier.com/en/resources/hotel-lobby-furniture-quote-variance/"
+  },
+  "sources": [
+    {
+      "url": "https://hymobilier.com/projets/hos-018/",
+      "facts": "Dossier de projet documenté, utilisé comme référence d’espaces (lobby, chambre, restaurant, piscine) avec images. Aucune allégation de livraison en France ou au Maroc."
+    },
+    {
+      "url": "https://hymobilier.com/ressources/comparer-devis/",
+      "facts": "Méthode de comparaison de devis sur une base commune ; utilisée comme lecture complémentaire, sans reprise de chiffres."
+    }
+  ],
+  "routeMapping": {
+    "ressources/mobilier-hall-hotel-variations-devis": "resources/hotel-lobby-furniture-quote-variance"
+  },
+  "cta": {
+    "fr": "/contact/",
+    "en": "/en/contact/"
+  },
+  "fr": {
+    "slug": "ressources/mobilier-hall-hotel-variations-devis",
+    "title": "Le mobilier du hall d’hôtel : ce qui fait varier le devis",
+    "short": "Comprendre le devis du hall",
+    "description": "Familles de mobilier, niveau de personnalisation, caractéristiques invisibles, emballage et services : ce qui explique l’écart entre deux devis de mobilier de hall d’hôtel.",
+    "image": "/images/library/lobby-quote-drivers.webp",
+    "imageAlt": "Zone de détente d’un hall d’hôtel avec assises courbes sous une charpente de bois lamellé, image d’ambiance de la banque d’images interne",
+    "imageCaption": "Image d’ambiance de la banque d’images interne du groupe, sans marque ni projet nommé. Référence visuelle, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Deux devis établis pour des halls de surface comparable peuvent s’écarter fortement l’un de l’autre, et l’écart ne s’explique presque jamais par la seule marge du fabricant. Il vient de ce que chaque devis comprend sous « mobilier de hall » : quelles familles entrent, à quel niveau de personnalisation, avec quelles caractéristiques internes et quels services. Ce guide décompose ces facteurs pour ramener les propositions à une base comparable.",
+    "sections": [
+      [
+        "Pourquoi deux devis pour un même hall divergent-ils ?",
+        "La première cause est le périmètre. Un devis qui couvre les assises, les tables, la banque d’accueil et les accessoires n’est pas comparable à un devis limité aux seules assises : le reste réapparaît plus tard en dépenses annexes. La deuxième cause est le niveau de personnalisation ; une pièce de catalogue retouchée ne se chifffre pas comme un dessin original avec prototype et échantillon dédié. La troisième réunit les caractéristiques invisibles — structure, garnissage, tests — que la photo d’intention ne montre pas. La quatrième est logistique : emballage, transport et réception sur site peuvent rester hors du montant affiché."
+      ],
+      [
+        "Quelles familles doivent figurer dans le devis ?",
+        "Un devis complet nomme chaque famille sur sa propre ligne : assises d’attente et de détente, tables basses et d’appoint, banque d’accueil, et compléments comme la consigne à bagages, la séparation d’espace, les jardinières ou le portemanteau. Chaque famille porte sa quantité et son document de contrôle : plan d’atelier pour la banque d’accueil, fiche matériau pour les assises, schéma d’emballage pour l’ensemble. Un devis qui ne cite pas le document n’a généralement pas budgété ce qu’il couvre. Préparer le hall avec la même méthode que la liste de mobilier hôtelier évite les oublis qui se transforment en suppléments."
+      ],
+      [
+        "Personnalisation : catalogue, adapté ou sur mesure ?",
+        "Trois niveaux coexistent. L’ajustement de catalogue conserve l’ouvrage existant et ne change que le tissu, la laque ou le ton du bois ; l’outillage est partagé entre projets. L’adaptation modifie des dimensions, ajoute une prise ou renforce une structure ; une préparation supplémentaire s’ajoute. Le sur mesure part de vos dessins : prototype, échantillon dédié et validation par le comité avant la série. L’erreur courante consiste à demander un « style propre » avec un budget de catalogue ; quand le comité valide un dessin original au troisième tour, la reprise du prototype revient comme poste distinct si le devis l’excluait."
+      ],
+      [
+        "Quelles caractéristiques invisibles pèsent sur le prix ?",
+        "Trois couches échappent à l’image de présentation. La structure d’abord : sections du cadre, matériau et renforts aux points d’appui ; une assise d’usage intensif se conçoit pour des essais d’usage non domestique. Le confort ensuite : densité et hauteur de la mousse, système de suspension et tenue du garnissage ; une mousse à haute résilience garde sa forme après des milliers de cycles et sa matière se lit dans le devis. La conformité enfin : réaction au feu des tissus et documents de lot qui permettent de suivre chaque série. Pour vérifier cette couche, exigez une fiche technique qui cite l’essai, un échantillon physique approuvé contre ce document et le droit d’inspection en fabrication."
+      ],
+      [
+        "Comment ramener deux devis à une base commune ?",
+        "Avant de poser deux montants côte à côte, uniformisez cinq points : périmètre des familles, niveau de personnalisation, spécification des assises, standard d’emballage et condition de livraison. Chaque écart devient une question précise : le prototype et l’échantillon sont-ils inclus ou facturés à part, l’emballage export est-il dans le prix, quels travaux sur site restent séparés. La méthode détaillée de comparaison des devis sur une base commune fournit la trame ; appliquée au hall, elle transforme un écart de prix en liste de périmètres différents."
+      ],
+      [
+        "Quels coûts apparaissent après la signature ?",
+        "Trois sources reviennent. L’emballage et le transport : un montant hors taxes à l’embarquement ne couvre ni le conteneur, ni l’assurance, ni la livraison sur site. Le montage : un hall se pose dans un établissement en exploitation ou dans une ouverture au calendrier serré, avec les contraintes d’ascenseur de service et de travail de nuit. Les tours de reprise : chaque changement d’après échantillon approuvé rouvre la fabrication, et les devis limitent le nombre de tours gratuits. Demandez que ce nombre soit écrit dans le devis, pas dans un courrier ultérieur."
+      ]
+    ],
+    "caseNote": "À titre de référence d’espaces, un projet hôtelier à Zanzibar (Tanzanie) documente un hall, une chambre, un restaurant et une piscine. Ces images servent à discuter des compositions et des proportions d’un hall ; elles ne décrivent pas une livraison en France ou au Maroc et n’engagent aucune marque.",
+    "checklist": [
+      "Périmètre des familles par ligne",
+      "Niveau de personnalisation par famille",
+      "Fiche technique avec essai cité pour les assises",
+      "Échantillon approuvé contre document",
+      "Standard d’emballage et condition de livraison",
+      "Nombre de tours de reprise inclus"
+    ],
+    "products": [
+      "banque-accueil",
+      "salon-residentiel"
+    ],
+    "links": [
+      "professionnels/hotels",
+      "ressources/comparer-devis",
+      "ressources/liste-mobilier-hotel",
+      "services/echantillons"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "mobilier-hall-devis-variance.csv",
+    "faqs": [
+      {
+        "question": "Quels documents demander avant un premier chiffrage ?",
+        "answer": "Le plan coté du hall, le découpage en zones, et pour chaque zone les familles attendues avec leur niveau de personnalisation. Ces éléments suffisent à cadrer un périmètre comparable ; le chiffrage sans périmètre écrit produit des montants difficiles à comparer."
+      },
+      {
+        "question": "Pourquoi une assise de hall coûte-t-elle plus qu’une assise domestique ?",
+        "answer": "L’usage intensif multiplie les cycles d’assise et les opérations de nettoyage. La structure, la densité de la mousse et les tissus sont alors spécifiés pour cet usage et vérifiés par des essais, ce qui pèse sur le prix mais protège le budget de remplacement."
+      },
+      {
+        "question": "L’emballage export fait-il partie du prix ?",
+        "answer": "Cela dépend de la condition de vente retenue. Demandez que le standard d’emballage, le calage et la palette apparaissent comme une ligne du devis, afin de savoir si le montant affiché couvre la protection jusqu’à la réception sur site."
+      },
+      {
+        "question": "Combien de tours de reprise prévoir ?",
+        "answer": "Prévoyez les ajustements de teinte ou de matière avant l’approbation de l’échantillon ; après approbation, chaque changement de conception rouvre la fabrication. Faites inscrire dans le devis le nombre de tours de reprise inclus et le point à partir duquel une reprise devient facturable."
+      },
+      {
+        "question": "Faut-il regrouper le hall avec les autres espaces communs ?",
+        "answer": "Regrouper élargit la discussion et aligne les finitions, à condition que le devis reste découpé par espace. Vous gardez ainsi la possibilité d’approuver, de décaler ou d’alléger chaque espace sans renégocier l’ensemble."
+      }
+    ]
+  },
+  "en": {
+    "slug": "resources/hotel-lobby-furniture-quote-variance",
+    "title": "Hotel lobby furniture: what moves the quote",
+    "short": "Understanding the lobby quote",
+    "description": "Furniture families, customization level, invisible specifications, packaging and services: what explains the gap between two hotel lobby furniture quotes.",
+    "image": "/images/library/lobby-quote-drivers.webp",
+    "imageAlt": "Hotel lobby lounge with curved seating under a glulam timber ceiling — in-house reference image",
+    "imageCaption": "Atmosphere image from the group’s internal image bank, with no branding and no named project. Visual reference only, not an announcement of delivery in France or Morocco.",
+    "intro": "Two quotes prepared for lobbies of comparable size can diverge widely, and the gap is almost never explained by the manufacturer’s margin alone. It comes from what each quote understands by “lobby furniture”: which families are included, at what customization level, with which internal specifications and which services. This guide breaks those factors down so the proposals can be brought back to a comparable basis.",
+    "sections": [
+      [
+        "Why do two quotes for the same lobby diverge?",
+        "The first cause is scope. A quote covering seating, tables, the reception desk and accessories is not comparable to one limited to seating: the rest reappears later as add-on costs. The second cause is the customization level; an adjusted catalogue piece is not priced like an original drawing with a dedicated prototype and sample. The third gathers the invisible specifications — frame, cushioning, testing — that the mood image never shows. The fourth is logistics: packaging, transport and site reception can stay outside the displayed amount."
+      ],
+      [
+        "Which furniture families should the quote include?",
+        "A complete quote names each family on its own line: waiting and lounge seating, coffee and side tables, the reception desk, and accessories such as a luggage bench, space divider, planters or a coat stand. Each family carries its quantity and its control document: a workshop drawing for the reception desk, a material sheet for the seating, a packing scheme for the whole set. A quote that does not cite the document usually has not budgeted what it covers. Preparing the lobby with the same method as the hotel furniture schedule prevents omissions that turn into supplements."
+      ],
+      [
+        "Customization: catalogue, adapted or bespoke?",
+        "Three levels coexist. Catalogue adjustment keeps the existing design and changes only the fabric, lacquer or wood tone; tooling is shared across projects. Adaptation changes dimensions, adds a socket or reinforces a structure; extra preparation is added. Bespoke starts from your drawings: a prototype, a dedicated sample and committee validation before the series. The common mistake is to ask for a “distinctive style” with a catalogue budget; when the committee validates an original drawing at the third round, the prototype rework returns as a separate line if the quote excluded it."
+      ],
+      [
+        "Which invisible specifications weigh on the price?",
+        "Three layers escape the presentation image. Structure first: frame sections, material and reinforcements at the support points; intensive-use seating is designed for non-domestic usage tests. Comfort next: foam density and height, the suspension system and the resilience of the filling; high-resilience foam keeps its shape after thousands of cycles and its raw material shows in the quote. Compliance finally: the fire behaviour of the fabrics and the lot documents that allow each batch to be traced. To check this layer, require a technical sheet that cites the test, a physical sample approved against that document, and the right to inspect during production."
+      ],
+      [
+        "How to bring two quotes to a common basis?",
+        "Before placing two amounts side by side, align five points: family scope, customization level, seating specification, packing standard and delivery term. Each gap becomes a precise question: are the prototype and the sample included or billed separately, is export packing inside the price, which on-site works stay separate. The detailed method for comparing quotations on a common basis provides the framework; applied to the lobby, it turns a price gap into a list of different scopes."
+      ],
+      [
+        "Which costs appear after the signature?",
+        "Three sources recur. Packaging and transport: a figure on FOB terms covers neither the container, nor the insurance, nor the delivery to site. Installation: a lobby is fitted in a hotel in operation or in an opening on a tight schedule, with service-lift and night-work constraints. Revision rounds: every change after the approved sample reopens production, and quotes limit the number of free rounds. Ask for that number to be written in the quote, not in a later email."
+      ]
+    ],
+    "caseNote": "As a space reference, a hotel project in Zanzibar (Tanzania) documents a lobby, a guestroom, a restaurant and a pool. These images support a discussion about lobby compositions and proportions; they do not describe a delivery in France or Morocco and imply no brand commitment.",
+    "checklist": [
+      "Furniture scope line by line",
+      "Customization level per family",
+      "Technical sheet with cited test for seating",
+      "Sample approved against document",
+      "Packing standard and delivery term",
+      "Number of revision rounds included"
+    ],
+    "links": [
+      "professionals/hotels",
+      "resources/compare-quotations",
+      "resources/hotel-furniture-schedule",
+      "services/samples"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "hotel-lobby-quote-variance.csv",
+    "faqs": [
+      {
+        "question": "Which documents should be requested before a first price?",
+        "answer": "The dimensioned plan of the lobby, the zoning, and for each zone the expected families with their customization level. These elements are enough to frame a comparable scope; a price requested without a written scope produces amounts that are hard to compare."
+      },
+      {
+        "question": "Why does a lobby seat cost more than a domestic one?",
+        "answer": "Intensive use multiplies seating cycles and cleaning operations. The frame, the foam density and the fabrics are then specified for that usage and verified through tests, which weighs on the price but protects the replacement budget."
+      },
+      {
+        "question": "Is export packing part of the price?",
+        "answer": "It depends on the agreed sales term. Ask for the packing standard, the internal protection and the palletising to appear as a line of the quote, so you know whether the displayed amount covers protection up to site reception."
+      },
+      {
+        "question": "How many revision rounds should be planned?",
+        "answer": "Plan tone or material adjustments before the sample approval; after approval, every design change reopens production. Have the number of revision rounds included in the quote written down, together with the point at which a rework becomes billable."
+      },
+      {
+        "question": "Should the lobby be grouped with the other common areas?",
+        "answer": "Grouping widens the discussion and aligns finishes, provided the quote stays split by space. You keep the option to approve, postpone or lighten each space without renegotiating the whole."
+      }
+    ],
+    "products": [
+      "banque-accueil",
+      "salon-residentiel"
+    ]
+  }
+}
