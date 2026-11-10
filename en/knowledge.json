@@ -1582,15 +1582,17 @@
       "title": "Project: JinShuiWan Hotel — China",
       "summary": "JinShuiWan Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-11-11",
+      "procurementDiscussion": "New-order advice is separate from historical delivery facts"
     },
     {
       "id": "projets/hos-013",
       "source": "https://hymobilier.com/en/projets/hos-013/",
-      "title": "Project: Leezy Hotel — China",
-      "summary": "Leezy Hotel is a group reference in the hotels category, located in China. The visuals above come from the corresponding document or the group project library.",
+      "title": "Project: Leezy Hotel — Asia",
+      "summary": "Leezy Hotel is a group reference in the hotels category, located in Asia. The visuals above come from the corresponding document or the group project library.",
       "visibility": "public",
-      "updated": "2026-10-10"
+      "updated": "2026-11-11",
+      "procurementDiscussion": "New-order advice is separate from historical delivery facts"
     },
     {
       "id": "projets/off-008",
