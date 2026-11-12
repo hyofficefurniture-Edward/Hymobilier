@@ -1,0 +1,206 @@
+{
+  "batch": "2026-11-12",
+  "topic": "Tête de lit d'hôtel : prises, lampes de lecture et protection murale / Hotel headboard wall: outlets, reading lights and wall protection",
+  "audience": "Hôteliers, architectes d'intérieur, bureaux d'études et acheteurs FF&E qui spécifient le mur de tête de lit et doivent coordonner meuble, électricité et finitions avant commande.",
+  "searchIntent": "Comprendre quels décisions de spécification structurent un mur de tête de lit fonctionnel : hauteur de pose des prises et lampes de lecture, commande de l'éclairage, finitions de protection murale et coordination sur plan avec la tête de lit et les tables de chevet.",
+  "duplicateCheck": "Distinct de ressources/mobilier-chambre-hotel-niveau-gamme (niveau de gamme du mobilier de chambre, pas de coordination murale) et de resources/hotel-room-furniture-tier. Angle ici : le mur de tête de lit comme interface meuble-électricité-finitions. Cross-language note : un article EN sur le même thème existe sur un site soeur différent (hysdfurniture.com) ; hymobilier.com reste sa propre base d'URL.",
+  "factsPolicy": "Aucun tarif, remise ou pourcentage. Aucun délai de livraison, agrément détenu, volume de production, nombre de projets ni quantité minimale de commande. Les hauteurs et cotes usuelles sont présentées comme points à arrêter sur plan avec l'électricien et l'architecte, jamais comme des normes citées. Aucune marque hôtelière, mobilière ou de matériau tierce.",
+  "caseIds": [
+    "HOS-018"
+  ],
+  "casePermissionCheck": {
+    "blocklistFile": "case_blocklist.json (2026-08-25)",
+    "caseDatabaseFile": "case_study_database.json (2026-08-25)",
+    "HOS-018": {
+      "name": "TOA Hotel & Spa Zanzibar",
+      "country": "Tanzania",
+      "public_level": "L3",
+      "allowed_usage": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "blocked": false,
+      "verdict": "可引用空间图像；正文只写城市+国家（Zanzibar, Tanzanie），不写客户名，不改写为法国/摩洛哥交付"
+    }
+  },
+  "author": "Hongye Furniture Group Editorial Team",
+  "status": "draft-not-published",
+  "reviewStatus": "pending",
+  "reviewedAt": "2026-11-12",
+  "expectedUrls": {
+    "fr": "https://hymobilier.com/ressources/tete-de-lit-hotel-prises-lecture-protection/",
+    "en": "https://hymobilier.com/en/resources/hotel-headboard-wall-outlets-reading-lights/"
+  },
+  "sources": [
+    "Coordination usuelle FF&E : plan architectural coté, plan électrique synchronisé, despiece du mobilier, échantillons validés, maquette de pose (mock-up).",
+    "J6 scan 2026-11-11 : SERP francophone sur « tête de lit hôtel prises hauteur » pauvre en contenu de spécification ; contenus riches surtout anglophones et sur sites frères."
+  ],
+  "routeMapping": {
+    "ressources/tete-de-lit-hotel-prises-lecture-protection": "resources/hotel-headboard-wall-outlets-reading-lights"
+  },
+  "cta": {
+    "fr": "Envoyez le plan de la chambre et le schéma électrique prévisionnel depuis notre formulaire /professionnels/hotels ; nous revenons avec une proposition de coordination mur-mobilier et une liste de points à arrêter avant commande.",
+    "en": "Send the room layout and the provisional electrical scheme from our /professionals/hotels form; we come back with a wall-furniture coordination proposal and a list of points to settle before ordering."
+  },
+  "fr": {
+    "slug": "ressources/tete-de-lit-hotel-prises-lecture-protection",
+    "title": "Tête de lit d'hôtel : prises, lampes de lecture et protection murale",
+    "short": "Spécifier le mur de tête de lit",
+    "description": "Hauteur de pose des prises et lampes de lecture, commande de l'éclairage, finitions de protection murale et coordination sur plan : les décisions qui rendent un mur de tête de lit fonctionnel dès la première nuit d'exploitation.",
+    "image": "/images/library/headboard-wall-detail.webp",
+    "imageAlt": "Mur de tête de lit de chambre d'hôtel avec panneaux de bois, deux lampes de lecture murales et prises à hauteur de lit, image d'ambiance de la banque d'images du groupe",
+    "imageCaption": "Image d'ambiance générée pour la banque d'images interne du groupe, sans marque ni projet nommé. Référence visuelle, pas une annonce de livraison en France ou au Maroc.",
+    "intro": "Le mur de tête de lit concentre, sur quelques mètres carrés, la plupart des reprises signalées après ouverture d'une chambre : une prise oubliée, une lampe de lecture mal orientée, un revêtement marqué par les têtes de lit roulées. La cause n'est presque jamais le meuble lui-même ; elle vient d'une coordination tardive entre le plan d'électricité, le despiece du mobilier et le choix des finitions. Cet article détaille les décisions à arrêter sur plan, dans quel ordre, et quels documents figer avant commande.",
+    "sections": [
+      [
+        "Pourquoi le mur de tête de lit se décide-t-il avant le choix du lit ?",
+        "Dans une chambre d'hôtel, le mur de tête de lit n'est pas une décoration : c'est une interface. D'un côté la menuiserie et le garnissage, de l'autre les points électriques, la commande d'éclairage et les finitions qui doivent résister à l'usage quotidien. Tant que la largeur du lit, la position des tables de chevet et le débord de la tête de lit ne sont pas arrêtés, la position des prises et des lampes reste suspendue. Si l'électricien Pose avant réception du despiece, les points tombent derrière des panneaux pleins ou, pire, dans l'axe d'un chevet qui les cache. L'ordre correct est donc : plan de la chambre arrêté, despiece du mur validé, puis report des points électriques sur la vue en élévation du mur. Cette séquence évite la majorité des reprises et s'applique aussi bien en rénovation qu'en construction neuve."
+      ],
+      [
+        "À quelle hauteur poser prises et lampes de lecture ?",
+        "Les hauteurs usuelles se fixent sur plan, avec l'électricien et l'architecte, à partir de trois repères : la hauteur finie du sol, le dessus du sommier ou du lit posé, et le dessus de la table de chevet. Une prise posée trop bas devient inaccessible dès que la tête de lit est montée ; une lampe posée trop haut éclaire le visage du lecteur au lieu de la page. La méthode fiable consiste à dessiner le mur en élévation réelle, à y tracer la personne assise dans le lit, puis à positionner les points par rapport à cette silhouette, non par rapport au mur nu. Chaque projet retient ensuite ses propres cotes ; elles se figent sur le plan d'exécution et se vérifient sur la maquette de pose avant la série."
+      ],
+      [
+        "Lampes de lecture : quelle orientation et quelle commande ?",
+        "Une lampe de lecture d'hôtel se juge à trois choses : l'orientation du faisceau, la commande et l'indépendance des côtés. Le faisceau doit éclairer la page sans franchir l'axe du lit ; c'est l'orientation du corps de lampe, plus que sa puissance, qui décide du confort. La commande doit être accessible sans se redresser, depuis la position assise, et ne pas dépendre de l'interrupteur général de la chambre. Enfin, chaque côté du lit se commande séparément : deux voyageurs ne lisent pas en même temps dans la même chambre. Sur plan, ces trois exigences se traduisent par une fiche technique par luminaire et un point de commande par côté, reportés sur l'élévation du mur avec le despiece du mobilier."
+      ],
+      [
+        "Protection murale : que spécifier au-dessus et autour du lit ?",
+        "La zone la plus sollicitée du mur est celle que la photo d'intention ne montre jamais : la bande où les têtes appuient, où les bagages s'appuient pendant le ménage, où la housse du lit frotte à chaque changement. Les finitions y sont choisies pour être lavables et réparables : panneaux bois vernis ou stratifiés pour le cadre, tissus techniques avec enduction pour les surfaces souples, protection repliable derrière la tête de lit quand le projet prévoit des chambres communicantes. La spécification distingue la zone de contact, qui reçoit le revêtement le plus résistant, des bandes supérieures, plus décoratives. Ces zones se définissent sur l'élévation, ligne par ligne, et chaque revêtement se valide par échantillon approuvé contre document."
+      ],
+      [
+        "Comment coordonner le mur avec le mobilier sur plan ?",
+        "La coordination se joue sur une vue unique : l'élévation du mur de tête de lit, sur laquelle se superposent la tête de lit, les tables de chevet, les points électriques et les lampes. Trois vérifications y sont systématiques. Première vérification : l'axe des prises tombe-t-il hors du volume caché par la tête de lit et hors du volume occupé par le chevet ? Deuxième vérification : le rebord de la table de chevet laisse-t-il la prise accessible sans déplacer le mobilier ? Troisième vérification : les tolérances de pose de la menuiserie (quelques millimètres par panneau) n'ont-elles pas absorbé la réserve nécessaire au passage des câbles ? Cette vue, signée par le mobilier et l'électricité avant commande, remplace avantageusement les allers-retours par courriel pendant la pose."
+      ],
+      [
+        "Quels documents figer avant commande ?",
+        "Quatre documents suffisent à sécuriser un mur de tête de lit. Le plan architectural coté de la chambre, qui donne les repères de hauteur. Le plan électrique synchronisé, où chaque point est numéroté et reporté sur l'élévation du mur. Le despiece du mobilier avec sections cotées, qui montre ce que la menuiserie cache et ce qu'elle laisse accessible. Et le procès-verbal de la maquette de pose, qui valide en atelier ou sur site une chambre témoin avant la série. À titre de référence d'espaces, un projet hôtelier à Zanzibar (Tanzanie) documente des chambres dont les murs de tête de lit associent panneaux bois, lampes murales et chevets suspendus ; ces images servent à discuter des compositions, elles ne décrivent pas une livraison en France ou au Maroc et n'engagent aucune marque."
+      ]
+    ],
+    "caseNote": "À titre de référence d'espaces, un projet hôtelier à Zanzibar (Tanzanie) documente des chambres et leurs murs de tête de lit. Ces images servent à discuter des compositions et des proportions ; elles ne décrivent pas une livraison en France ou au Maroc et n'engagent aucune marque.",
+    "checklist": [
+      "Plan d'implantation du mur coté sur plan architecte",
+      "Points électriques : prises, USB, interrupteurs synchronisés",
+      "Lampes de lecture : modèle, orientation, commande par côté",
+      "Revêtements de protection par zone de contact et zone haute",
+      "Alignement mobilier : tête de lit et chevets sur élévation commune",
+      "Maquette de pose et procès-verbal de validation avant série"
+    ],
+    "products": [
+      "ensemble-chambre-hotel"
+    ],
+    "links": [
+      "professionnels/hotels",
+      "ressources/comparer-devis",
+      "ressources/liste-mobilier-hotel",
+      "services/echantillons"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "tete-de-lit-specifications.csv",
+    "faqs": [
+      {
+        "question": "Les prises doivent-elles être intégrées au mobilier ou au mur ?",
+        "answer": "Les deux solutions coexistent et se décident sur l'élévation commune. Une prise murale reste accessible si elle tombe hors du volume de la tête de lit et du chevet ; une prise intégrée au chevet raccourcit les câbles mais rend le mobilier dépendant de l'électricité. Le plan signé par les deux lots tranche."
+      },
+      {
+        "question": "Quelle hauteur prévoir pour les lampes de lecture ?",
+        "answer": "La hauteur se fixe sur l'élévation réelle du mur, en traçant la personne assise dans le lit : le faisceau doit atteindre la page sans éclairer le visage. Les cotes définitives se figent sur le plan d'exécution et se vérifient sur la maquette de pose."
+      },
+      {
+        "question": "Faut-il prévoir une commande d'éclairage près du lit ?",
+        "answer": "Oui, une commande accessible depuis la position assise, indépendante de l'interrupteur général de la chambre, et séparée pour chaque côté du lit. C'est le point le plus signalé par les équipes d'exploitation après ouverture."
+      },
+      {
+        "question": "Quel revêtement choisir pour la protection murale ?",
+        "answer": "La zone de contact direct reçoit le revêtement le plus résistant : bois vernis, stratifié ou tissu technique enduction lavable. Les bandes supérieures, moins sollicitées, peuvent être plus décoratives. Chaque revêtement se valide par échantillon approuvé contre document."
+      },
+      {
+        "question": "Comment éviter les reprises après pose ?",
+        "answer": "En figeant quatre documents avant commande : plan coté, plan électrique synchronisé, despiece du mobilier et procès-verbal de maquette de pose. La coordination se joue sur une élévation unique signée par les deux lots, pas sur des échanges de courriel pendant la pose."
+      }
+    ]
+  },
+  "en": {
+    "slug": "resources/hotel-headboard-wall-outlets-reading-lights",
+    "title": "Hotel headboard wall: power outlets, reading lights and wall protection",
+    "short": "Specify the headboard wall",
+    "description": "Mounting heights for outlets and reading lights, bedside control, wall-protection finishes and plan-level coordination: the decisions that make a hotel headboard wall work from the first night of operation.",
+    "image": "/images/library/headboard-wall-detail.webp",
+    "imageAlt": "Hotel guest room headboard wall with timber panelling, two wall-mounted reading lamps and bedside-height outlets, in-house library reference image",
+    "imageCaption": "Reference image generated for the group's internal library, no brand and no named project. Visual reference, not an announcement of a delivery in any specific country.",
+    "intro": "The headboard wall concentrates, on a few square metres, most of the rework reported after a guest room opens: an outlet nobody can reach, a reading lamp aimed at the reader's face, a finish marked by rolled headboards. The cause is almost never the furniture itself; it is late coordination between the electrical plan, the furniture shop drawings and the choice of finishes. This article sets out the decisions to settle on plan, in which order, and which documents to freeze before ordering.",
+    "sections": [
+      [
+        "Why is the headboard wall decided before the bed is chosen?",
+        "In a hotel guest room the headboard wall is not decoration; it is an interface. On one side sit joinery and upholstery, on the other electrical points, lighting control and finishes that must survive daily use. Until the bed width, the nightstand positions and the headboard overhang are fixed, outlet and lamp positions remain hanging. If the electrician works ahead of the shop drawings, points end up behind solid panels or, worse, inside the volume a nightstand hides. The correct order is therefore: room layout frozen, wall shop drawings approved, then electrical points transferred onto the wall elevation. That sequence removes most rework and applies to renovation as much as to new build."
+      ],
+      [
+        "At what height should outlets and reading lights be mounted?",
+        "Usual heights are settled on plan, together with the electrician and the architect, from three references: finished floor level, the top of the mattress or made-up bed, and the top of the nightstand. An outlet set too low becomes unreachable once the headboard is installed; a lamp set too high lights the reader's face instead of the page. The reliable method is to draw the wall at true scale, trace a seated reader on it, and place every point relative to that silhouette rather than to the bare wall. Each project then fixes its own dimensions; they are frozen on the execution drawing and checked on the mock-up before series production."
+      ],
+      [
+        "Reading lights: what aiming and what control?",
+        "A hotel reading lamp is judged on three things: beam aim, control, and independence of each side. The beam must light the page without crossing the bed axis; it is the lamp body orientation, more than its output, that decides comfort. Control must be reachable without sitting up, from the seated position, and independent of the room's master switch. Finally, each side of the bed is switched separately: two guests do not read at the same time. On plan these requirements translate into one technical sheet per luminaire and one control point per side, transferred onto the wall elevation together with the furniture shop drawings."
+      ],
+      [
+        "Wall protection: what should be specified above and around the bed?",
+        "The most stressed band of the wall is the one no render shows: the strip where heads rest, where luggage leans during housekeeping, where the bed runner rubs at every turn-down. Finishes there are chosen to be washable and repairable: lacquered timber panels or laminates for the frame, coated technical fabrics for soft surfaces, fold-down protection behind the headboard where connecting rooms are planned. The specification separates the contact zone, which receives the toughest finish, from the upper bands, which can be more decorative. These zones are defined line by line on the elevation, and every finish is validated by an approved sample against a document."
+      ],
+      [
+        "How is the wall coordinated with the furniture on plan?",
+        "Coordination happens on a single view: the headboard wall elevation, on which the headboard, nightstands, electrical points and lamps are overlaid. Three checks are systematic. First, does each outlet axis fall outside the volume hidden by the headboard and outside the volume occupied by the nightstand? Second, does the nightstand top edge leave the outlet reachable without moving furniture? Third, have the joinery installation tolerances (a few millimetres per panel) absorbed the allowance needed for cable routes? This one view, signed by both the furniture and electrical packages before ordering, replaces weeks of email loops during installation."
+      ],
+      [
+        "Which documents should be frozen before ordering?",
+        "Four documents are enough to secure a headboard wall. The dimensioned architectural plan of the room, which provides the height references. The coordinated electrical plan, where every point is numbered and transferred onto the wall elevation. The furniture shop drawings with dimensioned sections, which show what the joinery hides and what it leaves accessible. And the sign-off report of the mock-up, which validates a sample room in the workshop or on site before series production. As a space reference, a hotel project in Zanzibar (Tanzania) documents guest rooms whose headboard walls combine timber panels, wall lamps and floating nightstands; those images serve to discuss compositions, they do not describe a delivery in any specific country and involve no brand."
+      ]
+    ],
+    "caseNote": "As a space reference, a hotel project in Zanzibar (Tanzania) documents guest rooms and their headboard walls. These images serve to discuss compositions and proportions; they do not describe a delivery in any specific country and involve no brand.",
+    "checklist": [
+      "Wall layout dimensioned on the architectural plan",
+      "Electrical points: outlets, USB, switches coordinated",
+      "Reading lights: model, aiming, control per side",
+      "Protection finishes by contact zone and upper band",
+      "Furniture alignment: headboard and nightstands on one elevation",
+      "Mock-up and signed validation report before series"
+    ],
+    "links": [
+      "professionals/hotels",
+      "resources/compare-quotations",
+      "resources/hotel-furniture-schedule",
+      "services/samples"
+    ],
+    "projectLinks": [
+      "hos-018"
+    ],
+    "download": "headboard-wall-specifications.csv",
+    "faqs": [
+      {
+        "question": "Should outlets be integrated into the furniture or the wall?",
+        "answer": "Both work and the choice is made on the shared elevation. A wall outlet stays reachable if it falls outside the headboard and nightstand volumes; an outlet integrated into the nightstand shortens cables but makes the furniture depend on the electrical package. The plan signed by both packages settles it."
+      },
+      {
+        "question": "What height should reading lights be mounted at?",
+        "answer": "The height is fixed on the true-scale wall elevation by tracing a seated reader: the beam should reach the page without lighting the face. Final dimensions are frozen on the execution drawing and checked on the mock-up."
+      },
+      {
+        "question": "Is a bedside lighting control necessary?",
+        "answer": "Yes, a control reachable from the seated position, independent of the room master switch, and separate for each side of the bed. It is the point most often reported by housekeeping teams after opening."
+      },
+      {
+        "question": "Which finish should be chosen for wall protection?",
+        "answer": "The direct contact zone receives the toughest finish: lacquered timber, laminate or washable coated technical fabric. Upper bands, less stressed, can be more decorative. Every finish is validated by an approved sample against a document."
+      },
+      {
+        "question": "How can post-installation rework be avoided?",
+        "answer": "By freezing four documents before ordering: the dimensioned plan, the coordinated electrical plan, the furniture shop drawings and the mock-up sign-off report. Coordination happens on one elevation signed by both packages, not on email exchanges during installation."
+      }
+    ],
+    "products": [
+      "ensemble-chambre-hotel"
+    ]
+  }
+}
