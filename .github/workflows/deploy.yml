@@ -28,8 +28,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+  # 2026-11-14 修复：Pages 当前 source = legacy（gh-pages 分支），由
+  # _publish_hymobilier_production.py 推送。deploy-pages 只在 Pages source
+  # 切到 "GitHub Actions" 后才有效，否则本 job 必然失败并把 CI 标红。
+  # 用仓库变量 PAGES_SOURCE=actions 显式开启；未设置时跳过，保留 build+check 门禁。
   deploy:
     needs: build
+    if: vars.PAGES_SOURCE == 'actions'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
