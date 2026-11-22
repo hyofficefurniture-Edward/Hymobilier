@@ -1346,6 +1346,56 @@
       ],
       "updated": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "en/projets/hos-001",
+      "source": "https://hymobilier.com/en/projets/hos-001/",
+      "title": "Airport Fliport Hotel, Lanzhou: preparing an international hotel-furniture brief",
+      "summary": "The group identifies Airport Fliport Hotel in Lanzhou, China, with guestroom and shared-space references. This Chinese hotel is an international group reference, not a completed installation in France or Francophone Africa.",
+      "visibility": "public",
+      "updated": "2026-11-23",
+      "relatedSources": [
+        "https://www.hyhotelfurniture.com/airport-fliport-hotel-hospitality-project-solution-by-hongye-furniture.html"
+      ],
+      "images": [
+        "https://hymobilier.com/images/candidate-stage/hos-001-guestroom.jpg"
+      ],
+      "questions": [
+        {
+          "question": "Does this photograph identify a furniture model?",
+          "answer": "No. Select a documented product separately; the project image does not verify a manufacturer SKU."
+        },
+        {
+          "question": "Is this a local project in the destination market?",
+          "answer": "No. The verified reference is in Lanzhou, China. A new destination requires its own scope and delivery agreement."
+        }
+      ]
+    },
+    {
+      "id": "en/projets/hos-002",
+      "source": "https://hymobilier.com/en/projets/hos-002/",
+      "title": "Aurum on Missouri, Nigeria: defining a hotel furniture brief",
+      "summary": "The group project article identifies Aurum on Missouri in Maitama, Abuja. The hotel operator independently confirms the Nigerian location. This is an African hospitality reference, not evidence of a delivery in France or a different destination.",
+      "visibility": "public",
+      "updated": "2026-11-23",
+      "relatedSources": [
+        "https://www.hyhotelfurniture.com/Aurum-on-Missouri-Hospitality-Project-Solution-By-Hongye-Furniture-id44616665.html",
+        "https://aurumonmissouri.com/about-us/"
+      ],
+      "images": [
+        "https://hymobilier.com/images/candidate-stage/hos-002-lobby.jpg",
+        "https://hymobilier.com/images/candidate-stage/hos-002-conference.jpg"
+      ],
+      "questions": [
+        {
+          "question": "Does the reference prove local stock or installation services?",
+          "answer": "No. The documented property is in Abuja, Nigeria. Destination-specific stock, transport and installation arrangements must be agreed for the new order."
+        },
+        {
+          "question": "Does this reference verify a manufacturer model?",
+          "answer": "No. Select and verify models and specifications separately for a new order."
+        }
+      ]
     }
   ]
 }

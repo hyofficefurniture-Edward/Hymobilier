@@ -3649,6 +3649,56 @@
       "visibility": "public",
       "updated": "2026-10-21",
       "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html"
+    },
+    {
+      "id": "projets/hos-001",
+      "source": "https://hymobilier.com/projets/hos-001/",
+      "title": "Airport Fliport Hotel à Lanzhou : une référence d’aménagement hôtelier",
+      "summary": "Le groupe présente Airport Fliport Hotel à Lanzhou, en Chine, avec des chambres et des espaces communs. Cette référence internationale reste distincte des projets livrés en Afrique francophone ou en France.",
+      "visibility": "public",
+      "updated": "2026-11-23",
+      "relatedSources": [
+        "https://www.hyhotelfurniture.com/airport-fliport-hotel-hospitality-project-solution-by-hongye-furniture.html"
+      ],
+      "images": [
+        "https://hymobilier.com/images/candidate-stage/hos-001-guestroom.jpg"
+      ],
+      "questions": [
+        {
+          "question": "La photographie identifie-t-elle un modèle de meuble ?",
+          "answer": "Non. Il faut sélectionner séparément un produit documenté ; la photographie du projet ne confirme pas une référence fabricant."
+        },
+        {
+          "question": "Est-ce un projet local dans le marché de destination ?",
+          "answer": "Non. La référence vérifiée se situe à Lanzhou, en Chine. Une nouvelle destination exige un périmètre et des conditions de livraison propres."
+        }
+      ]
+    },
+    {
+      "id": "projets/hos-002",
+      "source": "https://hymobilier.com/projets/hos-002/",
+      "title": "Aurum on Missouri : une référence hôtelière au Nigeria",
+      "summary": "La présentation du groupe situe Aurum on Missouri dans le quartier de Maitama, à Abuja. Le site de l’établissement confirme cette localisation au Nigeria. Cette référence ne démontre pas une implantation locale du groupe dans un autre pays.",
+      "visibility": "public",
+      "updated": "2026-11-23",
+      "relatedSources": [
+        "https://www.hyhotelfurniture.com/Aurum-on-Missouri-Hospitality-Project-Solution-By-Hongye-Furniture-id44616665.html",
+        "https://aurumonmissouri.com/about-us/"
+      ],
+      "images": [
+        "https://hymobilier.com/images/candidate-stage/hos-002-lobby.jpg",
+        "https://hymobilier.com/images/candidate-stage/hos-002-conference.jpg"
+      ],
+      "questions": [
+        {
+          "question": "Cette référence est-elle située dans un pays francophone ?",
+          "answer": "La localisation vérifiée est Abuja, au Nigeria. Ne la présentez pas comme une livraison dans un autre pays."
+        },
+        {
+          "question": "La référence confirme-t-elle un modèle fabricant ?",
+          "answer": "Non. Les modèles et les spécifications d’une nouvelle commande doivent être sélectionnés et vérifiés séparément."
+        }
+      ]
     }
   ]
 }
